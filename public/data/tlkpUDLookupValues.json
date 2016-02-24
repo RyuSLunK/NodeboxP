@@ -1,0 +1,4860 @@
+[
+  {
+    "LkpValue": 1,
+    "LkpCode": 1,
+    "ValueDescription": "Administrator",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 2,
+    "LkpCode": 1,
+    "ValueDescription": "Audiologist",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 3,
+    "LkpCode": 1,
+    "ValueDescription": "Clinical Psychologist",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 4,
+    "LkpCode": 1,
+    "ValueDescription": "Development Psychologist",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 5,
+    "LkpCode": 1,
+    "ValueDescription": "Early Childhood Educator",
+    "SortOrder": 8,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 6,
+    "LkpCode": 1,
+    "ValueDescription": "Educational Diagnostician",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 7,
+    "LkpCode": 1,
+    "ValueDescription": "Graduate Student – Psych",
+    "SortOrder": 9,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 8,
+    "LkpCode": 1,
+    "ValueDescription": "Graduate Student – SLP",
+    "SortOrder": 10,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 20,
+    "LkpCode": 1,
+    "ValueDescription": "Graduate Student – Other",
+    "SortOrder": 11,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 21,
+    "LkpCode": 1,
+    "ValueDescription": "Industrial Organizational Psychologist",
+    "SortOrder": 17,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 22,
+    "LkpCode": 1,
+    "ValueDescription": "Neuropsychology Psychologist",
+    "SortOrder": 12,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 23,
+    "LkpCode": 1,
+    "ValueDescription": "Occupational Therapist",
+    "SortOrder": 13,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 24,
+    "LkpCode": 1,
+    "ValueDescription": "Physical Therapist",
+    "SortOrder": 15,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 25,
+    "LkpCode": 1,
+    "ValueDescription": "Psychometrist",
+    "SortOrder": 22,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 26,
+    "LkpCode": 1,
+    "ValueDescription": "School Psychologist",
+    "SortOrder": 25,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 27,
+    "LkpCode": 1,
+    "ValueDescription": "Speech Language Pathologist",
+    "SortOrder": 26,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 28,
+    "LkpCode": 1,
+    "ValueDescription": "Supervisor",
+    "SortOrder": 27,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 29,
+    "LkpCode": 1,
+    "ValueDescription": "Teacher",
+    "SortOrder": 28,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 30,
+    "LkpCode": 1,
+    "ValueDescription": "Other",
+    "SortOrder": 29,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 77,
+    "LkpCode": 4,
+    "ValueDescription": "Speaks English",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 79,
+    "LkpCode": 4,
+    "ValueDescription": "Speaks Spanish",
+    "SortOrder": 3,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 80,
+    "LkpCode": 4,
+    "ValueDescription": "Understands Spanish",
+    "SortOrder": 4,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 81,
+    "LkpCode": 5,
+    "ValueDescription": "High School Diploma",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 82,
+    "LkpCode": 5,
+    "ValueDescription": "Associate's Degree",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 83,
+    "LkpCode": 5,
+    "ValueDescription": "Bachelor's Degree",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 84,
+    "LkpCode": 5,
+    "ValueDescription": "Master's Degree",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 85,
+    "LkpCode": 5,
+    "ValueDescription": "Doctorate",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 86,
+    "LkpCode": 6,
+    "ValueDescription": "Audiology",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 87,
+    "LkpCode": 6,
+    "ValueDescription": "Counseling",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 88,
+    "LkpCode": 6,
+    "ValueDescription": "Education",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 89,
+    "LkpCode": 6,
+    "ValueDescription": "Educational Diagnostician",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 90,
+    "LkpCode": 6,
+    "ValueDescription": "Learning Disability",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 91,
+    "LkpCode": 6,
+    "ValueDescription": "Medical and Health Professions Studies",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 92,
+    "LkpCode": 6,
+    "ValueDescription": "Occupational Therapy",
+    "SortOrder": 8,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 93,
+    "LkpCode": 6,
+    "ValueDescription": "Physical Therapy",
+    "SortOrder": 10,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 94,
+    "LkpCode": 6,
+    "ValueDescription": "Psychology",
+    "SortOrder": 12,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 95,
+    "LkpCode": 6,
+    "ValueDescription": "Reading Specialist",
+    "SortOrder": 13,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 96,
+    "LkpCode": 6,
+    "ValueDescription": "Social Sciences",
+    "SortOrder": 14,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 97,
+    "LkpCode": 6,
+    "ValueDescription": "Social Work",
+    "SortOrder": 15,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 98,
+    "LkpCode": 6,
+    "ValueDescription": "Special Education",
+    "SortOrder": 16,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 99,
+    "LkpCode": 6,
+    "ValueDescription": "Speech Language Pathology/ Communication Disorders",
+    "SortOrder": 17,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 100,
+    "LkpCode": 7,
+    "ValueDescription": "Dr",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 101,
+    "LkpCode": 7,
+    "ValueDescription": "Miss",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 102,
+    "LkpCode": 7,
+    "ValueDescription": "Mr",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 103,
+    "LkpCode": 7,
+    "ValueDescription": "Mrs",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 104,
+    "LkpCode": 7,
+    "ValueDescription": "Ms",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 105,
+    "LkpCode": 7,
+    "ValueDescription": "Professor",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 106,
+    "LkpCode": 8,
+    "ValueDescription": "American Indian",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 107,
+    "LkpCode": 8,
+    "ValueDescription": "Alaska Native",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 108,
+    "LkpCode": 8,
+    "ValueDescription": "Asian",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 109,
+    "LkpCode": 8,
+    "ValueDescription": "Black/African American",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 110,
+    "LkpCode": 8,
+    "ValueDescription": "Hispanic or Latino/a",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 111,
+    "LkpCode": 8,
+    "ValueDescription": "Pacific Islander",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 112,
+    "LkpCode": 8,
+    "ValueDescription": "White",
+    "SortOrder": 9,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 113,
+    "LkpCode": 8,
+    "ValueDescription": "Other",
+    "SortOrder": 10,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 115,
+    "LkpCode": 9,
+    "ValueDescription": "Clinic",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 116,
+    "LkpCode": 9,
+    "ValueDescription": "Day Care",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 117,
+    "LkpCode": 9,
+    "ValueDescription": "Hospital",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 118,
+    "LkpCode": 9,
+    "ValueDescription": "Learning Center",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 119,
+    "LkpCode": 9,
+    "ValueDescription": "Long Term Care",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 120,
+    "LkpCode": 9,
+    "ValueDescription": "Private Practice",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 121,
+    "LkpCode": 9,
+    "ValueDescription": "Private Schools",
+    "SortOrder": 8,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 122,
+    "LkpCode": 9,
+    "ValueDescription": "Public Schools",
+    "SortOrder": 9,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 123,
+    "LkpCode": 9,
+    "ValueDescription": "Rehabilitation",
+    "SortOrder": 10,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 124,
+    "LkpCode": 9,
+    "ValueDescription": "Retired",
+    "SortOrder": 11,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 125,
+    "LkpCode": 9,
+    "ValueDescription": "Other",
+    "SortOrder": 12,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 126,
+    "LkpCode": 10,
+    "ValueDescription": "APO AA",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 127,
+    "LkpCode": 10,
+    "ValueDescription": "APO AE",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 128,
+    "LkpCode": 10,
+    "ValueDescription": "APO AP",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 129,
+    "LkpCode": 10,
+    "ValueDescription": "Australia",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 130,
+    "LkpCode": 10,
+    "ValueDescription": "Austria",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 131,
+    "LkpCode": 10,
+    "ValueDescription": "Brazil",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 132,
+    "LkpCode": 10,
+    "ValueDescription": "Canada",
+    "SortOrder": 7,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 133,
+    "LkpCode": 11,
+    "ValueDescription": "Achievement",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 134,
+    "LkpCode": 11,
+    "ValueDescription": "Behavioral",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 135,
+    "LkpCode": 11,
+    "ValueDescription": "Hearing",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 136,
+    "LkpCode": 11,
+    "ValueDescription": "Intelligence",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 137,
+    "LkpCode": 11,
+    "ValueDescription": "Motor/Physical Assessments",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 138,
+    "LkpCode": 11,
+    "ValueDescription": "Neuropsychological",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 139,
+    "LkpCode": 11,
+    "ValueDescription": "Personality",
+    "SortOrder": 8,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 140,
+    "LkpCode": 11,
+    "ValueDescription": "Sensory",
+    "SortOrder": 9,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 141,
+    "LkpCode": 11,
+    "ValueDescription": "Speech-Language",
+    "SortOrder": 10,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 142,
+    "LkpCode": 11,
+    "ValueDescription": "Other",
+    "SortOrder": 11,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 143,
+    "LkpCode": 12,
+    "ValueDescription": "Infants",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 144,
+    "LkpCode": 12,
+    "ValueDescription": "Preschoolers",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 145,
+    "LkpCode": 12,
+    "ValueDescription": "Elementary",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 146,
+    "LkpCode": 12,
+    "ValueDescription": "Secondary",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 147,
+    "LkpCode": 12,
+    "ValueDescription": "High School",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 148,
+    "LkpCode": 12,
+    "ValueDescription": "College",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 149,
+    "LkpCode": 12,
+    "ValueDescription": "Adult",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 150,
+    "LkpCode": 12,
+    "ValueDescription": "Geriatrics",
+    "SortOrder": 8,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 151,
+    "LkpCode": 13,
+    "ValueDescription": "Attended 8th grade or less",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 152,
+    "LkpCode": 13,
+    "ValueDescription": "Attended grade 9 to 12, no HS diploma",
+    "SortOrder": 2,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 153,
+    "LkpCode": 13,
+    "ValueDescription": "High School diploma, GED",
+    "SortOrder": 3,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 154,
+    "LkpCode": 13,
+    "ValueDescription": "Some college credit, no degree",
+    "SortOrder": 4,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 155,
+    "LkpCode": 13,
+    "ValueDescription": "Associate Degree (for example, AA, AS)",
+    "SortOrder": 5,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 156,
+    "LkpCode": 13,
+    "ValueDescription": "Undergraduate degree (for example, BA, BS, BBA)",
+    "SortOrder": 6,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 157,
+    "LkpCode": 13,
+    "ValueDescription": "Graduate or Professional degree (MA, MS, JD, MD)",
+    "SortOrder": 7,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 158,
+    "LkpCode": 14,
+    "ValueDescription": "Clinic",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 159,
+    "LkpCode": 14,
+    "ValueDescription": "Day Care",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 160,
+    "LkpCode": 14,
+    "ValueDescription": "Districts",
+    "SortOrder": 3,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 161,
+    "LkpCode": 14,
+    "ValueDescription": "Hospice",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 162,
+    "LkpCode": 14,
+    "ValueDescription": "Hospital",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 163,
+    "LkpCode": 14,
+    "ValueDescription": "Learning Centers",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 164,
+    "LkpCode": 14,
+    "ValueDescription": "Private Practice",
+    "SortOrder": 8,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 165,
+    "LkpCode": 14,
+    "ValueDescription": "Religious Organization",
+    "SortOrder": 10,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 166,
+    "LkpCode": 14,
+    "ValueDescription": "School",
+    "SortOrder": 11,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 167,
+    "LkpCode": 14,
+    "ValueDescription": "Social Service Organization",
+    "SortOrder": 12,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 168,
+    "LkpCode": 14,
+    "ValueDescription": "University",
+    "SortOrder": 13,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 169,
+    "LkpCode": 14,
+    "ValueDescription": "Other",
+    "SortOrder": 14,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 170,
+    "LkpCode": 15,
+    "ValueDescription": "PK",
+    "SortOrder": 2,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 171,
+    "LkpCode": 15,
+    "ValueDescription": "K",
+    "SortOrder": 3,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 173,
+    "LkpCode": 15,
+    "ValueDescription": 1,
+    "SortOrder": 4,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 174,
+    "LkpCode": 15,
+    "ValueDescription": 2,
+    "SortOrder": 5,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 175,
+    "LkpCode": 15,
+    "ValueDescription": 3,
+    "SortOrder": 6,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 176,
+    "LkpCode": 15,
+    "ValueDescription": 4,
+    "SortOrder": 7,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 177,
+    "LkpCode": 15,
+    "ValueDescription": 5,
+    "SortOrder": 8,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 178,
+    "LkpCode": 15,
+    "ValueDescription": 6,
+    "SortOrder": 9,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 179,
+    "LkpCode": 15,
+    "ValueDescription": 7,
+    "SortOrder": 10,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 180,
+    "LkpCode": 15,
+    "ValueDescription": 8,
+    "SortOrder": 11,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 181,
+    "LkpCode": 15,
+    "ValueDescription": 9,
+    "SortOrder": 12,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 182,
+    "LkpCode": 15,
+    "ValueDescription": 10,
+    "SortOrder": 13,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 183,
+    "LkpCode": 15,
+    "ValueDescription": 11,
+    "SortOrder": 14,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 184,
+    "LkpCode": 15,
+    "ValueDescription": 12,
+    "SortOrder": 15,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 197,
+    "LkpCode": 15,
+    "ValueDescription": "None",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 198,
+    "LkpCode": 16,
+    "ValueDescription": "Phase",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 199,
+    "LkpCode": 16,
+    "ValueDescription": "Examiner Language",
+    "SortOrder": 2,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 200,
+    "LkpCode": 16,
+    "ValueDescription": "Study Type",
+    "SortOrder": 3,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 201,
+    "LkpCode": 17,
+    "ValueDescription": "Inclusion",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 202,
+    "LkpCode": 17,
+    "ValueDescription": "Exclusion",
+    "SortOrder": 2,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 204,
+    "LkpCode": 18,
+    "ValueDescription": "Main",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 205,
+    "LkpCode": 18,
+    "ValueDescription": "Clinical",
+    "SortOrder": 2,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 206,
+    "LkpCode": 18,
+    "ValueDescription": "Reliability",
+    "SortOrder": 3,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 207,
+    "LkpCode": 18,
+    "ValueDescription": "Validity",
+    "SortOrder": 4,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 208,
+    "LkpCode": 18,
+    "ValueDescription": "Other",
+    "SortOrder": 5,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 214,
+    "LkpCode": 2,
+    "ValueDescription": "None",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 215,
+    "LkpCode": 10,
+    "ValueDescription": "China",
+    "SortOrder": 9,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 216,
+    "LkpCode": 10,
+    "ValueDescription": "Cyprus",
+    "SortOrder": 11,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 217,
+    "LkpCode": 10,
+    "ValueDescription": "Egypt",
+    "SortOrder": 12,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 218,
+    "LkpCode": 10,
+    "ValueDescription": "FPO AP",
+    "SortOrder": 13,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 219,
+    "LkpCode": 10,
+    "ValueDescription": "France",
+    "SortOrder": 14,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 220,
+    "LkpCode": 10,
+    "ValueDescription": "Germany",
+    "SortOrder": 15,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 221,
+    "LkpCode": 10,
+    "ValueDescription": "Guam",
+    "SortOrder": 16,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 222,
+    "LkpCode": 10,
+    "ValueDescription": "Hong Kong",
+    "SortOrder": 17,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 223,
+    "LkpCode": 10,
+    "ValueDescription": "India",
+    "SortOrder": 18,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 224,
+    "LkpCode": 10,
+    "ValueDescription": "Israel",
+    "SortOrder": 19,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 225,
+    "LkpCode": 10,
+    "ValueDescription": "Italy",
+    "SortOrder": 20,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 226,
+    "LkpCode": 10,
+    "ValueDescription": "Japan",
+    "SortOrder": 21,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 227,
+    "LkpCode": 10,
+    "ValueDescription": "Jordan",
+    "SortOrder": 22,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 228,
+    "LkpCode": 10,
+    "ValueDescription": "Korea, Republic of",
+    "SortOrder": 23,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 229,
+    "LkpCode": 10,
+    "ValueDescription": "Malaysia",
+    "SortOrder": 24,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 230,
+    "LkpCode": 10,
+    "ValueDescription": "Mexico",
+    "SortOrder": 25,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 231,
+    "LkpCode": 10,
+    "ValueDescription": "Nigeria",
+    "SortOrder": 26,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 232,
+    "LkpCode": 10,
+    "ValueDescription": "Paraguay",
+    "SortOrder": 27,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 233,
+    "LkpCode": 10,
+    "ValueDescription": "Philippines",
+    "SortOrder": 28,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 234,
+    "LkpCode": 10,
+    "ValueDescription": "Qatar",
+    "SortOrder": 30,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 235,
+    "LkpCode": 10,
+    "ValueDescription": "Republic Singapore",
+    "SortOrder": 31,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 236,
+    "LkpCode": 10,
+    "ValueDescription": "Saudi Arabia",
+    "SortOrder": 32,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 237,
+    "LkpCode": 10,
+    "ValueDescription": "Spain",
+    "SortOrder": 33,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 238,
+    "LkpCode": 10,
+    "ValueDescription": "Taiwan",
+    "SortOrder": 35,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 239,
+    "LkpCode": 10,
+    "ValueDescription": "Thailand",
+    "SortOrder": 36,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 240,
+    "LkpCode": 10,
+    "ValueDescription": "Turkey",
+    "SortOrder": 37,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 241,
+    "LkpCode": 10,
+    "ValueDescription": "United Kingdom",
+    "SortOrder": 38,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 242,
+    "LkpCode": 10,
+    "ValueDescription": "United States",
+    "SortOrder": 0,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 243,
+    "LkpCode": 10,
+    "ValueDescription": "West Indies",
+    "SortOrder": 40,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 244,
+    "LkpCode": 10,
+    "ValueDescription": "Chile",
+    "SortOrder": 8,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 245,
+    "LkpCode": 3,
+    "ValueDescription": "None",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 246,
+    "LkpCode": 6,
+    "ValueDescription": "Other",
+    "SortOrder": 18,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 247,
+    "LkpCode": 7,
+    "ValueDescription": "None",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 248,
+    "LkpCode": 9,
+    "ValueDescription": "None",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 250,
+    "LkpCode": 10,
+    "ValueDescription": "Poland",
+    "SortOrder": 29,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 251,
+    "LkpCode": 4,
+    "ValueDescription": "Understands English",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 255,
+    "LkpCode": 4,
+    "ValueDescription": "Non-English, Non-Spanish",
+    "SortOrder": 5,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 261,
+    "LkpCode": 1,
+    "ValueDescription": "Another new profession",
+    "SortOrder": 19,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 264,
+    "LkpCode": 1,
+    "ValueDescription": "School Paraprofessional",
+    "SortOrder": 24,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 266,
+    "LkpCode": 11,
+    "ValueDescription": "Early Childhood",
+    "SortOrder": 4,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 267,
+    "LkpCode": 1,
+    "ValueDescription": "Bilingual Clinical Psychologist",
+    "SortOrder": 18,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 272,
+    "LkpCode": 1,
+    "ValueDescription": "Certified Speech Assistant",
+    "SortOrder": 20,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 273,
+    "LkpCode": 1,
+    "ValueDescription": "Neuropsychologist",
+    "SortOrder": 21,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 276,
+    "LkpCode": 5,
+    "ValueDescription": "Other",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 277,
+    "LkpCode": 1,
+    "ValueDescription": "None",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 282,
+    "LkpCode": 1,
+    "ValueDescription": "Psychometrician",
+    "SortOrder": 23,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 284,
+    "LkpCode": 10,
+    "ValueDescription": "Cuba",
+    "SortOrder": 10,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 285,
+    "LkpCode": 4,
+    "ValueDescription": "Speaks English and Other Language",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 290,
+    "LkpCode": 3,
+    "ValueDescription": "Brain Surgery",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 291,
+    "LkpCode": 3,
+    "ValueDescription": "Chemotherapy",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 292,
+    "LkpCode": 3,
+    "ValueDescription": "Counseling",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 293,
+    "LkpCode": 3,
+    "ValueDescription": "Early Childhood Services/Interventions",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 294,
+    "LkpCode": 3,
+    "ValueDescription": "Educational Enrichment/Advanced Placement/Honors Program",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 295,
+    "LkpCode": 3,
+    "ValueDescription": "Electroconvulsive Treatment",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 296,
+    "LkpCode": 3,
+    "ValueDescription": "Frontal Lobe Surgery",
+    "SortOrder": 8,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 297,
+    "LkpCode": 3,
+    "ValueDescription": "Gifted and Talented",
+    "SortOrder": 9,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 298,
+    "LkpCode": 3,
+    "ValueDescription": "Head Start Program",
+    "SortOrder": 10,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 299,
+    "LkpCode": 3,
+    "ValueDescription": "Language Services",
+    "SortOrder": 11,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 300,
+    "LkpCode": 3,
+    "ValueDescription": "LEP Bilingual Education Services",
+    "SortOrder": 12,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 301,
+    "LkpCode": 3,
+    "ValueDescription": "Occupational Therapy",
+    "SortOrder": 13,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 303,
+    "LkpCode": 3,
+    "ValueDescription": "Physical Therapy",
+    "SortOrder": 15,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 304,
+    "LkpCode": 3,
+    "ValueDescription": "Psychiatric Treatment",
+    "SortOrder": 16,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 305,
+    "LkpCode": 3,
+    "ValueDescription": "Psychological Treatment",
+    "SortOrder": 17,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 306,
+    "LkpCode": 3,
+    "ValueDescription": "Special Education Services",
+    "SortOrder": 18,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 307,
+    "LkpCode": 3,
+    "ValueDescription": "Speech  Services",
+    "SortOrder": 19,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 308,
+    "LkpCode": 2,
+    "ValueDescription": "Acquired Brain Injury",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 309,
+    "LkpCode": 2,
+    "ValueDescription": "Acute Stress Disorder",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 310,
+    "LkpCode": 2,
+    "ValueDescription": "Adjustment Disorder",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 311,
+    "LkpCode": 2,
+    "ValueDescription": "Age-Related Cognitive Decline",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 312,
+    "LkpCode": 2,
+    "ValueDescription": "Alcohol Abuse Disorder",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 313,
+    "LkpCode": 2,
+    "ValueDescription": "Alcohol Dependence Disorder",
+    "SortOrder": 8,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 314,
+    "LkpCode": 2,
+    "ValueDescription": "Alzheimer's Dementia",
+    "SortOrder": 12,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 315,
+    "LkpCode": 2,
+    "ValueDescription": "Amnestic Disorder (Amnesia)",
+    "SortOrder": 13,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 316,
+    "LkpCode": 2,
+    "ValueDescription": "Amnestic Disorder Due to General Medical Condition",
+    "SortOrder": 14,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 317,
+    "LkpCode": 2,
+    "ValueDescription": "Anorexia Nervosa",
+    "SortOrder": 15,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 318,
+    "LkpCode": 2,
+    "ValueDescription": "Antisocial Personality Disorder",
+    "SortOrder": 16,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 319,
+    "LkpCode": 2,
+    "ValueDescription": "Anxiety Disorder",
+    "SortOrder": 17,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 320,
+    "LkpCode": 2,
+    "ValueDescription": "Anxiety Disorder Due to General Medical Condition",
+    "SortOrder": 20,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 321,
+    "LkpCode": 2,
+    "ValueDescription": "Aphasia",
+    "SortOrder": 21,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 322,
+    "LkpCode": 2,
+    "ValueDescription": "Arthritis",
+    "SortOrder": 23,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 323,
+    "LkpCode": 2,
+    "ValueDescription": "Articulation Disorder",
+    "SortOrder": 24,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 324,
+    "LkpCode": 2,
+    "ValueDescription": "Aspergers Disorder",
+    "SortOrder": 25,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 325,
+    "LkpCode": 2,
+    "ValueDescription": "Asphyxia",
+    "SortOrder": 26,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 326,
+    "LkpCode": 2,
+    "ValueDescription": "Attention Deficit Disorder",
+    "SortOrder": 27,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 327,
+    "LkpCode": 2,
+    "ValueDescription": "Attention Deficit Disorder  Combined",
+    "SortOrder": 28,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 328,
+    "LkpCode": 2,
+    "ValueDescription": "Attention Deficit Disorder - Hyperactive-Impulsive Type",
+    "SortOrder": 29,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 329,
+    "LkpCode": 2,
+    "ValueDescription": "Attention Deficit Disorder - Inattentive Type",
+    "SortOrder": 30,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 330,
+    "LkpCode": 2,
+    "ValueDescription": "Attention Deficit/Hyperactive Disorder",
+    "SortOrder": 31,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 331,
+    "LkpCode": 2,
+    "ValueDescription": "Attention Deficit/Hyperactivity Disorder - Combined Type",
+    "SortOrder": 32,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 332,
+    "LkpCode": 2,
+    "ValueDescription": "Auditory Aphasia",
+    "SortOrder": 33,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 333,
+    "LkpCode": 2,
+    "ValueDescription": "Autism Spectrum Disorder",
+    "SortOrder": 35,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 334,
+    "LkpCode": 2,
+    "ValueDescription": "Autistic Disorder",
+    "SortOrder": 37,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 335,
+    "LkpCode": 2,
+    "ValueDescription": "Avoidant Personality Disorder",
+    "SortOrder": 38,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 336,
+    "LkpCode": 2,
+    "ValueDescription": "Behavioral Disturbance",
+    "SortOrder": 41,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 337,
+    "LkpCode": 2,
+    "ValueDescription": "Bilateral Stroke",
+    "SortOrder": 42,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 338,
+    "LkpCode": 2,
+    "ValueDescription": "Bipolar Disorder (I & II)",
+    "SortOrder": 45,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 339,
+    "LkpCode": 2,
+    "ValueDescription": "Blind (Using Braille to Read)",
+    "SortOrder": 47,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 340,
+    "LkpCode": 2,
+    "ValueDescription": "Body Dysmorphic Disorder",
+    "SortOrder": 48,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 341,
+    "LkpCode": 2,
+    "ValueDescription": "Borderline Intellectual Functioning",
+    "SortOrder": 49,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 342,
+    "LkpCode": 2,
+    "ValueDescription": "Borderline Personality Disorder",
+    "SortOrder": 50,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 343,
+    "LkpCode": 2,
+    "ValueDescription": "Brain Tumor",
+    "SortOrder": 51,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 344,
+    "LkpCode": 2,
+    "ValueDescription": "Brain Tumor With Radiation Treatment",
+    "SortOrder": 52,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 345,
+    "LkpCode": 2,
+    "ValueDescription": "Brain Tumor Without Radiation Treatment",
+    "SortOrder": 53,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 346,
+    "LkpCode": 2,
+    "ValueDescription": "Breathing Related Sleep Disorder",
+    "SortOrder": 54,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 347,
+    "LkpCode": 2,
+    "ValueDescription": "Brief Psychotic Disorder",
+    "SortOrder": 55,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 348,
+    "LkpCode": 2,
+    "ValueDescription": "Broca's Aphasia",
+    "SortOrder": 56,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 349,
+    "LkpCode": 2,
+    "ValueDescription": "Bronchopulmonary Dysplasia",
+    "SortOrder": 57,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 350,
+    "LkpCode": 2,
+    "ValueDescription": "Bulimia Nervosa",
+    "SortOrder": 58,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 351,
+    "LkpCode": 2,
+    "ValueDescription": "Cardiac Arrest (Heart Attack)",
+    "SortOrder": 64,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 352,
+    "LkpCode": 2,
+    "ValueDescription": "Catatonic Disorder Due to General Medical Condition",
+    "SortOrder": 66,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 353,
+    "LkpCode": 2,
+    "ValueDescription": "Central Auditory Processing Disorder",
+    "SortOrder": 67,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 354,
+    "LkpCode": 2,
+    "ValueDescription": "Cerebral Palsy",
+    "SortOrder": 69,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 355,
+    "LkpCode": 2,
+    "ValueDescription": "Cerebral Vascular Accident - Non Specific (Stroke)",
+    "SortOrder": 70,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 356,
+    "LkpCode": 2,
+    "ValueDescription": "Childhood Disintegrative Disorder",
+    "SortOrder": 71,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 357,
+    "LkpCode": 2,
+    "ValueDescription": "Children at Risk",
+    "SortOrder": 72,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 358,
+    "LkpCode": 2,
+    "ValueDescription": "Chronic Motor or Vocal Tic Disorder",
+    "SortOrder": 73,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 359,
+    "LkpCode": 2,
+    "ValueDescription": "Chronic Neuropathic (Pain)",
+    "SortOrder": 74,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 360,
+    "LkpCode": 2,
+    "ValueDescription": "Chronic Obstructive Pulmonary Disease",
+    "SortOrder": 75,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 361,
+    "LkpCode": 2,
+    "ValueDescription": "Chronic Otitis Media (Chronic Ear Infections)",
+    "SortOrder": 76,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 362,
+    "LkpCode": 2,
+    "ValueDescription": "Circadian Rythym Sleep Disorder",
+    "SortOrder": 77,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 363,
+    "LkpCode": 2,
+    "ValueDescription": "Clinically Significant Anxiety",
+    "SortOrder": 78,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 364,
+    "LkpCode": 2,
+    "ValueDescription": "Cognitive Disorder",
+    "SortOrder": 83,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 365,
+    "LkpCode": 2,
+    "ValueDescription": "Color Blindness",
+    "SortOrder": 84,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 366,
+    "LkpCode": 2,
+    "ValueDescription": "Communication Disorder Not Otherwise Specified",
+    "SortOrder": 85,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 367,
+    "LkpCode": 2,
+    "ValueDescription": "Conduct Disorder",
+    "SortOrder": 88,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 368,
+    "LkpCode": 2,
+    "ValueDescription": "Congestive Heart Failure",
+    "SortOrder": 89,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 369,
+    "LkpCode": 2,
+    "ValueDescription": "Conversion Disorder",
+    "SortOrder": 90,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 370,
+    "LkpCode": 2,
+    "ValueDescription": "Cyclothymic Disorder",
+    "SortOrder": 92,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 371,
+    "LkpCode": 2,
+    "ValueDescription": "Deaf and Hard of Hearing",
+    "SortOrder": 93,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 372,
+    "LkpCode": 2,
+    "ValueDescription": "Delirium",
+    "SortOrder": 94,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 373,
+    "LkpCode": 2,
+    "ValueDescription": "Delirium Due to General Medical Condition",
+    "SortOrder": 95,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 374,
+    "LkpCode": 2,
+    "ValueDescription": "Delusional Disorder",
+    "SortOrder": 96,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 375,
+    "LkpCode": 2,
+    "ValueDescription": "Dementia - Non Specific",
+    "SortOrder": 97,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 376,
+    "LkpCode": 2,
+    "ValueDescription": "Dementia Due to Creutzfeldt-Jakob Disease",
+    "SortOrder": 98,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 377,
+    "LkpCode": 2,
+    "ValueDescription": "Dementia Due to Head Trauma",
+    "SortOrder": 99,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 378,
+    "LkpCode": 2,
+    "ValueDescription": "Dementia Due to HIV Disease",
+    "SortOrder": 100,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 379,
+    "LkpCode": 2,
+    "ValueDescription": "Dementia Due to Huntington’s Disease",
+    "SortOrder": 101,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 380,
+    "LkpCode": 2,
+    "ValueDescription": "Dementia Due to Multiple Etiologies",
+    "SortOrder": 102,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 381,
+    "LkpCode": 2,
+    "ValueDescription": "Dementia Due to Parkinson’s Disease",
+    "SortOrder": 103,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 382,
+    "LkpCode": 2,
+    "ValueDescription": "Dementia Due to Pick’s Disease",
+    "SortOrder": 104,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 383,
+    "LkpCode": 2,
+    "ValueDescription": "Dependent Personality Disorder",
+    "SortOrder": 105,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 384,
+    "LkpCode": 2,
+    "ValueDescription": "Depersonalization Disorder",
+    "SortOrder": 106,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 385,
+    "LkpCode": 2,
+    "ValueDescription": "Depressive Disorder- Non Specific",
+    "SortOrder": 108,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 386,
+    "LkpCode": 2,
+    "ValueDescription": "Depressive/Mood Disorder",
+    "SortOrder": 109,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 387,
+    "LkpCode": 2,
+    "ValueDescription": "Developmental Coordination Disorder",
+    "SortOrder": 110,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 388,
+    "LkpCode": 2,
+    "ValueDescription": "Developmental Delay/Disability",
+    "SortOrder": 111,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 389,
+    "LkpCode": 2,
+    "ValueDescription": "Diabetes",
+    "SortOrder": 112,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 390,
+    "LkpCode": 2,
+    "ValueDescription": "Disorder of Infancy, Childhood, or Adolescence - Not Otherwise Specified",
+    "SortOrder": 114,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 391,
+    "LkpCode": 2,
+    "ValueDescription": "Disorder of Written Expression",
+    "SortOrder": 115,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 392,
+    "LkpCode": 2,
+    "ValueDescription": "Disruptive Behavior Disorder",
+    "SortOrder": 116,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 393,
+    "LkpCode": 2,
+    "ValueDescription": "Dissociative Amnesia",
+    "SortOrder": 118,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 394,
+    "LkpCode": 2,
+    "ValueDescription": "Dissociative Disorder - Not Otherwise Specified",
+    "SortOrder": 119,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 395,
+    "LkpCode": 2,
+    "ValueDescription": "Dissociative Fugue",
+    "SortOrder": 120,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 396,
+    "LkpCode": 2,
+    "ValueDescription": "Dissociative Identity Disorder",
+    "SortOrder": 121,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 397,
+    "LkpCode": 2,
+    "ValueDescription": "Down Syndrome",
+    "SortOrder": 122,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 398,
+    "LkpCode": 2,
+    "ValueDescription": "Drug Exposure During Pregnancy",
+    "SortOrder": 123,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 399,
+    "LkpCode": 2,
+    "ValueDescription": "Dyslexia",
+    "SortOrder": 126,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 400,
+    "LkpCode": 2,
+    "ValueDescription": "Dyspareunia",
+    "SortOrder": 127,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 401,
+    "LkpCode": 2,
+    "ValueDescription": "Dyssomnia Not Otherwise Specified",
+    "SortOrder": 129,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 402,
+    "LkpCode": 2,
+    "ValueDescription": "Dysthymic Disorder",
+    "SortOrder": 130,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 403,
+    "LkpCode": 2,
+    "ValueDescription": "Eating Disorder - Not Otherwise Specified",
+    "SortOrder": 132,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 404,
+    "LkpCode": 2,
+    "ValueDescription": "Emotional Disturbance",
+    "SortOrder": 133,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 405,
+    "LkpCode": 2,
+    "ValueDescription": "Emotional Disturbance with Behavioral Disorder",
+    "SortOrder": 134,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 406,
+    "LkpCode": 2,
+    "ValueDescription": "Encephalitis",
+    "SortOrder": 135,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 407,
+    "LkpCode": 2,
+    "ValueDescription": "Encopresis",
+    "SortOrder": 136,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 408,
+    "LkpCode": 2,
+    "ValueDescription": "English as a Second Language",
+    "SortOrder": 137,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 409,
+    "LkpCode": 2,
+    "ValueDescription": "English Language Learner",
+    "SortOrder": 138,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 410,
+    "LkpCode": 2,
+    "ValueDescription": "Enuresis",
+    "SortOrder": 139,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 411,
+    "LkpCode": 2,
+    "ValueDescription": "Epilepsy - Non Specific",
+    "SortOrder": 140,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 412,
+    "LkpCode": 2,
+    "ValueDescription": "Executive Functioning Deficits",
+    "SortOrder": 142,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 413,
+    "LkpCode": 2,
+    "ValueDescription": "Exhibitionism",
+    "SortOrder": 143,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 414,
+    "LkpCode": 2,
+    "ValueDescription": "Expressive Aphasia",
+    "SortOrder": 144,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 415,
+    "LkpCode": 2,
+    "ValueDescription": "Expressive Language Disorder",
+    "SortOrder": 145,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 416,
+    "LkpCode": 2,
+    "ValueDescription": "Factitious Disorder",
+    "SortOrder": 146,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 417,
+    "LkpCode": 2,
+    "ValueDescription": "Feeding Disorder of Infancy and Early Childhood",
+    "SortOrder": 147,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 418,
+    "LkpCode": 2,
+    "ValueDescription": "Fetal Alcohol Effects",
+    "SortOrder": 148,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 419,
+    "LkpCode": 2,
+    "ValueDescription": "Fetal Alcohol Syndrome",
+    "SortOrder": 149,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 420,
+    "LkpCode": 2,
+    "ValueDescription": "Fetishism",
+    "SortOrder": 150,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 421,
+    "LkpCode": 2,
+    "ValueDescription": "Fluency Disorder",
+    "SortOrder": 151,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 422,
+    "LkpCode": 2,
+    "ValueDescription": "Fluent Aphasia",
+    "SortOrder": 152,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 423,
+    "LkpCode": 2,
+    "ValueDescription": "Frotteurism",
+    "SortOrder": 153,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 424,
+    "LkpCode": 2,
+    "ValueDescription": "Gender Identity Disorder",
+    "SortOrder": 155,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 425,
+    "LkpCode": 2,
+    "ValueDescription": "Generalized Anxiety Disorder",
+    "SortOrder": 157,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 426,
+    "LkpCode": 2,
+    "ValueDescription": "Hallucinogen Persisting Perception Disorder (Flashbacks)",
+    "SortOrder": 160,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 427,
+    "LkpCode": 2,
+    "ValueDescription": "Hearing Impairment (excluding hearing correction with hearing aids)",
+    "SortOrder": 162,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 428,
+    "LkpCode": 2,
+    "ValueDescription": "Hearing Impairment with a Cochlear Implant",
+    "SortOrder": 163,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 429,
+    "LkpCode": 2,
+    "ValueDescription": "Heart Attack",
+    "SortOrder": 164,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 430,
+    "LkpCode": 2,
+    "ValueDescription": "High Blood Pressure",
+    "SortOrder": 165,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 431,
+    "LkpCode": 2,
+    "ValueDescription": "Histrionic Personality Disorder",
+    "SortOrder": 166,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 432,
+    "LkpCode": 2,
+    "ValueDescription": "HIV+",
+    "SortOrder": 167,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 433,
+    "LkpCode": 2,
+    "ValueDescription": "Huntington's Chorea",
+    "SortOrder": 169,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 434,
+    "LkpCode": 2,
+    "ValueDescription": "Hypoactive Sexual Desire Disorder",
+    "SortOrder": 171,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 435,
+    "LkpCode": 2,
+    "ValueDescription": "Hypochondriasis",
+    "SortOrder": 172,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 436,
+    "LkpCode": 2,
+    "ValueDescription": "Identity Problem",
+    "SortOrder": 173,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 437,
+    "LkpCode": 2,
+    "ValueDescription": "Impulse-Control Disorder",
+    "SortOrder": 176,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 438,
+    "LkpCode": 2,
+    "ValueDescription": "Intellectual Disability Mild (formerly called Mild Mental Retardation)",
+    "SortOrder": 180,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 439,
+    "LkpCode": 2,
+    "ValueDescription": "Intellectual Disability Moderate (formerly called Moderate Mental Retardation)",
+    "SortOrder": 181,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 440,
+    "LkpCode": 2,
+    "ValueDescription": "Intellectual Disability Not Specified (formerly called Mental Retardation Not Specified)",
+    "SortOrder": 182,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 441,
+    "LkpCode": 2,
+    "ValueDescription": "Intellectual Disability Profound (formerly called Profound Mental Retardation)",
+    "SortOrder": 183,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 442,
+    "LkpCode": 2,
+    "ValueDescription": "Intellectual Disability Severe (formerly called Severe Mental Retardation)",
+    "SortOrder": 184,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 443,
+    "LkpCode": 2,
+    "ValueDescription": "Intellecutal Disability (formerly called Mental Retardation)",
+    "SortOrder": 185,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 444,
+    "LkpCode": 2,
+    "ValueDescription": "Intercranial Hemorrhage",
+    "SortOrder": 186,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 445,
+    "LkpCode": 2,
+    "ValueDescription": "Intermittent Explosive Disorder",
+    "SortOrder": 187,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 446,
+    "LkpCode": 2,
+    "ValueDescription": "Kleptomania",
+    "SortOrder": 188,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 447,
+    "LkpCode": 2,
+    "ValueDescription": "Language Delay",
+    "SortOrder": 189,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 448,
+    "LkpCode": 2,
+    "ValueDescription": "Learning and Memory Deficits",
+    "SortOrder": 190,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 449,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disability Math & Writing",
+    "SortOrder": 194,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 450,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disability - Non Specific",
+    "SortOrder": 191,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 451,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disability Math",
+    "SortOrder": 192,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 452,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disability Math & Reading",
+    "SortOrder": 193,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 453,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disability Reading",
+    "SortOrder": 195,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 454,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disability Reading & Writing",
+    "SortOrder": 196,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 455,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disability Reading, Writing, & Math",
+    "SortOrder": 197,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 456,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disability Writing",
+    "SortOrder": 198,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 457,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disorder",
+    "SortOrder": 200,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 458,
+    "LkpCode": 2,
+    "ValueDescription": "Left Cerebral Vascular Accident (Stroke)",
+    "SortOrder": 201,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 459,
+    "LkpCode": 2,
+    "ValueDescription": "Left Temporal Lobe Epilepsy",
+    "SortOrder": 202,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 460,
+    "LkpCode": 2,
+    "ValueDescription": "Low Birth Weight (under 5 lbs 8 ozs)",
+    "SortOrder": 204,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 461,
+    "LkpCode": 2,
+    "ValueDescription": "Major Depressive Disorder",
+    "SortOrder": 205,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 462,
+    "LkpCode": 2,
+    "ValueDescription": "Male Erectile Disorder",
+    "SortOrder": 216,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 463,
+    "LkpCode": 2,
+    "ValueDescription": "Mathematics Disorder",
+    "SortOrder": 217,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 464,
+    "LkpCode": 2,
+    "ValueDescription": "Medication-Induced Movement Disorder",
+    "SortOrder": 218,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 465,
+    "LkpCode": 2,
+    "ValueDescription": "Medication-Induced Movement Disorder - Not Otherwise Specified",
+    "SortOrder": 219,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 466,
+    "LkpCode": 2,
+    "ValueDescription": "Medication-Induced Postural Tremor",
+    "SortOrder": 220,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 467,
+    "LkpCode": 2,
+    "ValueDescription": "Meningitis",
+    "SortOrder": 221,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 468,
+    "LkpCode": 2,
+    "ValueDescription": "Mental Disorder Due to General Medical Condition",
+    "SortOrder": 222,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 469,
+    "LkpCode": 2,
+    "ValueDescription": "Mild Cognitive Impairment",
+    "SortOrder": 223,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 470,
+    "LkpCode": 2,
+    "ValueDescription": "Mild Mental Retardation",
+    "SortOrder": 224,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 471,
+    "LkpCode": 2,
+    "ValueDescription": "Mixed Receptive/Expressive Language Disorder",
+    "SortOrder": 225,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 472,
+    "LkpCode": 2,
+    "ValueDescription": "Moderate Mental Retardation",
+    "SortOrder": 226,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 473,
+    "LkpCode": 2,
+    "ValueDescription": "Mood Disorder Due to General Medical Condition",
+    "SortOrder": 228,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 474,
+    "LkpCode": 2,
+    "ValueDescription": "Motor Aphasia",
+    "SortOrder": 229,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 475,
+    "LkpCode": 2,
+    "ValueDescription": "Motor Delay",
+    "SortOrder": 230,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 476,
+    "LkpCode": 2,
+    "ValueDescription": "Motor Impairment",
+    "SortOrder": 231,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 477,
+    "LkpCode": 2,
+    "ValueDescription": "Multiple Sclerosis",
+    "SortOrder": 232,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 478,
+    "LkpCode": 2,
+    "ValueDescription": "Narcissistic Personality Disorder",
+    "SortOrder": 233,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 479,
+    "LkpCode": 2,
+    "ValueDescription": "Narcolepsy",
+    "SortOrder": 234,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 480,
+    "LkpCode": 2,
+    "ValueDescription": "Neuroleptic Malignant Syndrome",
+    "SortOrder": 235,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 481,
+    "LkpCode": 2,
+    "ValueDescription": "Neuroleptic-Induced Acute Akathisia",
+    "SortOrder": 236,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 482,
+    "LkpCode": 2,
+    "ValueDescription": "Neuroleptic-Induced Acute Dystonia",
+    "SortOrder": 237,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 483,
+    "LkpCode": 2,
+    "ValueDescription": "Neuroleptic-Induced Parkinsonism",
+    "SortOrder": 238,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 484,
+    "LkpCode": 2,
+    "ValueDescription": "Neuroleptic-Induced Tardive Dyskinesia",
+    "SortOrder": 239,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 485,
+    "LkpCode": 2,
+    "ValueDescription": "Nightmare Disorder",
+    "SortOrder": 240,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 486,
+    "LkpCode": 2,
+    "ValueDescription": "Nonverbal Learning Disability",
+    "SortOrder": 241,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 487,
+    "LkpCode": 2,
+    "ValueDescription": "Obsessive Compulsive Disorder",
+    "SortOrder": 242,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 488,
+    "LkpCode": 2,
+    "ValueDescription": "Obsessive Compulsive Personality Disorder",
+    "SortOrder": 243,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 489,
+    "LkpCode": 2,
+    "ValueDescription": "Oppositional Defiant Disorder",
+    "SortOrder": 249,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 490,
+    "LkpCode": 2,
+    "ValueDescription": "Orgasmic Disorder-Female",
+    "SortOrder": 250,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 491,
+    "LkpCode": 2,
+    "ValueDescription": "Orgasmic Disorder-Male",
+    "SortOrder": 251,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 492,
+    "LkpCode": 2,
+    "ValueDescription": "Orthopedic Impairment",
+    "SortOrder": 253,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 493,
+    "LkpCode": 2,
+    "ValueDescription": "Other",
+    "SortOrder": 254,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 494,
+    "LkpCode": 2,
+    "ValueDescription": "Other Conditions Specific to Infants",
+    "SortOrder": 258,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 495,
+    "LkpCode": 2,
+    "ValueDescription": "Other Health Impairment",
+    "SortOrder": 261,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 496,
+    "LkpCode": 2,
+    "ValueDescription": "Other Sexual Dysfunction Due to a General Medical Condition",
+    "SortOrder": 262,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 497,
+    "LkpCode": 2,
+    "ValueDescription": "Pain Disorder Associated with Psychological Factors",
+    "SortOrder": 281,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 498,
+    "LkpCode": 2,
+    "ValueDescription": "Pain Disorder Associated with Psychological Factors and a General Medical Condition",
+    "SortOrder": 282,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 499,
+    "LkpCode": 2,
+    "ValueDescription": "Panic Disorder with Agoraphobia",
+    "SortOrder": 283,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 500,
+    "LkpCode": 2,
+    "ValueDescription": "Panic Disorder Without Agorophobia",
+    "SortOrder": 284,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 501,
+    "LkpCode": 2,
+    "ValueDescription": "Paranoid Personality Disorder",
+    "SortOrder": 285,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 502,
+    "LkpCode": 2,
+    "ValueDescription": "Paraphilia",
+    "SortOrder": 287,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 503,
+    "LkpCode": 2,
+    "ValueDescription": "Parasomnia",
+    "SortOrder": 288,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 504,
+    "LkpCode": 2,
+    "ValueDescription": "Parkinson's Disease",
+    "SortOrder": 289,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 505,
+    "LkpCode": 2,
+    "ValueDescription": "Pathological Gambling",
+    "SortOrder": 290,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 506,
+    "LkpCode": 2,
+    "ValueDescription": "Pathological Lying",
+    "SortOrder": 291,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 507,
+    "LkpCode": 2,
+    "ValueDescription": "Pedophilia",
+    "SortOrder": 292,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 508,
+    "LkpCode": 2,
+    "ValueDescription": "Periods of Unconsciousness (Not Associated with Amnesia)",
+    "SortOrder": 293,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 509,
+    "LkpCode": 2,
+    "ValueDescription": "Personality Disorder Due to a General Medical Condition",
+    "SortOrder": 297,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 510,
+    "LkpCode": 2,
+    "ValueDescription": "Pervasive Developmental Delay/Disorder",
+    "SortOrder": 298,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 511,
+    "LkpCode": 2,
+    "ValueDescription": "Phonological Disorder",
+    "SortOrder": 302,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 512,
+    "LkpCode": 2,
+    "ValueDescription": "Physical Impairment",
+    "SortOrder": 303,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 513,
+    "LkpCode": 2,
+    "ValueDescription": "Pica",
+    "SortOrder": 304,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 514,
+    "LkpCode": 2,
+    "ValueDescription": "Polysubstance Dependence Disorder",
+    "SortOrder": 307,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 515,
+    "LkpCode": 2,
+    "ValueDescription": "Posttraumatic Stress Disorder",
+    "SortOrder": 308,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 516,
+    "LkpCode": 2,
+    "ValueDescription": "Prematurity (less than 37 weeks)",
+    "SortOrder": 310,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 517,
+    "LkpCode": 2,
+    "ValueDescription": "Prenatal Condition",
+    "SortOrder": 312,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 518,
+    "LkpCode": 2,
+    "ValueDescription": "Primary Hypersomnia",
+    "SortOrder": 314,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 519,
+    "LkpCode": 2,
+    "ValueDescription": "Primary Insomnia",
+    "SortOrder": 315,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 520,
+    "LkpCode": 2,
+    "ValueDescription": "Profound Mental Retardation",
+    "SortOrder": 316,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 521,
+    "LkpCode": 2,
+    "ValueDescription": "Psychiatric Condition",
+    "SortOrder": 318,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 522,
+    "LkpCode": 2,
+    "ValueDescription": "Psychotic Disorder Due to General Medical Condition",
+    "SortOrder": 321,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 523,
+    "LkpCode": 2,
+    "ValueDescription": "Pyromania",
+    "SortOrder": 322,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 524,
+    "LkpCode": 2,
+    "ValueDescription": "Reactive Attachment Disorder of Infancy and Early Childhood",
+    "SortOrder": 324,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 525,
+    "LkpCode": 2,
+    "ValueDescription": "Reading Disorder",
+    "SortOrder": 325,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 526,
+    "LkpCode": 2,
+    "ValueDescription": "Receptive Aphasia",
+    "SortOrder": 326,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 527,
+    "LkpCode": 2,
+    "ValueDescription": "Receptive Language Deficit",
+    "SortOrder": 327,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 528,
+    "LkpCode": 2,
+    "ValueDescription": "Rett's Disorder",
+    "SortOrder": 329,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 529,
+    "LkpCode": 2,
+    "ValueDescription": "Right Cerebral Vascular Accident (Stroke)",
+    "SortOrder": 330,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 530,
+    "LkpCode": 2,
+    "ValueDescription": "Right Temporal Lobe Epilepsy",
+    "SortOrder": 331,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 531,
+    "LkpCode": 2,
+    "ValueDescription": "Rumination Disorder",
+    "SortOrder": 332,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 532,
+    "LkpCode": 2,
+    "ValueDescription": "Schizoaffective Disorder",
+    "SortOrder": 333,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 533,
+    "LkpCode": 2,
+    "ValueDescription": "Schizoid Personality Disorder",
+    "SortOrder": 334,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 534,
+    "LkpCode": 2,
+    "ValueDescription": "Schizophrenia",
+    "SortOrder": 335,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 535,
+    "LkpCode": 2,
+    "ValueDescription": "Schizophrenia - Catatonic Type",
+    "SortOrder": 336,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 536,
+    "LkpCode": 2,
+    "ValueDescription": "Schizophrenia - Disorganized Type",
+    "SortOrder": 337,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 537,
+    "LkpCode": 2,
+    "ValueDescription": "Schizophrenia - Paranoid Type",
+    "SortOrder": 338,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 538,
+    "LkpCode": 2,
+    "ValueDescription": "Schizophrenia - Residual Type",
+    "SortOrder": 339,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 539,
+    "LkpCode": 2,
+    "ValueDescription": "Schizophrenia - Undifferentiated Type",
+    "SortOrder": 340,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 540,
+    "LkpCode": 2,
+    "ValueDescription": "Schizotypal Personality Disorder",
+    "SortOrder": 341,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 541,
+    "LkpCode": 2,
+    "ValueDescription": "Schizphreniform Disorder",
+    "SortOrder": 342,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 542,
+    "LkpCode": 2,
+    "ValueDescription": "School Avoidance",
+    "SortOrder": 343,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 543,
+    "LkpCode": 2,
+    "ValueDescription": "Seasonal Affective Disorder",
+    "SortOrder": 344,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 544,
+    "LkpCode": 2,
+    "ValueDescription": "Selective Mutism",
+    "SortOrder": 350,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 545,
+    "LkpCode": 2,
+    "ValueDescription": "Semantic Aphasia",
+    "SortOrder": 351,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 546,
+    "LkpCode": 2,
+    "ValueDescription": "Separation Anxiety Disorder",
+    "SortOrder": 352,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 547,
+    "LkpCode": 2,
+    "ValueDescription": "Severe Mental Retardation",
+    "SortOrder": 353,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 548,
+    "LkpCode": 2,
+    "ValueDescription": "Sexual Arousal Disorders",
+    "SortOrder": 354,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 549,
+    "LkpCode": 2,
+    "ValueDescription": "Sexual Aversion Disorder",
+    "SortOrder": 355,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 550,
+    "LkpCode": 2,
+    "ValueDescription": "Sexual Masochism",
+    "SortOrder": 356,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 551,
+    "LkpCode": 2,
+    "ValueDescription": "Sexual Sadism",
+    "SortOrder": 357,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 552,
+    "LkpCode": 2,
+    "ValueDescription": "Shared Psychotic Disorder",
+    "SortOrder": 358,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 553,
+    "LkpCode": 2,
+    "ValueDescription": "Sleep Disorder Due to a General Medical Condition",
+    "SortOrder": 359,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 554,
+    "LkpCode": 2,
+    "ValueDescription": "Sleep Terror Disorder",
+    "SortOrder": 360,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 555,
+    "LkpCode": 2,
+    "ValueDescription": "Sleepwalking Disorder",
+    "SortOrder": 362,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 556,
+    "LkpCode": 2,
+    "ValueDescription": "Small for Gestational Age",
+    "SortOrder": 363,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 557,
+    "LkpCode": 2,
+    "ValueDescription": "Social Phobia",
+    "SortOrder": 364,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 558,
+    "LkpCode": 2,
+    "ValueDescription": "Somatization Disorder",
+    "SortOrder": 368,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 559,
+    "LkpCode": 2,
+    "ValueDescription": "Specific Learning Disability - Basic Reading Skills",
+    "SortOrder": 369,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 560,
+    "LkpCode": 2,
+    "ValueDescription": "Specific Learning Disability - Mathematics Calculation",
+    "SortOrder": 370,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 561,
+    "LkpCode": 2,
+    "ValueDescription": "Specific Learning Disability - Mathematics Problem Solving",
+    "SortOrder": 371,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 562,
+    "LkpCode": 2,
+    "ValueDescription": "Specific Learning Disability - Oral Expression",
+    "SortOrder": 372,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 563,
+    "LkpCode": 2,
+    "ValueDescription": "Specific Learning Disability - Reading Comprehension",
+    "SortOrder": 373,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 564,
+    "LkpCode": 2,
+    "ValueDescription": "Specific Learning Disability - Reading Fluency Skills",
+    "SortOrder": 374,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 565,
+    "LkpCode": 2,
+    "ValueDescription": "Specific Learning Disability - Written Expression",
+    "SortOrder": 375,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 566,
+    "LkpCode": 2,
+    "ValueDescription": "Specific Phobia (Animals, Objects, Etc)",
+    "SortOrder": 376,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 567,
+    "LkpCode": 2,
+    "ValueDescription": "Stereotypic Movement Disorder",
+    "SortOrder": 377,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 568,
+    "LkpCode": 2,
+    "ValueDescription": "Stroke",
+    "SortOrder": 381,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 569,
+    "LkpCode": 2,
+    "ValueDescription": "Stuttering",
+    "SortOrder": 382,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 570,
+    "LkpCode": 2,
+    "ValueDescription": "Substance Abuse Disorder",
+    "SortOrder": 383,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 571,
+    "LkpCode": 2,
+    "ValueDescription": "Substance Dependence Disorder (Alcohol and drugs, including inhalants)",
+    "SortOrder": 384,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 572,
+    "LkpCode": 2,
+    "ValueDescription": "Substance Induced Persisting Amnesic Disorder",
+    "SortOrder": 385,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 573,
+    "LkpCode": 2,
+    "ValueDescription": "Substance Induced Persisting Dementia",
+    "SortOrder": 386,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 574,
+    "LkpCode": 2,
+    "ValueDescription": "Substance Induced Sexual Dysfunction",
+    "SortOrder": 387,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 575,
+    "LkpCode": 2,
+    "ValueDescription": "Substance Induced Sleep Disorder",
+    "SortOrder": 388,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 576,
+    "LkpCode": 2,
+    "ValueDescription": "Substance Intoxication",
+    "SortOrder": 389,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 577,
+    "LkpCode": 2,
+    "ValueDescription": "Substance Related Disorder - Not Otherwise Specified",
+    "SortOrder": 390,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 578,
+    "LkpCode": 2,
+    "ValueDescription": "Tic Disorder - Not Otherwise Specified",
+    "SortOrder": 397,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 579,
+    "LkpCode": 2,
+    "ValueDescription": "Tourette’s Disorder",
+    "SortOrder": 400,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 580,
+    "LkpCode": 2,
+    "ValueDescription": "Transcortical Motor Aphasia",
+    "SortOrder": 401,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 581,
+    "LkpCode": 2,
+    "ValueDescription": "Transglobal Aphasia",
+    "SortOrder": 402,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 582,
+    "LkpCode": 2,
+    "ValueDescription": "Transient Tic Disorder",
+    "SortOrder": 403,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 583,
+    "LkpCode": 2,
+    "ValueDescription": "Tranvestic Fetishism",
+    "SortOrder": 404,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 584,
+    "LkpCode": 2,
+    "ValueDescription": "Traumatic Brain Injury-Closed Head",
+    "SortOrder": 410,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 585,
+    "LkpCode": 2,
+    "ValueDescription": "Traumatic Brain Injury Non Specific",
+    "SortOrder": 409,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 586,
+    "LkpCode": 2,
+    "ValueDescription": "Traumatic Brain Injury-Open Head",
+    "SortOrder": 411,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 587,
+    "LkpCode": 2,
+    "ValueDescription": "Trichotillomania",
+    "SortOrder": 412,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 588,
+    "LkpCode": 2,
+    "ValueDescription": "Undifferentiated Somatoform Disorder",
+    "SortOrder": 415,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 589,
+    "LkpCode": 2,
+    "ValueDescription": "Unidentified Psychiatric Disorder",
+    "SortOrder": 416,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 590,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Mental Disorder (Non-Psychotic)",
+    "SortOrder": 428,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 591,
+    "LkpCode": 2,
+    "ValueDescription": "Vaginismus (Not Due to a General Medical Condition)",
+    "SortOrder": 444,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 592,
+    "LkpCode": 2,
+    "ValueDescription": "Vascular Dementia",
+    "SortOrder": 445,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 593,
+    "LkpCode": 2,
+    "ValueDescription": "Visual Impairment (Excluding corrective lenses)",
+    "SortOrder": 446,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 594,
+    "LkpCode": 2,
+    "ValueDescription": "Visual-Spatial Memory Deficits",
+    "SortOrder": 447,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 595,
+    "LkpCode": 2,
+    "ValueDescription": "Voice Disorder",
+    "SortOrder": 448,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 596,
+    "LkpCode": 2,
+    "ValueDescription": "Voyeurism",
+    "SortOrder": 449,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 597,
+    "LkpCode": 3,
+    "ValueDescription": "Other:",
+    "SortOrder": 14,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 598,
+    "LkpCode": 1,
+    "ValueDescription": "Certified OT Assistant",
+    "SortOrder": 14,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 599,
+    "LkpCode": 1,
+    "ValueDescription": "Certified PT Assistant",
+    "SortOrder": 16,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 600,
+    "LkpCode": 1,
+    "ValueDescription": "Nurse (RN)",
+    "SortOrder": 30,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 601,
+    "LkpCode": 1,
+    "ValueDescription": "Undergraduate Student - Other",
+    "SortOrder": 31,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 602,
+    "LkpCode": 6,
+    "ValueDescription": "Occupational Therapy Assistant",
+    "SortOrder": 9,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 603,
+    "LkpCode": 6,
+    "ValueDescription": "Physical Therapy Assistant",
+    "SortOrder": 11,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 604,
+    "LkpCode": 14,
+    "ValueDescription": "Long Term Care",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 605,
+    "LkpCode": 14,
+    "ValueDescription": "Rehabilitation Center",
+    "SortOrder": 9,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 606,
+    "LkpCode": 6,
+    "ValueDescription": "Nursing",
+    "SortOrder": 7,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 607,
+    "LkpCode": 2,
+    "ValueDescription": "Gifted and Talented",
+    "SortOrder": 158,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 608,
+    "LkpCode": 2,
+    "ValueDescription": "Uncorrectable Visual Impairment",
+    "SortOrder": 413,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 609,
+    "LkpCode": 2,
+    "ValueDescription": "Seizure Disorder",
+    "SortOrder": 348,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 610,
+    "LkpCode": 2,
+    "ValueDescription": "Pervasive Developmental Delay/Disorder- Not Otherwise Specified",
+    "SortOrder": 299,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 611,
+    "LkpCode": 2,
+    "ValueDescription": "Uncorrected Hearing Impairment",
+    "SortOrder": 414,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 612,
+    "LkpCode": 1,
+    "ValueDescription": "Bilingual Clinical Psychologist",
+    "SortOrder": 32,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 613,
+    "LkpCode": 1,
+    "ValueDescription": "Bilingual School Psychologist",
+    "SortOrder": 33,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 614,
+    "LkpCode": 1,
+    "ValueDescription": "Bilingual Speech-Language Pathologist",
+    "SortOrder": 34,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 615,
+    "LkpCode": 1,
+    "ValueDescription": "Bilingual Psychometrist",
+    "SortOrder": 35,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 616,
+    "LkpCode": 1,
+    "ValueDescription": "Bilingual Neuropsychologist",
+    "SortOrder": 36,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 617,
+    "LkpCode": 1,
+    "ValueDescription": "Bilingual Educational Diagnostician",
+    "SortOrder": 37,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 618,
+    "LkpCode": 1,
+    "ValueDescription": "Bilingual Educator/Teacher",
+    "SortOrder": 38,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 619,
+    "LkpCode": 1,
+    "ValueDescription": "Bilingual Early Childhood Specialist",
+    "SortOrder": 39,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 621,
+    "LkpCode": 1,
+    "ValueDescription": "Reading Specialist",
+    "SortOrder": 40,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 623,
+    "LkpCode": 2,
+    "ValueDescription": "Clinically Significant Depression",
+    "SortOrder": 79,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 624,
+    "LkpCode": 2,
+    "ValueDescription": "Clinically Significant Learning and Memory Deficits",
+    "SortOrder": 80,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 625,
+    "LkpCode": 2,
+    "ValueDescription": "Clinically Significant Visual-Spatial Memory Deficits",
+    "SortOrder": 81,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 626,
+    "LkpCode": 2,
+    "ValueDescription": "Pragmatic Language Impairment",
+    "SortOrder": 309,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 627,
+    "LkpCode": 10,
+    "ValueDescription": "Sri Lanka",
+    "SortOrder": 34,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 628,
+    "LkpCode": 2,
+    "ValueDescription": "Hearing Impairment",
+    "SortOrder": 161,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 629,
+    "LkpCode": 2,
+    "ValueDescription": "Behavior Disorder/Disturbance",
+    "SortOrder": 40,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 630,
+    "LkpCode": 2,
+    "ValueDescription": "Limited English Proficiency",
+    "SortOrder": 203,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 631,
+    "LkpCode": 2,
+    "ValueDescription": "Prenatal Drug Exposure",
+    "SortOrder": 313,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 632,
+    "LkpCode": 19,
+    "ValueDescription": "Not a United States resident",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 633,
+    "LkpCode": 19,
+    "ValueDescription": "I will not receive payment for testing",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 634,
+    "LkpCode": 19,
+    "ValueDescription": "Other",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 635,
+    "LkpCode": 20,
+    "ValueDescription": "Added",
+    "SortOrder": 1,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 636,
+    "LkpCode": 20,
+    "ValueDescription": "Submitted",
+    "SortOrder": 2,
+    "IsEditable": 0
+  },
+  {
+    "LkpValue": 637,
+    "LkpCode": 21,
+    "ValueDescription": "Payment Issued",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 638,
+    "LkpCode": 21,
+    "ValueDescription": "Gift Card Issued",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 639,
+    "LkpCode": 21,
+    "ValueDescription": "Alternate System",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 640,
+    "LkpCode": 22,
+    "ValueDescription": "OTHER",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 641,
+    "LkpCode": 22,
+    "ValueDescription": "CAR",
+    "SortOrder": 2,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 642,
+    "LkpCode": 22,
+    "ValueDescription": "MX",
+    "SortOrder": 3,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 645,
+    "LkpCode": 23,
+    "ValueDescription": "OTHER",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 646,
+    "LkpCode": 24,
+    "ValueDescription": "OTHER",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 647,
+    "LkpCode": 1,
+    "ValueDescription": "Counseling Psychologist",
+    "SortOrder": 41,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 648,
+    "LkpCode": 1,
+    "ValueDescription": "Pyschiatrist",
+    "SortOrder": 42,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 649,
+    "LkpCode": 2,
+    "ValueDescription": "Agorphobia without a History of Panic Disorder",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 650,
+    "LkpCode": 2,
+    "ValueDescription": "Anxiety Disorder - Not Otherwise Specified",
+    "SortOrder": 18,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 651,
+    "LkpCode": 2,
+    "ValueDescription": "Bipolar Disorder (I, II, & NOS)",
+    "SortOrder": 46,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 652,
+    "LkpCode": 2,
+    "ValueDescription": "Dysthymic Disorder",
+    "SortOrder": 131,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 653,
+    "LkpCode": 2,
+    "ValueDescription": "Impulse control Disorder - Not Otherwise Specified",
+    "SortOrder": 175,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 654,
+    "LkpCode": 2,
+    "ValueDescription": "Mood Disorder - Not Otherwise Specified",
+    "SortOrder": 227,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 655,
+    "LkpCode": 2,
+    "ValueDescription": "Personality Disorder - Not Otherwise Specified",
+    "SortOrder": 296,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 656,
+    "LkpCode": 2,
+    "ValueDescription": "Psychotic Disorder - Not Otherwise Specified",
+    "SortOrder": 320,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 657,
+    "LkpCode": 2,
+    "ValueDescription": "Somataform Disorder - Not Otherwise Specified",
+    "SortOrder": 365,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 658,
+    "LkpCode": 26,
+    "ValueDescription": "No emails",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 659,
+    "LkpCode": 26,
+    "ValueDescription": "One email per message",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 660,
+    "LkpCode": 26,
+    "ValueDescription": "One email per day",
+    "SortOrder": 1,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 661,
+    "LkpCode": 3,
+    "ValueDescription": "LEP, ESL or Bilingual Education Services",
+    "SortOrder": 20,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 662,
+    "LkpCode": 2,
+    "ValueDescription": "Autism",
+    "SortOrder": 34,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 663,
+    "LkpCode": 2,
+    "ValueDescription": "Seizure Disorder",
+    "SortOrder": 349,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 664,
+    "LkpCode": 2,
+    "ValueDescription": "Autism Spectrum Disorder",
+    "SortOrder": 36,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 666,
+    "LkpCode": 2,
+    "ValueDescription": "Dysarthria, All Subtypes",
+    "SortOrder": 124,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 667,
+    "LkpCode": 2,
+    "ValueDescription": "Apraxia",
+    "SortOrder": 22,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 668,
+    "LkpCode": 2,
+    "ValueDescription": "Dyspraxia",
+    "SortOrder": 128,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 669,
+    "LkpCode": 2,
+    "ValueDescription": "Learning Disability-other",
+    "SortOrder": 199,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 670,
+    "LkpCode": 1,
+    "ValueDescription": "Clinical Social Worker",
+    "SortOrder": 5,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 671,
+    "LkpCode": 2,
+    "ValueDescription": "Infant Reflux Disease",
+    "SortOrder": 177,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 672,
+    "LkpCode": 1,
+    "ValueDescription": "Licensed Professional Counselor",
+    "SortOrder": 43,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 673,
+    "LkpCode": 1,
+    "ValueDescription": "Licensed Masters of Social Work",
+    "SortOrder": 44,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 674,
+    "LkpCode": 22,
+    "ValueDescription": "NOT VALID",
+    "SortOrder": 6,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 677,
+    "LkpCode": 2,
+    "ValueDescription": "Cognitive Developmental Delay",
+    "SortOrder": 82,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 678,
+    "LkpCode": 2,
+    "ValueDescription": "Creutzfeldt-Jakob Disease",
+    "SortOrder": 91,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 679,
+    "LkpCode": 2,
+    "ValueDescription": "Dyscalculia",
+    "SortOrder": 125,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 680,
+    "LkpCode": 2,
+    "ValueDescription": "Huntington's Disease",
+    "SortOrder": 170,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 681,
+    "LkpCode": 2,
+    "ValueDescription": "Orthographic Impairment",
+    "SortOrder": 252,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 682,
+    "LkpCode": 2,
+    "ValueDescription": "Pain Disorder",
+    "SortOrder": 280,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 683,
+    "LkpCode": 2,
+    "ValueDescription": "Parapeligia",
+    "SortOrder": 286,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 684,
+    "LkpCode": 2,
+    "ValueDescription": "Pick's Disease",
+    "SortOrder": 305,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 685,
+    "LkpCode": 2,
+    "ValueDescription": "Polysubstance Abuse Disorder",
+    "SortOrder": 306,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 686,
+    "LkpCode": 2,
+    "ValueDescription": "Quadriplegia",
+    "SortOrder": 323,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 687,
+    "LkpCode": 2,
+    "ValueDescription": "Traumatic Brain Injury",
+    "SortOrder": 405,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 688,
+    "LkpCode": 2,
+    "ValueDescription": "Traumatic Brain Injury - Mild Severity",
+    "SortOrder": 406,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 689,
+    "LkpCode": 2,
+    "ValueDescription": "Traumatic Brain Injury - Moderate Severity",
+    "SortOrder": 407,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 690,
+    "LkpCode": 2,
+    "ValueDescription": "Traumatic Brain Injury - Severe Severity",
+    "SortOrder": 408,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 691,
+    "LkpCode": 2,
+    "ValueDescription": "Concussion",
+    "SortOrder": 86,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 693,
+    "LkpCode": 2,
+    "ValueDescription": "Alcohol Intoxication",
+    "SortOrder": 9,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 694,
+    "LkpCode": 2,
+    "ValueDescription": "Alcohol Use Disorder",
+    "SortOrder": 10,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 695,
+    "LkpCode": 2,
+    "ValueDescription": "Alcohol Withdrawal",
+    "SortOrder": 11,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 696,
+    "LkpCode": 2,
+    "ValueDescription": "Anxiety Disorder Due to Another Medical Condition",
+    "SortOrder": 19,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 697,
+    "LkpCode": 2,
+    "ValueDescription": "Avoidant/Restrictive Food Intake Disorder",
+    "SortOrder": 39,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 698,
+    "LkpCode": 2,
+    "ValueDescription": "Binge Eating Disorder",
+    "SortOrder": 43,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 699,
+    "LkpCode": 2,
+    "ValueDescription": "Bipolar and Related Disorder Due to Another Medical Condition",
+    "SortOrder": 44,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 700,
+    "LkpCode": 2,
+    "ValueDescription": "Caffeine Intoxication",
+    "SortOrder": 59,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 701,
+    "LkpCode": 2,
+    "ValueDescription": "Caffeine Withdrawal",
+    "SortOrder": 60,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 702,
+    "LkpCode": 2,
+    "ValueDescription": "Cannabis Intoxication",
+    "SortOrder": 61,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 703,
+    "LkpCode": 2,
+    "ValueDescription": "Cannabis Use Disorder",
+    "SortOrder": 62,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 704,
+    "LkpCode": 2,
+    "ValueDescription": "Cannabis Withdrawal",
+    "SortOrder": 63,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 705,
+    "LkpCode": 2,
+    "ValueDescription": "Catatonia Associated with Another Mental Disorder",
+    "SortOrder": 65,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 706,
+    "LkpCode": 2,
+    "ValueDescription": "Central Sleep Apnea",
+    "SortOrder": 68,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 707,
+    "LkpCode": 2,
+    "ValueDescription": "Concussion",
+    "SortOrder": 87,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 708,
+    "LkpCode": 2,
+    "ValueDescription": "Depressive Disorder Due to Another Medical Condition",
+    "SortOrder": 107,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 709,
+    "LkpCode": 2,
+    "ValueDescription": "Disinhibited Social Engagement Disorder",
+    "SortOrder": 113,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 710,
+    "LkpCode": 2,
+    "ValueDescription": "Disruptive Mood Dysregulation Disorder",
+    "SortOrder": 117,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 711,
+    "LkpCode": 2,
+    "ValueDescription": "Excoriation Disorder",
+    "SortOrder": 141,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 712,
+    "LkpCode": 2,
+    "ValueDescription": "Gambling Disorder",
+    "SortOrder": 154,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 713,
+    "LkpCode": 2,
+    "ValueDescription": "General Personality Disorder",
+    "SortOrder": 156,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 714,
+    "LkpCode": 2,
+    "ValueDescription": "Global Developmental Delay",
+    "SortOrder": 159,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 715,
+    "LkpCode": 2,
+    "ValueDescription": "Hoarding Disorder",
+    "SortOrder": 168,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 716,
+    "LkpCode": 2,
+    "ValueDescription": "Illness Anxiety Disorder",
+    "SortOrder": 174,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 717,
+    "LkpCode": 2,
+    "ValueDescription": "Inhalant Intoxication",
+    "SortOrder": 178,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 718,
+    "LkpCode": 2,
+    "ValueDescription": "Inhalant Use Disorder",
+    "SortOrder": 179,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 719,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Frontotemporal Neurocognitive Disorder",
+    "SortOrder": 206,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 720,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Neurocognitive Disorder due to Another Medical Condition",
+    "SortOrder": 207,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 721,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Neurocognitive Disorder due to HIV Infection",
+    "SortOrder": 208,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 722,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Neurocognitive Disorder due to Huntington's Disease",
+    "SortOrder": 209,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 723,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Neurocognitive Disorder due to Multiple Etiologies",
+    "SortOrder": 210,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 724,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Neurocognitive Disorder due to Parkinson's Disease",
+    "SortOrder": 211,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 725,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Neurocognitive Disorder due to Prion Disease",
+    "SortOrder": 212,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 726,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Neurocognitive Disorder due to Traumatic Brain Injury",
+    "SortOrder": 213,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 727,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Neurocognitive Disorder with Lewy Bodies",
+    "SortOrder": 214,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 728,
+    "LkpCode": 2,
+    "ValueDescription": "Major or Mild Vascular Neurocognitive Disorder",
+    "SortOrder": 215,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 729,
+    "LkpCode": 2,
+    "ValueDescription": "Obsessive-Compulsive and Related Disorder Due to Another Medical Condition",
+    "SortOrder": 244,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 730,
+    "LkpCode": 2,
+    "ValueDescription": "Obstructive Sleep Apnea Hypopnea",
+    "SortOrder": 245,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 731,
+    "LkpCode": 2,
+    "ValueDescription": "Opioid Intoxication",
+    "SortOrder": 246,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 732,
+    "LkpCode": 2,
+    "ValueDescription": "Opioid Use Disorder",
+    "SortOrder": 247,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 733,
+    "LkpCode": 2,
+    "ValueDescription": "Opioid Withdrawal",
+    "SortOrder": 248,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 734,
+    "LkpCode": 2,
+    "ValueDescription": "Other (or Unknown) Substance Intoxication",
+    "SortOrder": 255,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 735,
+    "LkpCode": 2,
+    "ValueDescription": "Other (or Unknown) Substance Use Disorder",
+    "SortOrder": 256,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 736,
+    "LkpCode": 2,
+    "ValueDescription": "Other (or Unknown) Substance Withdrawal",
+    "SortOrder": 257,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 737,
+    "LkpCode": 2,
+    "ValueDescription": "Other Hallucinogen Intoxication",
+    "SortOrder": 259,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 738,
+    "LkpCode": 2,
+    "ValueDescription": "Other Hallucinogen Use Disorder",
+    "SortOrder": 260,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 739,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specific Paraphillic Disorder",
+    "SortOrder": 263,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 740,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Anxiety Disorder",
+    "SortOrder": 264,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 741,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Bipolar and Related Disorder",
+    "SortOrder": 265,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 742,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Delirium",
+    "SortOrder": 266,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 743,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Depressive Disorder",
+    "SortOrder": 267,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 744,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Disruptive, Impulse-Control and Conduct Disorders",
+    "SortOrder": 268,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 745,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Dissociative Disorder",
+    "SortOrder": 269,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 746,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Elimination Disorder",
+    "SortOrder": 270,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 747,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Feeding or Eating Disorder",
+    "SortOrder": 271,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 748,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Mental Disorder",
+    "SortOrder": 272,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 749,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Mental Disorder Due to Another Medical Condition",
+    "SortOrder": 273,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 750,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Neurodevelopmental Disorder",
+    "SortOrder": 274,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 751,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Obsessive-Compulsive and Related Disorder",
+    "SortOrder": 275,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 752,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Personality Disorder",
+    "SortOrder": 276,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 753,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Schizophrenia Sepctrum and Other Psychotic Disorder",
+    "SortOrder": 277,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 754,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Somatic Symptom and Related Disorder",
+    "SortOrder": 278,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 755,
+    "LkpCode": 2,
+    "ValueDescription": "Other Specified Trauma- and Stressor-Related Disorder",
+    "SortOrder": 279,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 756,
+    "LkpCode": 2,
+    "ValueDescription": "Persistent Depressive Disorder",
+    "SortOrder": 294,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 757,
+    "LkpCode": 2,
+    "ValueDescription": "Personality Change Due to Another Medical Condition",
+    "SortOrder": 295,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 758,
+    "LkpCode": 2,
+    "ValueDescription": "Phencyclidine Intoxication",
+    "SortOrder": 300,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 759,
+    "LkpCode": 2,
+    "ValueDescription": "Phencyclidine Use Disorder",
+    "SortOrder": 301,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 760,
+    "LkpCode": 2,
+    "ValueDescription": "Premenstrual Dysphoric Disorder",
+    "SortOrder": 311,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 761,
+    "LkpCode": 2,
+    "ValueDescription": "Provisional Tic Disorder",
+    "SortOrder": 317,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 762,
+    "LkpCode": 2,
+    "ValueDescription": "Psychological Factors Affecting Other Medical Conditions",
+    "SortOrder": 319,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 763,
+    "LkpCode": 2,
+    "ValueDescription": "Restless Legs Syndrome",
+    "SortOrder": 328,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 764,
+    "LkpCode": 2,
+    "ValueDescription": "Sedative, Hypnotic, or Anxiolytic Intoxication",
+    "SortOrder": 345,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 765,
+    "LkpCode": 2,
+    "ValueDescription": "Sedative, Hypnotic, or Anxiolytic Use Disorder",
+    "SortOrder": 346,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 766,
+    "LkpCode": 2,
+    "ValueDescription": "Sedative, Hypnotic, or Anxiolytic Withdrawal",
+    "SortOrder": 347,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 767,
+    "LkpCode": 2,
+    "ValueDescription": "Sleep-Related Hypoventilation",
+    "SortOrder": 361,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 768,
+    "LkpCode": 2,
+    "ValueDescription": "Somataform Disorder - Not Otherwise Specified",
+    "SortOrder": 366,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 769,
+    "LkpCode": 2,
+    "ValueDescription": "Somatic Symptom Disorder",
+    "SortOrder": 367,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 770,
+    "LkpCode": 2,
+    "ValueDescription": "Stimulant Intoxication",
+    "SortOrder": 378,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 771,
+    "LkpCode": 2,
+    "ValueDescription": "Stimulant Use Disorder",
+    "SortOrder": 379,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 772,
+    "LkpCode": 2,
+    "ValueDescription": "Stimulant Withdrawal",
+    "SortOrder": 380,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 773,
+    "LkpCode": 2,
+    "ValueDescription": "Substance/Medication-Induced Anxiety Disorder",
+    "SortOrder": 391,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 774,
+    "LkpCode": 2,
+    "ValueDescription": "Substance/Medication-Induced Bipolar and Related Disorder",
+    "SortOrder": 392,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 775,
+    "LkpCode": 2,
+    "ValueDescription": "Substance/Medication-Induced Depressive Disorder",
+    "SortOrder": 393,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 776,
+    "LkpCode": 2,
+    "ValueDescription": "Substance/Medication-Induced Major of Mild Neurocognitive Disorder",
+    "SortOrder": 394,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 777,
+    "LkpCode": 2,
+    "ValueDescription": "Substance/Medication-Induced Obsessive-Complusive and Related Disorder",
+    "SortOrder": 395,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 778,
+    "LkpCode": 2,
+    "ValueDescription": "Substance/Medication-Induced Psychotic Disorder",
+    "SortOrder": 396,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 779,
+    "LkpCode": 2,
+    "ValueDescription": "Tobacco Use Disorder",
+    "SortOrder": 398,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 780,
+    "LkpCode": 2,
+    "ValueDescription": "Tobacco Withdrawal",
+    "SortOrder": 399,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 781,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Bipolar and Related Disorder",
+    "SortOrder": 417,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 782,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Caffeine-Related Disorder",
+    "SortOrder": 418,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 783,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Cannabis-Related Disorder",
+    "SortOrder": 419,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 784,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Catatonia",
+    "SortOrder": 420,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 785,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Delirium",
+    "SortOrder": 421,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 786,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Disruptive, Impulse-Control and Conduct Disorders",
+    "SortOrder": 422,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 787,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Elimination Disorder",
+    "SortOrder": 423,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 788,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Feeding or Eating Disorder",
+    "SortOrder": 424,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 789,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Hallucinogen-Related Disorder",
+    "SortOrder": 425,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 790,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Inhalant-Related Disorder",
+    "SortOrder": 426,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 791,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Mental Disorder",
+    "SortOrder": 427,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 792,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Mental Disorder Due to Another Medical Condition",
+    "SortOrder": 429,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 793,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Neurocognitive Disorder",
+    "SortOrder": 430,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 794,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Neurodevelopmental Disorder",
+    "SortOrder": 431,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 795,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Obsessive-Compulsive and Related Disorder",
+    "SortOrder": 432,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 796,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Opioid-Related Disorder",
+    "SortOrder": 433,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 797,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Other (or Unknown) Substance-Related Disorder",
+    "SortOrder": 434,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 798,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Paraphillic Disorder",
+    "SortOrder": 435,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 799,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Personality Disorder",
+    "SortOrder": 436,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 800,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Phencyclidine-Related Disorder",
+    "SortOrder": 437,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 801,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Schizophrenia Spectrum and Other Psychotic Disorder",
+    "SortOrder": 438,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 802,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Sedative-, Hypnotic-, or Anxiolytic-Related Disorder",
+    "SortOrder": 439,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 803,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Somatic Symptom and Related Disorder",
+    "SortOrder": 440,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 804,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Stimulant-Related Disorder",
+    "SortOrder": 441,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 805,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Tobacco-Related Disorder",
+    "SortOrder": 442,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 806,
+    "LkpCode": 2,
+    "ValueDescription": "Unspecified Trauma- and Stressor-Related Disorder",
+    "SortOrder": 443,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 807,
+    "LkpCode": 22,
+    "ValueDescription": "SOUTH",
+    "SortOrder": 4,
+    "IsEditable": 1
+  },
+  {
+    "LkpValue": 808,
+    "LkpCode": 22,
+    "ValueDescription": "CENTRAL",
+    "SortOrder": 5,
+    "IsEditable": 1
+  }
+]

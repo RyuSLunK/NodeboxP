@@ -1,0 +1,132 @@
+[
+  {
+    "LkpCode": 1,
+    "CodeDescription": "Profession",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 2,
+    "CodeDescription": "Diagnosis",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 3,
+    "CodeDescription": "Service",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 4,
+    "CodeDescription": "Language",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 5,
+    "CodeDescription": "Degree",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 6,
+    "CodeDescription": "Degree Program",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 7,
+    "CodeDescription": "Prefix",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 8,
+    "CodeDescription": "Ethnicity",
+    "IsEditable": 0
+  },
+  {
+    "LkpCode": 9,
+    "CodeDescription": "Employment Setting",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 10,
+    "CodeDescription": "Country",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 11,
+    "CodeDescription": "Test Type",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 12,
+    "CodeDescription": "Age Group",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 13,
+    "CodeDescription": "Education Levels",
+    "IsEditable": 0
+  },
+  {
+    "LkpCode": 14,
+    "CodeDescription": "Site Type",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 15,
+    "CodeDescription": "Grade",
+    "IsEditable": 0
+  },
+  {
+    "LkpCode": 16,
+    "CodeDescription": "Criteria Category",
+    "IsEditable": 0
+  },
+  {
+    "LkpCode": 17,
+    "CodeDescription": "Criteria Type",
+    "IsEditable": 0
+  },
+  {
+    "LkpCode": 18,
+    "CodeDescription": "Criteria Study Type",
+    "IsEditable": 0
+  },
+  {
+    "LkpCode": 19,
+    "CodeDescription": "No SSN Reason",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 20,
+    "CodeDescription": "Candidate Phase Status",
+    "IsEditable": 0
+  },
+  {
+    "LkpCode": 21,
+    "CodeDescription": "Do Not Pay Reasons",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 22,
+    "CodeDescription": "Country of Origin Calc",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 23,
+    "CodeDescription": "Hardware Technology Access",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 24,
+    "CodeDescription": "Software Technology Access",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 25,
+    "CodeDescription": "Technology Access",
+    "IsEditable": 1
+  },
+  {
+    "LkpCode": 26,
+    "CodeDescription": "Email Preferences",
+    "IsEditable": 1
+  }
+]

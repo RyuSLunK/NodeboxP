@@ -1,0 +1,1424 @@
+[
+  {
+    "PhaseQuestionResponseID": 799,
+    "PhaseQuestionID": 233,
+    "ResponseText": "Check",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 800,
+    "PhaseQuestionID": 233,
+    "ResponseText": "McDonalds Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 801,
+    "PhaseQuestionID": 233,
+    "ResponseText": "Target Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 802,
+    "PhaseQuestionID": 233,
+    "ResponseText": "Wal-Mart Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 803,
+    "PhaseQuestionID": 234,
+    "ResponseText": "Mountains",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 804,
+    "PhaseQuestionID": 234,
+    "ResponseText": "Forest",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 805,
+    "PhaseQuestionID": 234,
+    "ResponseText": "Seashore",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 806,
+    "PhaseQuestionID": 234,
+    "ResponseText": "Desert",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 807,
+    "PhaseQuestionID": 234,
+    "ResponseText": "Prairie",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 808,
+    "PhaseQuestionID": 234,
+    "ResponseText": "Frozen steppes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 809,
+    "PhaseQuestionID": 235,
+    "ResponseText": "Florence",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 810,
+    "PhaseQuestionID": 235,
+    "ResponseText": "London",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 811,
+    "PhaseQuestionID": 235,
+    "ResponseText": "Stockholm",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 812,
+    "PhaseQuestionID": 235,
+    "ResponseText": "Berlin",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 813,
+    "PhaseQuestionID": 235,
+    "ResponseText": "Paris",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 814,
+    "PhaseQuestionID": 235,
+    "ResponseText": "Athens",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 815,
+    "PhaseQuestionID": 236,
+    "ResponseText": "Check",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 816,
+    "PhaseQuestionID": 236,
+    "ResponseText": "McDonalds Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 817,
+    "PhaseQuestionID": 236,
+    "ResponseText": "Target Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 818,
+    "PhaseQuestionID": 236,
+    "ResponseText": "Wal-Mart Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 819,
+    "PhaseQuestionID": 239,
+    "ResponseText": "A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 820,
+    "PhaseQuestionID": 239,
+    "ResponseText": "B",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 821,
+    "PhaseQuestionID": 239,
+    "ResponseText": "C",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 822,
+    "PhaseQuestionID": 238,
+    "ResponseText": "A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 823,
+    "PhaseQuestionID": 238,
+    "ResponseText": "B",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 824,
+    "PhaseQuestionID": 238,
+    "ResponseText": "C",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 825,
+    "PhaseQuestionID": 240,
+    "ResponseText": "A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 826,
+    "PhaseQuestionID": 240,
+    "ResponseText": "B",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 827,
+    "PhaseQuestionID": 240,
+    "ResponseText": "C",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 828,
+    "PhaseQuestionID": 246,
+    "ResponseText": "a",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 829,
+    "PhaseQuestionID": 246,
+    "ResponseText": "b",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 830,
+    "PhaseQuestionID": 246,
+    "ResponseText": "c",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 831,
+    "PhaseQuestionID": 248,
+    "ResponseText": "Mark Twain",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 832,
+    "PhaseQuestionID": 248,
+    "ResponseText": "John Seinbeck",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 833,
+    "PhaseQuestionID": 248,
+    "ResponseText": "F. Scott Fitztherald",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 834,
+    "PhaseQuestionID": 248,
+    "ResponseText": "Louisa May Alcott",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 835,
+    "PhaseQuestionID": 249,
+    "ResponseText": "A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 836,
+    "PhaseQuestionID": 249,
+    "ResponseText": "B",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 837,
+    "PhaseQuestionID": 249,
+    "ResponseText": "C",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 838,
+    "PhaseQuestionID": 249,
+    "ResponseText": "D",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 839,
+    "PhaseQuestionID": 249,
+    "ResponseText": "E",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 840,
+    "PhaseQuestionID": 247,
+    "ResponseText": "North",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 841,
+    "PhaseQuestionID": 247,
+    "ResponseText": "South",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 842,
+    "PhaseQuestionID": 247,
+    "ResponseText": "East",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 843,
+    "PhaseQuestionID": 247,
+    "ResponseText": "West",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 844,
+    "PhaseQuestionID": 250,
+    "ResponseText": "Check",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 846,
+    "PhaseQuestionID": 250,
+    "ResponseText": "Target Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 847,
+    "PhaseQuestionID": 250,
+    "ResponseText": "Wal-Mart Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 848,
+    "PhaseQuestionID": 251,
+    "ResponseText": "Norm",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 849,
+    "PhaseQuestionID": 251,
+    "ResponseText": "Community Dwelling with Caregiver Assistance",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 850,
+    "PhaseQuestionID": 251,
+    "ResponseText": "Institutional Care",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 858,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Does not require any assistance",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 859,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Shopping",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 860,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Meal Preparation",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 861,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Cleaning/Laundry",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 862,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Dressing",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 863,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Bathing/Washing",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 864,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Grooming/Hygiene",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 865,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Managing Money",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 866,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Healthcare (including help with medications)",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 867,
+    "PhaseQuestionID": 254,
+    "ResponseText": "Other task assistance (provide detail below)",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 868,
+    "PhaseQuestionID": 256,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 869,
+    "PhaseQuestionID": 256,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 870,
+    "PhaseQuestionID": 258,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 871,
+    "PhaseQuestionID": 258,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 872,
+    "PhaseQuestionID": 260,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 873,
+    "PhaseQuestionID": 260,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 874,
+    "PhaseQuestionID": 261,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 875,
+    "PhaseQuestionID": 261,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 876,
+    "PhaseQuestionID": 261,
+    "ResponseText": "Candidate is not a Norm Study nomination",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 877,
+    "PhaseQuestionID": 262,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 878,
+    "PhaseQuestionID": 262,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 879,
+    "PhaseQuestionID": 264,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 880,
+    "PhaseQuestionID": 264,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 881,
+    "PhaseQuestionID": 265,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 882,
+    "PhaseQuestionID": 265,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 883,
+    "PhaseQuestionID": 266,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 884,
+    "PhaseQuestionID": 266,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 891,
+    "PhaseQuestionID": 267,
+    "ResponseText": "0-4%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 892,
+    "PhaseQuestionID": 267,
+    "ResponseText": "5-9%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 893,
+    "PhaseQuestionID": 267,
+    "ResponseText": "10-24%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 894,
+    "PhaseQuestionID": 267,
+    "ResponseText": "25-49%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 895,
+    "PhaseQuestionID": 267,
+    "ResponseText": "50-74%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 896,
+    "PhaseQuestionID": 267,
+    "ResponseText": "75-100%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 897,
+    "PhaseQuestionID": 268,
+    "ResponseText": "0-4%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 898,
+    "PhaseQuestionID": 268,
+    "ResponseText": "5-9%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 899,
+    "PhaseQuestionID": 268,
+    "ResponseText": "10-24%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 900,
+    "PhaseQuestionID": 268,
+    "ResponseText": "25-49%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 901,
+    "PhaseQuestionID": 268,
+    "ResponseText": "50-74%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 902,
+    "PhaseQuestionID": 268,
+    "ResponseText": "75-100%",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 903,
+    "PhaseQuestionID": 269,
+    "ResponseText": "Norm: Norm/Independent Living",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 904,
+    "PhaseQuestionID": 269,
+    "ResponseText": "Com Dwelling: Community-dwelling with Caregiver Assistance",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 905,
+    "PhaseQuestionID": 269,
+    "ResponseText": "Inst Care: Institutional Care with Generalized Motor Impairments",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 906,
+    "PhaseQuestionID": 270,
+    "ResponseText": "My own pool",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 907,
+    "PhaseQuestionID": 270,
+    "ResponseText": "Pearson’s pool",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 908,
+    "PhaseQuestionID": 271,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 909,
+    "PhaseQuestionID": 271,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 910,
+    "PhaseQuestionID": 272,
+    "ResponseText": "PC",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 911,
+    "PhaseQuestionID": 272,
+    "ResponseText": "Mac",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 913,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Do not have a PC",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 914,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Microsoft Windows 95 OSR 2.0",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 915,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Windows 98 Second Edition",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 916,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Windows Millennium Edition",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 917,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Windows NT 4.0 with Service Pack 5",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 918,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Windows NT 4.0 with Service Pack 6",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 919,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Windows 2000",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 920,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Windows XP",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 921,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Windows 7",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 922,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Windows Vista",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 923,
+    "PhaseQuestionID": 273,
+    "ResponseText": "Other",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 924,
+    "PhaseQuestionID": 275,
+    "ResponseText": "Do not have a Mac",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 925,
+    "PhaseQuestionID": 275,
+    "ResponseText": "Mac OS software version 8.6*",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 926,
+    "PhaseQuestionID": 275,
+    "ResponseText": "Mac OS software version 9.0.4",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 927,
+    "PhaseQuestionID": 275,
+    "ResponseText": "Mac OS software version 9.1 or higher",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 928,
+    "PhaseQuestionID": 275,
+    "ResponseText": "Other",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 929,
+    "PhaseQuestionID": 277,
+    "ResponseText": "Yes, I do have access",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 930,
+    "PhaseQuestionID": 277,
+    "ResponseText": "No, I do not have access",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 931,
+    "PhaseQuestionID": 278,
+    "ResponseText": "No, I do not know of another examiner I could recruit",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 932,
+    "PhaseQuestionID": 278,
+    "ResponseText": "Maybe, I may be able to find another examiner to participate",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 933,
+    "PhaseQuestionID": 278,
+    "ResponseText": "Yes, I do know of another examiner and he/she has completed his/her own BMAT examiner application (please provide examiner’s name below)",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 934,
+    "PhaseQuestionID": 252,
+    "ResponseText": "Lives  independently in his/her own home or apartment, performs activities of daily living without the assistance of caregiver (paid or unpaid)",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 935,
+    "PhaseQuestionID": 252,
+    "ResponseText": "Lives without a caregiver but caregiver (paid or unpaid) comes to home at least 5 days/wk to assist w/ activities due to individual’s impairments",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 936,
+    "PhaseQuestionID": 252,
+    "ResponseText": "Lives with a caregiver, doing so because he/she requires assistance with activities of daily living due to individual’s impairments",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 937,
+    "PhaseQuestionID": 252,
+    "ResponseText": "Staying in a  Rehabilitation Center",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 938,
+    "PhaseQuestionID": 252,
+    "ResponseText": "Lives in an Assisted Living Facility",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 939,
+    "PhaseQuestionID": 252,
+    "ResponseText": "Lives in a Skilled Nursing Facility/Nursing Home",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 940,
+    "PhaseQuestionID": 252,
+    "ResponseText": "Other living situation (provide detail below)",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 941,
+    "PhaseQuestionID": 272,
+    "ResponseText": "Do not have computer",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 942,
+    "PhaseQuestionID": 280,
+    "ResponseText": "Check",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 944,
+    "PhaseQuestionID": 280,
+    "ResponseText": "Target Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 945,
+    "PhaseQuestionID": 280,
+    "ResponseText": "Wal-Mart Gift Card",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 950,
+    "PhaseQuestionID": 283,
+    "ResponseText": "English",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 951,
+    "PhaseQuestionID": 283,
+    "ResponseText": "Spanish",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 952,
+    "PhaseQuestionID": 283,
+    "ResponseText": "Other",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 953,
+    "PhaseQuestionID": 284,
+    "ResponseText": "Mexico",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 954,
+    "PhaseQuestionID": 284,
+    "ResponseText": "Puerto Rico",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 955,
+    "PhaseQuestionID": 284,
+    "ResponseText": "Cuba",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 956,
+    "PhaseQuestionID": 284,
+    "ResponseText": "Dominican Republic",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 957,
+    "PhaseQuestionID": 284,
+    "ResponseText": "Central America",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 958,
+    "PhaseQuestionID": 284,
+    "ResponseText": "South America",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 959,
+    "PhaseQuestionID": 284,
+    "ResponseText": "Other",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 960,
+    "PhaseQuestionID": 285,
+    "ResponseText": "Mexico",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 961,
+    "PhaseQuestionID": 285,
+    "ResponseText": "Puerto Rico",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 962,
+    "PhaseQuestionID": 285,
+    "ResponseText": "Cuba",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 963,
+    "PhaseQuestionID": 285,
+    "ResponseText": "Dominican Republic",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 964,
+    "PhaseQuestionID": 285,
+    "ResponseText": "Central America",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 965,
+    "PhaseQuestionID": 285,
+    "ResponseText": "South America",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 966,
+    "PhaseQuestionID": 285,
+    "ResponseText": "Other",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 967,
+    "PhaseQuestionID": 286,
+    "ResponseText": "Always",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 968,
+    "PhaseQuestionID": 286,
+    "ResponseText": "Almost Always",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 969,
+    "PhaseQuestionID": 286,
+    "ResponseText": "Sometimes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 970,
+    "PhaseQuestionID": 286,
+    "ResponseText": "Never",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 971,
+    "PhaseQuestionID": 287,
+    "ResponseText": "Always",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 972,
+    "PhaseQuestionID": 287,
+    "ResponseText": "Almost Always",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 973,
+    "PhaseQuestionID": 287,
+    "ResponseText": "Sometimes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 974,
+    "PhaseQuestionID": 287,
+    "ResponseText": "Never",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 986,
+    "PhaseQuestionID": 282,
+    "ResponseText": "Mother/Female Guardian",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 987,
+    "PhaseQuestionID": 282,
+    "ResponseText": "Father/Male Guardian",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 988,
+    "PhaseQuestionID": 282,
+    "ResponseText": "Both Parents/Guardians",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1004,
+    "PhaseQuestionID": 288,
+    "ResponseText": "At home with family",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1005,
+    "PhaseQuestionID": 288,
+    "ResponseText": "At home with sitter",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1006,
+    "PhaseQuestionID": 288,
+    "ResponseText": "At daycare",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1007,
+    "PhaseQuestionID": 288,
+    "ResponseText": "At preschool",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1008,
+    "PhaseQuestionID": 288,
+    "ResponseText": "In kindergarten classroom",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1009,
+    "PhaseQuestionID": 288,
+    "ResponseText": "In 1st grade classroom",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1010,
+    "PhaseQuestionID": 288,
+    "ResponseText": "Other",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1011,
+    "PhaseQuestionID": 291,
+    "ResponseText": "Always",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1012,
+    "PhaseQuestionID": 291,
+    "ResponseText": "Almost always",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1013,
+    "PhaseQuestionID": 291,
+    "ResponseText": "Sometimes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1014,
+    "PhaseQuestionID": 291,
+    "ResponseText": "Never",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1015,
+    "PhaseQuestionID": 291,
+    "ResponseText": "N.A. Not in school",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1016,
+    "PhaseQuestionID": 292,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1017,
+    "PhaseQuestionID": 292,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1018,
+    "PhaseQuestionID": 293,
+    "ResponseText": "Understands Spanish but no English",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1019,
+    "PhaseQuestionID": 293,
+    "ResponseText": "Understands Spanish and a little English",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1020,
+    "PhaseQuestionID": 293,
+    "ResponseText": "Understands both Spanish and English (understands most of what is said in both languages)",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1021,
+    "PhaseQuestionID": 293,
+    "ResponseText": "Understands some concepts in Spanish and some in English",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1022,
+    "PhaseQuestionID": 293,
+    "ResponseText": "Understands English and a little Spanish",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1023,
+    "PhaseQuestionID": 293,
+    "ResponseText": "Does not understand Spanish; he/she only understands English",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1024,
+    "PhaseQuestionID": 294,
+    "ResponseText": "Speaks Spanish; he or she speaks no English",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1025,
+    "PhaseQuestionID": 294,
+    "ResponseText": "Speaks fluently in Spanish and speaks Spanish most of the time; he or she speaks a little English",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1026,
+    "PhaseQuestionID": 294,
+    "ResponseText": "Speaks fluently in spanish, and speaks in English less well and with effort",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1027,
+    "PhaseQuestionID": 294,
+    "ResponseText": "Speaks fluently in both spanish and English",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1028,
+    "PhaseQuestionID": 294,
+    "ResponseText": "Speaks fluently in English and speaks English most of the time; he or she speaks a little Spanish",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1029,
+    "PhaseQuestionID": 294,
+    "ResponseText": "Speaks in English; he or she speaks no Spanish",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1096,
+    "PhaseQuestionID": 316,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1097,
+    "PhaseQuestionID": 316,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1098,
+    "PhaseQuestionID": 317,
+    "ResponseText": 0,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1099,
+    "PhaseQuestionID": 317,
+    "ResponseText": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1100,
+    "PhaseQuestionID": 317,
+    "ResponseText": 2,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1101,
+    "PhaseQuestionID": 317,
+    "ResponseText": 3,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1102,
+    "PhaseQuestionID": 317,
+    "ResponseText": 4,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1103,
+    "PhaseQuestionID": 317,
+    "ResponseText": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1104,
+    "PhaseQuestionID": 317,
+    "ResponseText": 6,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1105,
+    "PhaseQuestionID": 317,
+    "ResponseText": "N.A. Child lives in Puerto Rico",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1106,
+    "PhaseQuestionID": 318,
+    "ResponseText": 0,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1107,
+    "PhaseQuestionID": 318,
+    "ResponseText": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1108,
+    "PhaseQuestionID": 318,
+    "ResponseText": 2,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1109,
+    "PhaseQuestionID": 318,
+    "ResponseText": 3,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1110,
+    "PhaseQuestionID": 318,
+    "ResponseText": 4,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1111,
+    "PhaseQuestionID": 318,
+    "ResponseText": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1112,
+    "PhaseQuestionID": 318,
+    "ResponseText": 6,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1113,
+    "PhaseQuestionID": 318,
+    "ResponseText": 7,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1114,
+    "PhaseQuestionID": 318,
+    "ResponseText": 8,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1115,
+    "PhaseQuestionID": 318,
+    "ResponseText": 9,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1116,
+    "PhaseQuestionID": 318,
+    "ResponseText": 10,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1117,
+    "PhaseQuestionID": 318,
+    "ResponseText": 11,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1118,
+    "PhaseQuestionID": 318,
+    "ResponseText": 12,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1119,
+    "PhaseQuestionID": 318,
+    "ResponseText": "N.A. Child lives in Puerto Rico",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1120,
+    "PhaseQuestionID": 319,
+    "ResponseText": "No",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1121,
+    "PhaseQuestionID": 319,
+    "ResponseText": "Yes",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1326,
+    "PhaseQuestionID": 250,
+    "ResponseText": "Do not pay",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1328,
+    "PhaseQuestionID": 280,
+    "ResponseText": "Do not pay",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1334,
+    "PhaseQuestionID": 282,
+    "ResponseText": "N/A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1335,
+    "PhaseQuestionID": 283,
+    "ResponseText": "N/A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1336,
+    "PhaseQuestionID": 284,
+    "ResponseText": "N/A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1337,
+    "PhaseQuestionID": 285,
+    "ResponseText": "N/A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1338,
+    "PhaseQuestionID": 286,
+    "ResponseText": "N/A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1339,
+    "PhaseQuestionID": 287,
+    "ResponseText": "N/A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1340,
+    "PhaseQuestionID": 288,
+    "ResponseText": "N/A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1341,
+    "PhaseQuestionID": 293,
+    "ResponseText": "N/A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1342,
+    "PhaseQuestionID": 294,
+    "ResponseText": "N/A",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1365,
+    "PhaseQuestionID": 282,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1366,
+    "PhaseQuestionID": 283,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1367,
+    "PhaseQuestionID": 284,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1368,
+    "PhaseQuestionID": 285,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1369,
+    "PhaseQuestionID": 286,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1370,
+    "PhaseQuestionID": 287,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1371,
+    "PhaseQuestionID": 288,
+    "ResponseText": "No response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1372,
+    "PhaseQuestionID": 291,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1373,
+    "PhaseQuestionID": 292,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1374,
+    "PhaseQuestionID": 293,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1375,
+    "PhaseQuestionID": 294,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1376,
+    "PhaseQuestionID": 316,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1377,
+    "PhaseQuestionID": 317,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1378,
+    "PhaseQuestionID": 318,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionResponseID": 1379,
+    "PhaseQuestionID": 319,
+    "ResponseText": "No Response",
+    "DateDeleted": "NULL"
+  }
+]

@@ -1,0 +1,410 @@
+[
+  {
+    "PhaseQuestionID": 233,
+    "QuestionText": "What is your preferred payment method?",
+    "InputTypeID": 6,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 234,
+    "QuestionText": "TEST QUESTION - DO NOT USE - DPD TEST QUESTION",
+    "InputTypeID": 1,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 235,
+    "QuestionText": "TEST QUESTION 2 - DO NOT USE - DPD TEST QUESTION",
+    "InputTypeID": 1,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 236,
+    "QuestionText": "What is your preferred payment method?",
+    "InputTypeID": 6,
+    "PhaseID": 170
+  },
+  {
+    "PhaseQuestionID": 237,
+    "QuestionText": "TEST QUESTION - OPEND ENDED",
+    "InputTypeID": 5,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 238,
+    "QuestionText": "TEST QUESTION 3 - DO NOT USE - DPS TEST QUESTION",
+    "InputTypeID": 1,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 239,
+    "QuestionText": "TEST QUESTION 4 - DO NOT USE - DPS TEST QUESTION",
+    "InputTypeID": 1,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 240,
+    "QuestionText": "TEST QUESTION 5 - DO NOT USE - DPD TEST QUESTION",
+    "InputTypeID": 1,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 246,
+    "QuestionText": "TEST QUESTION 6 - DO NOT USE - DPD TEST QUESTION",
+    "InputTypeID": 1,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 247,
+    "QuestionText": "TEST QUESTION 7 - DO NOT USE - DPD TEST QUESTION",
+    "InputTypeID": 1,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 248,
+    "QuestionText": "TEST QUESTION 8 - DO NOT USE - DPD TEST QUESTION",
+    "InputTypeID": 1,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 249,
+    "QuestionText": "TEST QUESTION 9  - DO NOT USE - DPD TEST QUESTION",
+    "InputTypeID": 1,
+    "PhaseID": 169
+  },
+  {
+    "PhaseQuestionID": 250,
+    "QuestionText": "What is your preferred payment method?",
+    "InputTypeID": 6,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 251,
+    "QuestionText": "Please indicate the study for which the candidate meets all inclusion and exclusion criteria.",
+    "InputTypeID": 6,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 252,
+    "QuestionText": "Which describes this candidate’s current living situation?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 253,
+    "QuestionText": "If you chose “other living situation”, please describe:",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 254,
+    "QuestionText": "If the individual requires assistance due to motor impairments, cognitive impairments, or both, check the main tasks for which the individual requires assistance (Check all that apply)",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 255,
+    "QuestionText": "If you checked “other task assistance” above, please describe the assistance:",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 256,
+    "QuestionText": "Does the individual have gross motor impairments?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 257,
+    "QuestionText": "Please describe any gross motor impairments",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 258,
+    "QuestionText": "Does the individual have fine motor impairments?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 259,
+    "QuestionText": "Please describe any fine motor impairments",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 260,
+    "QuestionText": "Is the individual able to walk for short periods without assistance during testing (even if preferring to use a cane or walker normally)?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 261,
+    "QuestionText": "If this candidate is being nominated for the Norm study, is the individual currently taking any of the medications on the medications exclusion list for norm sample cases?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 262,
+    "QuestionText": "Do you have any problems moving one or more parts of your body (arms, legs, fingers, hands, etc.)?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 263,
+    "QuestionText": "If yes, please explain briefly",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 264,
+    "QuestionText": "Do you live in your own home without needing regular help with everyday tasks such as cooking, cleaning, and taking care of yourself?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 265,
+    "QuestionText": "Did you participate in any of the B-MAT (formerly BOT-2 Adult) pilot studies?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 266,
+    "QuestionText": "Do you have experience administering the current BOT-2 for children?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 267,
+    "QuestionText": "Approximately what percent of your professional time is spent with individuals age 40-70 years old?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 268,
+    "QuestionText": "Approximately what percent of your professional time is spent with individuals age older than 70 years old?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 269,
+    "QuestionText": "Which study samples do you have access to test for the B-MAT standardization? Select all that apply.",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 270,
+    "QuestionText": "We may be able to find candidates for you. Examiners with their own access are preferred. Indicate the pool(s) of candidates you would be willing to test. (select both if applicable)",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 271,
+    "QuestionText": "BMAT testing requires the use of a computer. Do you have a laptop or desktop you could use for testing? If it is a desktop, it must be in a location with at least 10X12 feet of space to complete the BMAT tasks.",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 272,
+    "QuestionText": "What type of computer(s) do you have access to for use during the BMAT testing?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 273,
+    "QuestionText": "What operating system do your PC computer(s) run on?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 274,
+    "QuestionText": "If you chose Other Operating System for your PC (please specify)",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 275,
+    "QuestionText": "What is the operating system for your MAC computer(s)?",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 276,
+    "QuestionText": "If you chose Other Operating System for your Mac (please specify)",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 277,
+    "QuestionText": "To participate you must have access to some additional testing materials not supplied by Pearson (tape measure, tape, 12 inch ruler, standard armless chair, 2-, 4, 5-, & 8-pound dumbbells, stair or exercise step, 7-8 inches in height). Please confirm whether or not you do have access.",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 278,
+    "QuestionText": "A subset of the BMAT NORM/Independent Living subjects can be assigned to an Interscorer study if you know of another qualified examiner that could participate in the BMAT standardization. This examiner would sit in on a select number of your testing sessions and score as you are testing. Please select a response regarding this possibility for you.",
+    "InputTypeID": 1,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 279,
+    "QuestionText": "If you said you could participate in the interscorer study, please identify your colleague who would work with you on that testing.",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 280,
+    "QuestionText": "What is your preferred payment method?",
+    "InputTypeID": 6,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 282,
+    "QuestionText": "Who spends more time with the child on a daily basis?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 283,
+    "QuestionText": "What language does the primary caregiver speak to the child?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 284,
+    "QuestionText": "What is the child’s mother’s (or female guardian’s) nationality (family origin)?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 285,
+    "QuestionText": "What is the child’s father’s (or male guardian’s) nationality (family origin)?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 286,
+    "QuestionText": "This child speaks Spanish at home with family?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 287,
+    "QuestionText": "This child speaks Spanish in the neighborhood with friends?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 288,
+    "QuestionText": "Where does the child spend most of the day?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 291,
+    "QuestionText": "This child speaks Spanish in the classroom?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 292,
+    "QuestionText": "Was the child born prematurely?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 293,
+    "QuestionText": "Which best describes your child’s language comprehension?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 294,
+    "QuestionText": "Which best describes your child’s spoken language?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 295,
+    "QuestionText": "If you chose \"Other\" for language caregiver speaks to child, please specify",
+    "InputTypeID": 5,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 296,
+    "QuestionText": "If father's (or male guardian's) nationality (family origin) is Central America South America or Other, please specify.",
+    "InputTypeID": 5,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 297,
+    "QuestionText": "If mother's (or female guardian's) nationality (family origin) is Central America South America or Other, please specify.",
+    "InputTypeID": 5,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 298,
+    "QuestionText": "If the child speaks other languages or dialects, please specify.",
+    "InputTypeID": 5,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 299,
+    "QuestionText": "If the child was born prematurely, please specify.",
+    "InputTypeID": 5,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 300,
+    "QuestionText": "If \"Other\" was selected on where child spends most of day, please specify.",
+    "InputTypeID": 5,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 316,
+    "QuestionText": "Is the child colorblind?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 317,
+    "QuestionText": "How long has the child lived in the U.S. in years?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 318,
+    "QuestionText": "How long has the child lived in the U.S. in months?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 319,
+    "QuestionText": "Does the child speak other languages or dialects (e.g., Portuguese, English, Náhuatl, Maya)?",
+    "InputTypeID": 1,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 418,
+    "QuestionText": "List medications.",
+    "InputTypeID": 5,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 419,
+    "QuestionText": "Gift card tracking #.",
+    "InputTypeID": 5,
+    "PhaseID": 172
+  },
+  {
+    "PhaseQuestionID": 428,
+    "QuestionText": "List medications.",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  },
+  {
+    "PhaseQuestionID": 429,
+    "QuestionText": "Gift card tracking #.",
+    "InputTypeID": 5,
+    "PhaseID": 171
+  }
+]

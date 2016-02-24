@@ -1,0 +1,11 @@
+<div>
+  <form name="candidate_information">
+    <input type="text" ng-model="examinee.FirstName" />
+    <input type="text" ng-model="examinee.LastName" />
+    <input type="text" ng-model="examinee.MiddleInitial" />
+    <input type="text" ng-model="examinee.DateofBirth" />
+    <input type="checkbox" ng-model="examinee.LivesWithSelf" />
+    <select>
+      <option ng-repeat="for option in lookup['Gender']" value={{option.LkpValue}}>{{option.ValueDescription}}</option>
+  </form>
+</div>
