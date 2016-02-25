@@ -6,8 +6,8 @@ app.controller('Demographic',function($scope,$https){
     PhaseID: null,
     CandidateID: null,
     LastName: null,
-    FirstName:: null,
-    MiddleInitial:: null,
+    FirstName: null,
+    MiddleInitial: null,
     DateofBirth: null,
     EmailAddress: null,
     GenderID: null,
@@ -39,7 +39,7 @@ app.controller('Demographic',function($scope,$https){
     AnyMedications: null,
     MedicationsList: null,
     DoNotWishtoBeContacted: null
-  }
+  };
 });
 app.directive('demographic', function(){
   return {
