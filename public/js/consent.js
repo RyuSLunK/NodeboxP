@@ -1,6 +1,7 @@
 
 var app = angular.module('consentForm', []);
-app.controller('Demographic',function($scope,$https){
+
+app.controller('Demographic',function($scope,$http){
   $scope.examinee = {
     ExamineeID: null,
     PhaseID: null,
@@ -39,6 +40,38 @@ app.controller('Demographic',function($scope,$https){
     AnyMedications: null,
     MedicationsList: null,
     DoNotWishtoBeContacted: null
+  };
+  $scope.lookupLists = {
+    Genders: [
+      {GenderID: 1, GenderDescription: "Male"},
+      {GenderID: 2, GenderDescription: "Female"}
+    ]
+  };
+  $scope.lookup = function(codes){
+    console.log("LOOKUP FIRED");
+    $http.get('/getGenericList?s=' + codes.join(',')).then(function(response){
+      if(!response.error){
+        $scope.lookupLists = response.data;
+        console.log(response.data);
+        console.log(response);
+      }
+    });
+  };
+  lookup_init_list = ["Grade","Language","Country","Education Levels"];
+  $scope.lookup(lookup_init_list);
+/*lookup_init_list.forEach(function(item){
+  $scope.lookup(item);
+});*/
+
+window.tester = $scope.lookupLists;
+window.scopetest = $scope;
+});
+app.directive('debugdemo', function(){
+  return {
+    restrict: 'E',
+    replace: 'true',
+    controller: 'Demographic',
+    template: '<div>{{JSON.stringify(examinee)}}</div>'
   };
 });
 app.directive('demographic', function(){

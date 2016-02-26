@@ -1,11 +1,36 @@
 <div>
-  <form name="candidate_information">
+  <form class="testform1" name="candidate_information">
+    <style>
+    .testform1 input, .testform1 select{display: block;}
+
+    </style>
+    <label>Candidate First Name:</label>
     <input type="text" ng-model="examinee.FirstName" />
+    <label>Candidate Last Name:</label>
     <input type="text" ng-model="examinee.LastName" />
+    <label>MI:</label>
     <input type="text" ng-model="examinee.MiddleInitial" />
+    <label>DOB (mm/dd/yyy):</label>
     <input type="text" ng-model="examinee.DateofBirth" />
+    <label>(if Candidate is 18 yrs or older)</label>
     <input type="checkbox" ng-model="examinee.LivesWithSelf" />
-    <select>
-      <option ng-repeat="for option in lookup['Gender']" value={{option.LkpValue}}>{{option.ValueDescription}}</option>
+    <label>Gender:</label>
+    <select ng-model="examinee.GenderID" ng-options="item.GenderID as item.GenderDescription for item in lookupLists.Genders">
+    </select>
+    <label>Grade:</label>
+    <select ng-model="examinee.GradeID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Grade.values">
+    </select>
+    <!-- Ethnicity goes here -->
+    <!-- Language Goes here -->
+    <label>**The language spoken most often in the home is:</label>
+    <select ng-model="examinee.LanguageSpokenAtHomeID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Language.values"></select>
+    <label>**If other language (please specify):</label>
+    <input type="text" ng-model="examinee.OtherLanguageSpokenAtHome" />
+    <label>Mother's Language Country of Origin (required if Speaks Spanish selected for language)</label>
+    <select ng-model="examinee.MotherCountryOfOriginID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Country.values"></select>
+    <label>Father's Language Country of Origin (required if Speaks Spanish selected for language)</label>
+    <select ng-model="examinee.FatherCountryOfOriginID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Country.values"></select>
+    <label>Candidate's Language Country of Origin (required if Speaks Spanish selected for language)</label>
+    <select ng-model="examinee.SelfCountryOfOriginID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Country.values"></select>
   </form>
 </div>

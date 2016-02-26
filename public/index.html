@@ -6,9 +6,12 @@
   <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 </head>
 <body ng-app="consentForm">
-  <signature/>
+
+  <signature></signature>
+  <demographic></demographic>
   <p lorem ng-repeat='i in [1,2,3,4,5,6,7]'>
 
-  <p>
+  </p>
+  <div style="word-wrap:break-word;width:100%;background-color:black;color:white;font-size:16px;font-weight:bold;" ng-controller="Demographic" ng-model="examinee">{{examinee}}</div>
 </body>
 </html>

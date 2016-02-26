@@ -1,0 +1,32 @@
+[
+  {
+    "InputTypeID": 1,
+    "InputDescription": "Multiple Choice",
+    "DateDeleted": "NULL"
+  },
+  {
+    "InputTypeID": 2,
+    "InputDescription": "Date",
+    "DateDeleted": "NULL"
+  },
+  {
+    "InputTypeID": 3,
+    "InputDescription": "Date Range",
+    "DateDeleted": "NULL"
+  },
+  {
+    "InputTypeID": 4,
+    "InputDescription": "Numeric",
+    "DateDeleted": "NULL"
+  },
+  {
+    "InputTypeID": 5,
+    "InputDescription": "Open Ended",
+    "DateDeleted": "NULL"
+  },
+  {
+    "InputTypeID": 6,
+    "InputDescription": "Non-Std Variable",
+    "DateDeleted": "NULL"
+  }
+]

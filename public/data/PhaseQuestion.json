@@ -1,410 +1,3005 @@
 [
   {
     "PhaseQuestionID": 233,
+    "PhaseID": 169,
     "QuestionText": "What is your preferred payment method?",
     "InputTypeID": 6,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 234,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION - DO NOT USE - DPD TEST QUESTION",
     "InputTypeID": 1,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 235,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION 2 - DO NOT USE - DPD TEST QUESTION",
     "InputTypeID": 1,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 236,
+    "PhaseID": 170,
     "QuestionText": "What is your preferred payment method?",
     "InputTypeID": 6,
-    "PhaseID": 170
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 237,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION - OPEND ENDED",
     "InputTypeID": 5,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 238,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION 3 - DO NOT USE - DPS TEST QUESTION",
     "InputTypeID": 1,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 239,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION 4 - DO NOT USE - DPS TEST QUESTION",
     "InputTypeID": 1,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 240,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION 5 - DO NOT USE - DPD TEST QUESTION",
     "InputTypeID": 1,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 246,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION 6 - DO NOT USE - DPD TEST QUESTION",
     "InputTypeID": 1,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 247,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION 7 - DO NOT USE - DPD TEST QUESTION",
     "InputTypeID": 1,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 248,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION 8 - DO NOT USE - DPD TEST QUESTION",
     "InputTypeID": 1,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 249,
+    "PhaseID": 169,
     "QuestionText": "TEST QUESTION 9  - DO NOT USE - DPD TEST QUESTION",
     "InputTypeID": 1,
-    "PhaseID": 169
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 250,
+    "PhaseID": 171,
     "QuestionText": "What is your preferred payment method?",
     "InputTypeID": 6,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 251,
+    "PhaseID": 171,
     "QuestionText": "Please indicate the study for which the candidate meets all inclusion and exclusion criteria.",
     "InputTypeID": 6,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 252,
+    "PhaseID": 171,
     "QuestionText": "Which describes this candidate’s current living situation?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 253,
+    "PhaseID": 171,
     "QuestionText": "If you chose “other living situation”, please describe:",
     "InputTypeID": 5,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 254,
+    "PhaseID": 171,
     "QuestionText": "If the individual requires assistance due to motor impairments, cognitive impairments, or both, check the main tasks for which the individual requires assistance (Check all that apply)",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 255,
+    "PhaseID": 171,
     "QuestionText": "If you checked “other task assistance” above, please describe the assistance:",
     "InputTypeID": 5,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 256,
+    "PhaseID": 171,
     "QuestionText": "Does the individual have gross motor impairments?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 257,
+    "PhaseID": 171,
     "QuestionText": "Please describe any gross motor impairments",
     "InputTypeID": 5,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 258,
+    "PhaseID": 171,
     "QuestionText": "Does the individual have fine motor impairments?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 259,
+    "PhaseID": 171,
     "QuestionText": "Please describe any fine motor impairments",
     "InputTypeID": 5,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 260,
+    "PhaseID": 171,
     "QuestionText": "Is the individual able to walk for short periods without assistance during testing (even if preferring to use a cane or walker normally)?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 261,
+    "PhaseID": 171,
     "QuestionText": "If this candidate is being nominated for the Norm study, is the individual currently taking any of the medications on the medications exclusion list for norm sample cases?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 262,
+    "PhaseID": 171,
     "QuestionText": "Do you have any problems moving one or more parts of your body (arms, legs, fingers, hands, etc.)?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 263,
+    "PhaseID": 171,
     "QuestionText": "If yes, please explain briefly",
     "InputTypeID": 5,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 264,
+    "PhaseID": 171,
     "QuestionText": "Do you live in your own home without needing regular help with everyday tasks such as cooking, cleaning, and taking care of yourself?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 265,
+    "PhaseID": 171,
     "QuestionText": "Did you participate in any of the B-MAT (formerly BOT-2 Adult) pilot studies?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 266,
+    "PhaseID": 171,
     "QuestionText": "Do you have experience administering the current BOT-2 for children?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 267,
+    "PhaseID": 171,
     "QuestionText": "Approximately what percent of your professional time is spent with individuals age 40-70 years old?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 268,
+    "PhaseID": 171,
     "QuestionText": "Approximately what percent of your professional time is spent with individuals age older than 70 years old?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 269,
+    "PhaseID": 171,
     "QuestionText": "Which study samples do you have access to test for the B-MAT standardization? Select all that apply.",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 270,
+    "PhaseID": 171,
     "QuestionText": "We may be able to find candidates for you. Examiners with their own access are preferred. Indicate the pool(s) of candidates you would be willing to test. (select both if applicable)",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 271,
+    "PhaseID": 171,
     "QuestionText": "BMAT testing requires the use of a computer. Do you have a laptop or desktop you could use for testing? If it is a desktop, it must be in a location with at least 10X12 feet of space to complete the BMAT tasks.",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 272,
+    "PhaseID": 171,
     "QuestionText": "What type of computer(s) do you have access to for use during the BMAT testing?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 273,
+    "PhaseID": 171,
     "QuestionText": "What operating system do your PC computer(s) run on?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 274,
+    "PhaseID": 171,
     "QuestionText": "If you chose Other Operating System for your PC (please specify)",
     "InputTypeID": 5,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 275,
+    "PhaseID": 171,
     "QuestionText": "What is the operating system for your MAC computer(s)?",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 276,
+    "PhaseID": 171,
     "QuestionText": "If you chose Other Operating System for your Mac (please specify)",
     "InputTypeID": 5,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 277,
+    "PhaseID": 171,
     "QuestionText": "To participate you must have access to some additional testing materials not supplied by Pearson (tape measure, tape, 12 inch ruler, standard armless chair, 2-, 4, 5-, & 8-pound dumbbells, stair or exercise step, 7-8 inches in height). Please confirm whether or not you do have access.",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 278,
+    "PhaseID": 171,
     "QuestionText": "A subset of the BMAT NORM/Independent Living subjects can be assigned to an Interscorer study if you know of another qualified examiner that could participate in the BMAT standardization. This examiner would sit in on a select number of your testing sessions and score as you are testing. Please select a response regarding this possibility for you.",
     "InputTypeID": 1,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 279,
+    "PhaseID": 171,
     "QuestionText": "If you said you could participate in the interscorer study, please identify your colleague who would work with you on that testing.",
     "InputTypeID": 5,
-    "PhaseID": 171
-  },
-  {
-    "PhaseQuestionID": 280,
-    "QuestionText": "What is your preferred payment method?",
-    "InputTypeID": 6,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 282,
-    "QuestionText": "Who spends more time with the child on a daily basis?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 283,
-    "QuestionText": "What language does the primary caregiver speak to the child?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 284,
-    "QuestionText": "What is the child’s mother’s (or female guardian’s) nationality (family origin)?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 285,
-    "QuestionText": "What is the child’s father’s (or male guardian’s) nationality (family origin)?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 286,
-    "QuestionText": "This child speaks Spanish at home with family?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 287,
-    "QuestionText": "This child speaks Spanish in the neighborhood with friends?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 288,
-    "QuestionText": "Where does the child spend most of the day?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 291,
-    "QuestionText": "This child speaks Spanish in the classroom?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 292,
-    "QuestionText": "Was the child born prematurely?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 293,
-    "QuestionText": "Which best describes your child’s language comprehension?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 294,
-    "QuestionText": "Which best describes your child’s spoken language?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 295,
-    "QuestionText": "If you chose \"Other\" for language caregiver speaks to child, please specify",
-    "InputTypeID": 5,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 296,
-    "QuestionText": "If father's (or male guardian's) nationality (family origin) is Central America South America or Other, please specify.",
-    "InputTypeID": 5,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 297,
-    "QuestionText": "If mother's (or female guardian's) nationality (family origin) is Central America South America or Other, please specify.",
-    "InputTypeID": 5,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 298,
-    "QuestionText": "If the child speaks other languages or dialects, please specify.",
-    "InputTypeID": 5,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 299,
-    "QuestionText": "If the child was born prematurely, please specify.",
-    "InputTypeID": 5,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 300,
-    "QuestionText": "If \"Other\" was selected on where child spends most of day, please specify.",
-    "InputTypeID": 5,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 316,
-    "QuestionText": "Is the child colorblind?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 317,
-    "QuestionText": "How long has the child lived in the U.S. in years?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 318,
-    "QuestionText": "How long has the child lived in the U.S. in months?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 319,
-    "QuestionText": "Does the child speak other languages or dialects (e.g., Portuguese, English, Náhuatl, Maya)?",
-    "InputTypeID": 1,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 418,
-    "QuestionText": "List medications.",
-    "InputTypeID": 5,
-    "PhaseID": 172
-  },
-  {
-    "PhaseQuestionID": 419,
-    "QuestionText": "Gift card tracking #.",
-    "InputTypeID": 5,
-    "PhaseID": 172
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 428,
+    "PhaseID": 171,
     "QuestionText": "List medications.",
     "InputTypeID": 5,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
   },
   {
     "PhaseQuestionID": 429,
+    "PhaseID": 171,
     "QuestionText": "Gift card tracking #.",
     "InputTypeID": 5,
-    "PhaseID": 171
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1080,
+    "PhaseID": 229,
+    "QuestionText": "What is your preferred payment method?",
+    "InputTypeID": 6,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1082,
+    "PhaseID": 229,
+    "QuestionText": "Have you completed coursework in transcription using International Phonetic Alphabet (IPA)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1140,
+    "PhaseID": 229,
+    "QuestionText": "Esta el nino/a expuesto a otro lenguaje ademas del espanol?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1141,
+    "PhaseID": 229,
+    "QuestionText": "Si el nino/a habla espanol e ingles, habla el nino/a mayormente espanol y un poco de ingles?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1142,
+    "PhaseID": 229,
+    "QuestionText": "Si el nino/a habla espanol e ingles, habla el nino/a la misma cantidad de espanol e ingles?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1143,
+    "PhaseID": 229,
+    "QuestionText": "Si el nonio/a hable espanol e ingles, habla el nino/a mayormente ingles y un poco de espanol?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1144,
+    "PhaseID": 229,
+    "QuestionText": "Does the student have a history of speech or language problems? (Check one)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1145,
+    "PhaseID": 229,
+    "QuestionText": "Does the student have a history of chronic ear infections?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1146,
+    "PhaseID": 229,
+    "QuestionText": "Was the child born prematurely?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1147,
+    "PhaseID": 229,
+    "QuestionText": "Is the student color blind?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1148,
+    "PhaseID": 229,
+    "QuestionText": "Did the student begin to talk at about the same time as other children his or her age?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1149,
+    "PhaseID": 229,
+    "QuestionText": "What is the child’s mother’s (or female guardian’s) nationality (family origin)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1150,
+    "PhaseID": 229,
+    "QuestionText": "What is the child’s father’s (or male guardian’s) nationality (family origin)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1151,
+    "PhaseID": 229,
+    "QuestionText": "If the child is exposed to another language please specify the situation and language.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1152,
+    "PhaseID": 229,
+    "QuestionText": "Have ethe childs parents or teachers ever been concerned about the childs speech or language development?  Please explain.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1153,
+    "PhaseID": 229,
+    "QuestionText": "If the Special Education Services were checked in the Services or Treatments section above, please specify the types of services being provided.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1154,
+    "PhaseID": 229,
+    "QuestionText": "If other, please specify.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1155,
+    "PhaseID": 229,
+    "QuestionText": "If CA, SA, or other, please specify.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1156,
+    "PhaseID": 229,
+    "QuestionText": "If the child was born prematurely, please specify number of weeks premature.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1157,
+    "PhaseID": 229,
+    "QuestionText": "If the child has a histor of chronic ear infections, please specify average number per year.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1158,
+    "PhaseID": 229,
+    "QuestionText": "If the child has a history of speech or language problems, please explain.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1159,
+    "PhaseID": 229,
+    "QuestionText": "If the child did not begin to talk about the same time as other children his or her age, please explain.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1160,
+    "PhaseID": 229,
+    "QuestionText": "Was a SPANISH consent form received?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1269,
+    "PhaseID": 250,
+    "QuestionText": "What is your preferred payment method?",
+    "InputTypeID": 6,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1270,
+    "PhaseID": 250,
+    "QuestionText": "Esta el nino/a expuesto a otro lenguaje ademas del espanol?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1271,
+    "PhaseID": 250,
+    "QuestionText": "Si el nino/a habla espanol e ingles, habla el nino/a mayormente espanol y un poco de ingles?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1272,
+    "PhaseID": 250,
+    "QuestionText": "Si el nino/a habla espanol e ingles, habla el nino/a la misma cantidad de espanol e ingles?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1273,
+    "PhaseID": 250,
+    "QuestionText": "Si el nino/a hable espanol e ingles, habla el nino/a mayormente ingles y un poco de espanol?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1274,
+    "PhaseID": 250,
+    "QuestionText": "What is the child’s mother’s (or female guardian’s) nationality (family origin)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1275,
+    "PhaseID": 250,
+    "QuestionText": "What is the child’s father’s (or male guardian’s) nationality (family origin)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1276,
+    "PhaseID": 250,
+    "QuestionText": "Is the child colorblind?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1277,
+    "PhaseID": 250,
+    "QuestionText": "Did the child begin to talk at about the same time as other children his or her age? (check one.)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1278,
+    "PhaseID": 250,
+    "QuestionText": "Was the child born prematurely? (check one.)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1279,
+    "PhaseID": 250,
+    "QuestionText": "Does the child have a history of chronic ear infections? (check one).",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1280,
+    "PhaseID": 250,
+    "QuestionText": "Does the child have a history of speech or language problems? (check one.)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1281,
+    "PhaseID": 250,
+    "QuestionText": "If the child did not begin to talk about the same time as other children his or her age, please explain.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1282,
+    "PhaseID": 250,
+    "QuestionText": "If the child has a history of speech or language problems, please explain.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1283,
+    "PhaseID": 250,
+    "QuestionText": "If the child was born prematurely, please specify number of weeks premature.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1284,
+    "PhaseID": 250,
+    "QuestionText": "If the child has a histor of chronic ear infections, please specify average number per year.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1285,
+    "PhaseID": 250,
+    "QuestionText": "If Special Education Services were checked in the Services or Treatments section, please specify the type(s) of services being provided.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1286,
+    "PhaseID": 250,
+    "QuestionText": "Have ethe childs parents or teachers ever been concerned about the childs speech or language development?  Please explain.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1287,
+    "PhaseID": 250,
+    "QuestionText": "If other, specify.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1288,
+    "PhaseID": 250,
+    "QuestionText": "If other, please be specific",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1289,
+    "PhaseID": 250,
+    "QuestionText": "If the child is exposed to another language, please explain.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1290,
+    "PhaseID": 250,
+    "QuestionText": "Are you color blind?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1291,
+    "PhaseID": 250,
+    "QuestionText": "Have you ever received Speech or Language therapy/treatment services?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1292,
+    "PhaseID": 250,
+    "QuestionText": "Does the student have a history of speech or language problems?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1293,
+    "PhaseID": 250,
+    "QuestionText": "What is your nationality (family origin)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1294,
+    "PhaseID": 250,
+    "QuestionText": "Usted esta expuesto a otro lenguaje ademas del espanol?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1295,
+    "PhaseID": 250,
+    "QuestionText": "Si usted habla espanol y ingles, habla mayormente espanol y un poco de ingles?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1296,
+    "PhaseID": 250,
+    "QuestionText": "Si usted habla espanol e ingles, habla la misma canitidad de espanol e igles?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1297,
+    "PhaseID": 250,
+    "QuestionText": "Si usted habla espanol e ingles, habla mayorment ingles y u poco de espanol?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1298,
+    "PhaseID": 250,
+    "QuestionText": "Si usted esta esxpuesto a otro lenguaje, por favor espcifique el lenguaje y las circumstancias.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1299,
+    "PhaseID": 250,
+    "QuestionText": "Si usted ha tenido un historial de problemas del habla-lenguaje, por favor explique.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1300,
+    "PhaseID": 250,
+    "QuestionText": "Si ha recibido terapia del habla-lenguaje, pro favor explique.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1483,
+    "PhaseID": 278,
+    "QuestionText": "What is your preferred payment method (select 1 option)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1528,
+    "PhaseID": 283,
+    "QuestionText": "What is your preferred payment method?",
+    "InputTypeID": 6,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1529,
+    "PhaseID": 283,
+    "QuestionText": "¿Necesita su niño(a) usar un audífono o aparato para escuchar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1530,
+    "PhaseID": 283,
+    "QuestionText": "Por favor indique la frase que mejor describe el entendimiento de espanol y/o ingles de su nino(a):",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1531,
+    "PhaseID": 283,
+    "QuestionText": "Es el espanol su primer idioma?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1532,
+    "PhaseID": 283,
+    "QuestionText": "Has your child taken a test of intelligence or IQ before?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1533,
+    "PhaseID": 283,
+    "QuestionText": "Cual es la nacionalidad de su nino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1534,
+    "PhaseID": 283,
+    "QuestionText": "Si necesita un audífono o aparato para escuchar, ¿cuándo fue la última vez que lo ajustó?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1535,
+    "PhaseID": 283,
+    "QuestionText": "Por favor indique la frase que mejor describe su conversacion en espanol y/o ingles:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1536,
+    "PhaseID": 283,
+    "QuestionText": "Si otra, cual?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1537,
+    "PhaseID": 283,
+    "QuestionText": "Si sí, ¿cuándo fue la última vez?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1538,
+    "PhaseID": 283,
+    "QuestionText": "If no, which one is?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1539,
+    "PhaseID": 284,
+    "QuestionText": "What is your preferred payment method?",
+    "InputTypeID": 6,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1540,
+    "PhaseID": 284,
+    "QuestionText": "Por favor indique los nombres y dosis de los medicamentos que su niño(a) haya tomado el día de hoy.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1541,
+    "PhaseID": 284,
+    "QuestionText": "¿Ha padecido su niño(a) una conmoción cerebral/contusión?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1542,
+    "PhaseID": 284,
+    "QuestionText": "¿Ha padecido su niño(a) un traumatismo cerebral o lesión en la cabeza?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1543,
+    "PhaseID": 284,
+    "QuestionText": "A4. ¿Ha tomado la escala de coma de Glasgow?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1544,
+    "PhaseID": 284,
+    "QuestionText": "¿Es el español el primer idioma de su niño(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1545,
+    "PhaseID": 284,
+    "QuestionText": "¿Tiene su niño(a) problemas para dormir?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1546,
+    "PhaseID": 284,
+    "QuestionText": "¿Necesita su niño(a) usar un audífono o aparato para escuchar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1547,
+    "PhaseID": 284,
+    "QuestionText": "Has your child ever been treated for alcohol or substance use?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1548,
+    "PhaseID": 284,
+    "QuestionText": "Has your child taken a test of intelligence or IQ before?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1549,
+    "PhaseID": 284,
+    "QuestionText": "Cual es la nacionalidad de su nino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1550,
+    "PhaseID": 284,
+    "QuestionText": "A24a. Si sí, ¿cuándo fue la última vez?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1551,
+    "PhaseID": 284,
+    "QuestionText": "A26a. Si Otra, ¿cuál?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1552,
+    "PhaseID": 284,
+    "QuestionText": "A6a. Si necesita un audífono o aparato para escuchar, ¿cuándo fue la última vez que lo ajustó?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1553,
+    "PhaseID": 284,
+    "QuestionText": "Por favor describa si su niño(a) necesita ayuda con sus rutinas diarias (p. ej.,  bañarse, ir de compras).",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1554,
+    "PhaseID": 284,
+    "QuestionText": "Por favor describa cualquier dolor que su niño(a) sienta en este momento.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1555,
+    "PhaseID": 284,
+    "QuestionText": "Por favor describa cualquier dificultad que tenga su niño(a) al usar sus manos (p. ej., rigidez o endurecimiento de las articulaciones o coyunturas, dificultades motrices).",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1556,
+    "PhaseID": 284,
+    "QuestionText": "Por favor describa alguna inquietud que su niño(a) tenga relacionada con el tomar esta prueba.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1557,
+    "PhaseID": 284,
+    "QuestionText": "A4a. Si sí, ¿cuál fue el puntaje?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1558,
+    "PhaseID": 284,
+    "QuestionText": "Is your child currently in a corrections facility?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1559,
+    "PhaseID": 284,
+    "QuestionText": "Si no, ha tomado su  nino(a) alguan otra escala de traumatismo cerebral?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1560,
+    "PhaseID": 284,
+    "QuestionText": "A27a. Si su ocupación es otra, ¿cuál es?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1561,
+    "PhaseID": 284,
+    "QuestionText": "A2a. Si sí, ¿cuándo ocurrio?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1562,
+    "PhaseID": 284,
+    "QuestionText": "A12a. Si sí, ¿desde hace cuánto tiempo?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1563,
+    "PhaseID": 284,
+    "QuestionText": "A15a. Si No, ¿cuál es?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1564,
+    "PhaseID": 284,
+    "QuestionText": "If in remission, for how long?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1565,
+    "PhaseID": 284,
+    "QuestionText": "Por favor describa cualquier problema auditivo que su niño(a) tenga.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1566,
+    "PhaseID": 284,
+    "QuestionText": "A3a. Si sí, ¿cuántas veces?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1567,
+    "PhaseID": 284,
+    "QuestionText": "Por favor describa algún problema de la vista que su niño(a) tenga.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1568,
+    "PhaseID": 284,
+    "QuestionText": "A10a. Si sí, ¿por cuánto tiempo y qué tipo de tratamiento?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1569,
+    "PhaseID": 284,
+    "QuestionText": "A14a. Si si, cuanto tiempo lleva alli?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1570,
+    "PhaseID": 284,
+    "QuestionText": "A2b. ¿Fue leve, moderada o severa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1571,
+    "PhaseID": 284,
+    "QuestionText": "Si Si, se encuentra su nino en remision en la actuallidad para el abuso o dependencia de alcohol o drogas?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1572,
+    "PhaseID": 284,
+    "QuestionText": "How many hours of sleep did the student have last night?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1573,
+    "PhaseID": 284,
+    "QuestionText": "Por favor indique la frase que mejor describe el entendimiento de espanol y/o ingles de su nino(a):",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1574,
+    "PhaseID": 284,
+    "QuestionText": "A17. Por favor seleccione la frase que mejor describe su conversacion en espanol y/o en ingles",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1575,
+    "PhaseID": 284,
+    "QuestionText": "A continuacion hay una lista que contiene diferentes categorias de ocupacions. Por favor escoja la categoria que mejor describa la ocupacion actual de los padres:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1576,
+    "PhaseID": 284,
+    "QuestionText": "A6. ¿Necesita usar un audífono o aparato para escuchar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1577,
+    "PhaseID": 284,
+    "QuestionText": "A9. ¿Tiene problemas para dormir?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1578,
+    "PhaseID": 284,
+    "QuestionText": "A24. ¿Ha tomado una prueba de inteligencia o “IQ” anteriormente?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1579,
+    "PhaseID": 284,
+    "QuestionText": "A23. ¿Ha tenido entrenamiento en Psicología a nivel posgrado?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1580,
+    "PhaseID": 284,
+    "QuestionText": "A14. ¿Se encuentra actualmente en la cárcel?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1581,
+    "PhaseID": 284,
+    "QuestionText": "A15. Es el espanol su primer idioma?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1582,
+    "PhaseID": 284,
+    "QuestionText": "A2. ¿Ha padecido un traumatismo cerebral o lesión en la cabeza?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1583,
+    "PhaseID": 284,
+    "QuestionText": "A3. ¿Ha padecido una conmoción cerebral/contusión?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1584,
+    "PhaseID": 284,
+    "QuestionText": "A10. ¿Se encuentra usted actualmente bajo tratamiento para el abuso o dependencia de alcohol o drogas?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1585,
+    "PhaseID": 284,
+    "QuestionText": "A11. Recibio en el pasado tratamiento para el abuso o dependencia de alcohol o drogas?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1586,
+    "PhaseID": 284,
+    "QuestionText": "A13. ¿Actualmente usa drogas?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1587,
+    "PhaseID": 284,
+    "QuestionText": "A25. Cuando usted era niño(a), ¿recibió servicios de educación especial?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1588,
+    "PhaseID": 284,
+    "QuestionText": "A26. ¿Cuál es su nacionalidad?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1589,
+    "PhaseID": 284,
+    "QuestionText": "A22. ¿Está usted viendo a un doctor u otro profesional por problemas de memoria o pensamiento?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1590,
+    "PhaseID": 284,
+    "QuestionText": "A16. Por favor circule el número con la frase que mejor describe su entendimiento de español y/o inglés",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1591,
+    "PhaseID": 284,
+    "QuestionText": "A1. Por favor indique los nombres y la dosis de los medicamentos que haya tomado el día de hoy.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1592,
+    "PhaseID": 284,
+    "QuestionText": "A5. Por favor describa cualquier problema que usted tenga para escuchar.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1593,
+    "PhaseID": 284,
+    "QuestionText": "A7. Por favor describa cualquier problema de la vista que tenga.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1594,
+    "PhaseID": 284,
+    "QuestionText": "A8. ¿Cuántas horas durmió anoche?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1595,
+    "PhaseID": 284,
+    "QuestionText": "A13a. Si sí, ¿cuánto tiempo lleva usándolas?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1596,
+    "PhaseID": 284,
+    "QuestionText": "A18. Por favor describa cualquier inquietud que tenga relacionada con el tomar esta prueba.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1597,
+    "PhaseID": 284,
+    "QuestionText": "A19. Por favor describa cualquier dificultad que tenga al usar sus manos (p. ej., artritis, rigidez o endurecimiento de las articulaciones o coyunturas).",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1598,
+    "PhaseID": 284,
+    "QuestionText": "A20. Por favor describa cualquier dolor que sienta en este momento.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1599,
+    "PhaseID": 284,
+    "QuestionText": "A21. Por favor describa si necesita ayuda con sus rutinas diarias (p. ej., ir de compras, manejar, bañarse).",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1600,
+    "PhaseID": 284,
+    "QuestionText": "A22a. Si Sí, por favor describa cualquier problema que tenga con su memoria o pensamiento",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1601,
+    "PhaseID": 284,
+    "QuestionText": "A25a. Si Sí, ¿para qué?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1602,
+    "PhaseID": 284,
+    "QuestionText": "A12. ¿Se encuentra actualmente en remisión para el abuso o dependencia de alcohol o drogas?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1603,
+    "PhaseID": 284,
+    "QuestionText": "A4b. Si no, ha tomado alguna otra escala de traumatismo cerebral?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1604,
+    "PhaseID": 284,
+    "QuestionText": "A27. A continuación hay una lista que contiene diferentes categorías de ocupaciones. Por favor escoja la categoría que mejor describa su ocupación actual.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1683,
+    "PhaseID": 288,
+    "QuestionText": "¿Necesita su niño(a) usar un audífono o aparato para escuchar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1684,
+    "PhaseID": 288,
+    "QuestionText": "Si necesita un audífono o aparato para escuchar, ¿cuándo fue la última vez que lo ajustó?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1685,
+    "PhaseID": 288,
+    "QuestionText": "Por favor seleccione la frase que mejor describe el entendimiento de español/inglés de su niño(a).",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1686,
+    "PhaseID": 288,
+    "QuestionText": "Por favor seleccione la frase que mejor describe la conversación de su niño(a) en español/inglés.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1687,
+    "PhaseID": 288,
+    "QuestionText": "¿Es el español el primer idioma de su niño(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1688,
+    "PhaseID": 288,
+    "QuestionText": "Si no, ¿cuál es?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1689,
+    "PhaseID": 288,
+    "QuestionText": "¿Cuál es la nacionalidad de su niño(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1690,
+    "PhaseID": 288,
+    "QuestionText": "Si otra, ¿cuál?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1691,
+    "PhaseID": 288,
+    "QuestionText": "¿Qué idioma se habla más en su casa?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1692,
+    "PhaseID": 288,
+    "QuestionText": "¿Qué idioma se habla más en la escuela o daycare donde va el niño(a)?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1693,
+    "PhaseID": 288,
+    "QuestionText": "¿Ha tomado su niño(a) una prueba de inteligencia o “IQ” anteriormente?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1694,
+    "PhaseID": 288,
+    "QuestionText": "Si sí, ¿cuándo fue la última vez?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1695,
+    "PhaseID": 288,
+    "QuestionText": "¿Cuánto tiempo ha vivido su niño(a) en los Estados Unidos?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1697,
+    "PhaseID": 288,
+    "QuestionText": "K: Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1698,
+    "PhaseID": 288,
+    "QuestionText": "K:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1699,
+    "PhaseID": 288,
+    "QuestionText": "1: Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1700,
+    "PhaseID": 288,
+    "QuestionText": "2: Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1701,
+    "PhaseID": 288,
+    "QuestionText": "3: Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1702,
+    "PhaseID": 288,
+    "QuestionText": "4:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1703,
+    "PhaseID": 288,
+    "QuestionText": "5:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1704,
+    "PhaseID": 288,
+    "QuestionText": "6:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1705,
+    "PhaseID": 288,
+    "QuestionText": "7:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1706,
+    "PhaseID": 288,
+    "QuestionText": "8:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1707,
+    "PhaseID": 288,
+    "QuestionText": "9:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1708,
+    "PhaseID": 288,
+    "QuestionText": "10:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1709,
+    "PhaseID": 288,
+    "QuestionText": "11:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1710,
+    "PhaseID": 288,
+    "QuestionText": "12:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1711,
+    "PhaseID": 288,
+    "QuestionText": "1:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1712,
+    "PhaseID": 288,
+    "QuestionText": "2:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1713,
+    "PhaseID": 288,
+    "QuestionText": "3:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1714,
+    "PhaseID": 288,
+    "QuestionText": "4:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1715,
+    "PhaseID": 288,
+    "QuestionText": "5:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1716,
+    "PhaseID": 288,
+    "QuestionText": "6:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1717,
+    "PhaseID": 288,
+    "QuestionText": "7:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1718,
+    "PhaseID": 288,
+    "QuestionText": "8:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1719,
+    "PhaseID": 288,
+    "QuestionText": "9:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1720,
+    "PhaseID": 288,
+    "QuestionText": "10:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1721,
+    "PhaseID": 288,
+    "QuestionText": "11:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1722,
+    "PhaseID": 288,
+    "QuestionText": "12:  Tipo de servicios",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1738,
+    "PhaseID": 295,
+    "QuestionText": "As an examiner, I agree to return the equipment within two (2) days of notice from Pearson. Equipment must be shipped via UPS to Pearson 19500 Bulverde Road, San Antonio, TX 78259, and the equipment must be shipped in the same box that it was received in. Pearson will provide pre-paid shipping labels for me to use for this return shipment.  If I fail to return the equipment to Pearson, I understand that I will be billed for the replacement cost of the equipment.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1739,
+    "PhaseID": 295,
+    "QuestionText": "As an examiner, I understand that I am responsible for any damage to the equipment and are subject to actual replacement costs of any damaged or stolen equipment.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1740,
+    "PhaseID": 295,
+    "QuestionText": "As part of my participation in this project, Pearson will provide me with two (2) Apple® - iPad® with power adapter and connector cable (replacement cost of $975) and a BoxWave Capactitive iPad Stylus (replacement cost of $15).  As an examiner I agree to use this equipment solely for the GFTA-3 Standardization study.  I acknowledge that I am responsible for this equipment and agree to exercise extreme care with this equipment, including securing the equipment whether it's in use or not.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1741,
+    "PhaseID": 295,
+    "QuestionText": "If the equipment is stolen, I will immediately report the theft to Victoria Locke at 210-339-5217 or at victoria.locke@pearson.com and provide her with a copy of the police report documenting the theft of the equipment. Failure to promptly report the theft of the equipment to Pearson and/or providing a police report to Pearson, may result in me being billed for the replacement costs of the equipment.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1742,
+    "PhaseID": 295,
+    "QuestionText": "1. El niño(a) entiende:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1743,
+    "PhaseID": 295,
+    "QuestionText": "2. El niño(a) habla:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1744,
+    "PhaseID": 295,
+    "QuestionText": "3. ¿Con qué frecuencia habla el niño(a) español en la casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1745,
+    "PhaseID": 295,
+    "QuestionText": "4.¿Con qué frecuencia habla el niño(a) español en la escuela?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1746,
+    "PhaseID": 295,
+    "QuestionText": "5. ¿Con qué frecuencia habla el niño(a) español en la comunidad (p. ej. iglesia, vecindario)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1747,
+    "PhaseID": 295,
+    "QuestionText": "6. ¿Por cuánto tiempo ha vivido el niño(a) en los Estados Unidos?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1748,
+    "PhaseID": 295,
+    "QuestionText": "7. ¿ Cuál es la nacionalidad (origen familiar) de la madre del niño(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1749,
+    "PhaseID": 295,
+    "QuestionText": "8. ¿Cuál es la nacionalidad (origen familiar) del padre (o tutor legal) del niño(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1750,
+    "PhaseID": 295,
+    "QuestionText": "9. ¿Se han preocupado los padres del niño(a) alguna vez por el desarrollo del habla o del lenguaje?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1751,
+    "PhaseID": 295,
+    "QuestionText": "10. ¿Nació el niño(a) prematuramente? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1752,
+    "PhaseID": 295,
+    "QuestionText": "11. ¿Tiene el niño(a) un historial de infecciones de oído crónica? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1753,
+    "PhaseID": 295,
+    "QuestionText": "12. Tiene el niño(a) un historial de problemas con la producción de sonidos (articulación)? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1754,
+    "PhaseID": 295,
+    "QuestionText": "13. ¿Tiene el niño(a) un historial de problemas del lenguaje? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1755,
+    "PhaseID": 295,
+    "QuestionText": "14. ¿Empezó el niño(a) hablar a una edad similar a  la de otros a la de otros niños? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1756,
+    "PhaseID": 295,
+    "QuestionText": "15. ¿Tiene el niño(a) daltonismo (dificultad para distinguir algunos colores)? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1757,
+    "PhaseID": 295,
+    "QuestionText": "6a. Indique el número de años que el niño(a) ha vivido en los Estados Unidos. Si no aplica, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1758,
+    "PhaseID": 295,
+    "QuestionText": "7a. Si marcó E, F o G, especifique el país:",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1759,
+    "PhaseID": 295,
+    "QuestionText": "8a. Si marcó E, F o G, especifique el país:",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1760,
+    "PhaseID": 295,
+    "QuestionText": "9a. Si han preocupado por el desarrollo del habla o del lenguaje, por favor explique.  De lo contrario escribe N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1761,
+    "PhaseID": 295,
+    "QuestionText": "10a. Si el niño(a) nació prematuramente, por favor especifique el número de semanas.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1762,
+    "PhaseID": 295,
+    "QuestionText": "11a. Si el niño(a) tiene un historial de infecciones de oído crónica, por favor especifique el nümero promedio de infecciones por año.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1763,
+    "PhaseID": 295,
+    "QuestionText": "12a. Si el niño(a) tiene un historial de problemas con la producción de sonidos (articulación), por favor explique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1764,
+    "PhaseID": 295,
+    "QuestionText": "13a. Si el niño(a) tiene un historial de problemas del lenguaje, por favor explique. De lo contrario escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1765,
+    "PhaseID": 295,
+    "QuestionText": "14a. Si el niño(a) no empezó a hablar a una edad similar a la de otros niños, por favor explique.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1766,
+    "PhaseID": 295,
+    "QuestionText": "16.. Si marcó Servicios de educación especial en la seccíon de Servicios o tratamientos, por favor especifque qué tipo de servicios se ofrecen.  De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1767,
+    "PhaseID": 295,
+    "QuestionText": "3. Usted entiende:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1768,
+    "PhaseID": 295,
+    "QuestionText": "4. Usted habla:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1769,
+    "PhaseID": 295,
+    "QuestionText": "5. ¿Con qué frecuencia habla usted español en la casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1770,
+    "PhaseID": 295,
+    "QuestionText": "6. ¿Con qué frecuencia habla usted español en la universidad/trabajo?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1771,
+    "PhaseID": 295,
+    "QuestionText": "7. ¿Con qué frecuencia habla usted español en la comunidad? (p. ej., iglesia, vecindario)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1772,
+    "PhaseID": 295,
+    "QuestionText": "8. ¿Por cuánto años ha vivido usted en los Estados Unidos?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1773,
+    "PhaseID": 295,
+    "QuestionText": "9. ¿Cuál es su nacionalidad (origen familiar)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1774,
+    "PhaseID": 295,
+    "QuestionText": "10. ¿Ha tenido usted un historial de problemas con la producción de sonidos (articulación)? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1775,
+    "PhaseID": 295,
+    "QuestionText": "11. ¿Ha tenido un historial de problemas del lenguaje? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1776,
+    "PhaseID": 295,
+    "QuestionText": "12. ¿Ha recibido terapia del habla y del lenguaje?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1777,
+    "PhaseID": 295,
+    "QuestionText": "8a. Indique el número de años que ha vivido usted en los Estados Unidos.  Si no aplica, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1778,
+    "PhaseID": 295,
+    "QuestionText": "9a. Si marcó E, F o G, especifique el país:",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1779,
+    "PhaseID": 295,
+    "QuestionText": "10a. Si ha tenido un historial de problemas con la producción de sonidos (articulación), por favor explique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1781,
+    "PhaseID": 295,
+    "QuestionText": "11a. Si ha tenido un historial de problemas del lenguaje, por favor explique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1782,
+    "PhaseID": 295,
+    "QuestionText": "12a. Si ha recibido terapia del habla y del lenguaje, por favor explique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1783,
+    "PhaseID": 295,
+    "QuestionText": "13. ¿Tiene daltonismo (dificultad para distinguir algunos colores)? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1785,
+    "PhaseID": 296,
+    "QuestionText": "As an examiner, I understand that I am responsible for any damage to the equipment and are subject to actual replacement costs of any damaged or stolen equipment.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1786,
+    "PhaseID": 296,
+    "QuestionText": "As an examiner, I agree to return the equipment within two (2) days of notice from Pearson. Equipment must be shipped via UPS to Pearson 19500 Bulverde Road, San Antonio, TX 78259, and the equipment must be shipped in the same box that it was received in. Pearson will provide pre-paid shipping labels for me to use for this return shipment.  If I fail to return the equipment to Pearson, I understand that I will be billed for the replacement cost of the equipment.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1787,
+    "PhaseID": 296,
+    "QuestionText": "If the equipment is stolen, I will immediately report the theft to Victoria Locke at 210-339-5217 or at victoria.locke@pearson.com and provide her with a copy of the police report documenting the theft of the equipment. Failure to promptly report the theft of the equipment to Pearson and/or providing a police report to Pearson, may result in me being billed for the replacement costs of the equipment.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1788,
+    "PhaseID": 296,
+    "QuestionText": "As part of my participation in this project, Pearson will provide me with two (2) Apple® - iPad® with power adapter and connector cable (replacement cost of $975) and an iPad Stylus (replacement cost of $5).  As an examiner I agree to use this equipment solely for the WISC-V Spanish Standardization study.  I acknowledge that I am responsible for this equipment and agree to exercise extreme care with this equipment, including securing the equipment whether it's in use or not.",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1789,
+    "PhaseID": 296,
+    "QuestionText": "3. ¿Necesita su niño(a) usar un audífono o aparato para escuchar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1790,
+    "PhaseID": 296,
+    "QuestionText": "4. Su niño(a) habla:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1791,
+    "PhaseID": 296,
+    "QuestionText": "5. Su niño(a) entiende:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1792,
+    "PhaseID": 296,
+    "QuestionText": "6. ¿Es el español el primer idioma de su niño(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1793,
+    "PhaseID": 296,
+    "QuestionText": "10. ¿Cuál es la nacionalidad (origen familiar) de su niño(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1794,
+    "PhaseID": 296,
+    "QuestionText": "7. ¿Cuándo fue la primera vez que su niño(a) escuchó el español?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1795,
+    "PhaseID": 296,
+    "QuestionText": "8. ¿Cuándo fue la primera vez que su niño(a) escuchó el inglés?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1796,
+    "PhaseID": 296,
+    "QuestionText": "9. En comparación con otros niños de su edad, ¿ha notado que su niño(a) está olvidando su español?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1797,
+    "PhaseID": 296,
+    "QuestionText": "14. ¿Ha tomado su niño(a) una prueba de inteligencia o “IQ” anteriormente?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1798,
+    "PhaseID": 296,
+    "QuestionText": "17. Tipo de escuela a la que asiste su niño(a):",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1799,
+    "PhaseID": 296,
+    "QuestionText": "3a. Si necesita un audífono o aparato para escuchar, ¿cuándo fue la última vez que lo ajustó?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1800,
+    "PhaseID": 296,
+    "QuestionText": "6a. Si no, ¿cuál es?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1802,
+    "PhaseID": 296,
+    "QuestionText": "11. ¿Qué idioma se habla más en su casa?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1803,
+    "PhaseID": 296,
+    "QuestionText": "12. ¿Qué idioma se habla más en la escuela o guardería (“daycare”) donde va su niño(a)?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1804,
+    "PhaseID": 296,
+    "QuestionText": "13. ¿En qué idioma prefiere hablar su niño(a)?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1805,
+    "PhaseID": 296,
+    "QuestionText": "14a. En caso que sí, ¿cuándo fue la última vez?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1806,
+    "PhaseID": 296,
+    "QuestionText": "15. ¿Por cuánto tiempo ha vivido su niño(a) en los Estados Unidos?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1807,
+    "PhaseID": 296,
+    "QuestionText": "16. Nombre de la escuela a la que asiste su niño(a):",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1808,
+    "PhaseID": 296,
+    "QuestionText": "18. Nombre del distrito escolar al que pertenece la escuela de su niño(a):",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1809,
+    "PhaseID": 296,
+    "QuestionText": "19. ¿Cuál es el idioma/lenguaje que más habla usted?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1810,
+    "PhaseID": 296,
+    "QuestionText": "20. ¿Qué otro(s) idioma(s) habla usted lo suficientemente bien como para tener conversaciones en ese idioma (esos idiomas)?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1811,
+    "PhaseID": 296,
+    "QuestionText": "21. ¿Qué otro(s) idioma(s) entiende usted lo suficientemente bien como para tener conversaciones en ese idioma (esos idiomas)?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1812,
+    "PhaseID": 296,
+    "QuestionText": "22. Si su niño(a) habla otro(s) idioma(s) lo suficientemente bien como para tener conversaciones, ¿qué idioma(s) son esos?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1813,
+    "PhaseID": 296,
+    "QuestionText": "23. Si su niño(a) entiende otro(s) idioma(s) lo suficientemente bien como para tener conversaciones, ¿qué idioma(s) son esos?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1814,
+    "PhaseID": 296,
+    "QuestionText": "24. ¿Cuáles son los idiomas más hablados por el mejor amigo(a) de su niño(a)?",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1815,
+    "PhaseID": 296,
+    "QuestionText": "25a.K: Ciudad/País:",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1816,
+    "PhaseID": 296,
+    "QuestionText": "25a.1: Ciudad/País:",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1817,
+    "PhaseID": 296,
+    "QuestionText": "25a.2: Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1818,
+    "PhaseID": 296,
+    "QuestionText": "25a.3: Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1819,
+    "PhaseID": 296,
+    "QuestionText": "25a.4:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1820,
+    "PhaseID": 296,
+    "QuestionText": "25a.5:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1821,
+    "PhaseID": 296,
+    "QuestionText": "25a.6:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1822,
+    "PhaseID": 296,
+    "QuestionText": "25a.7:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1823,
+    "PhaseID": 296,
+    "QuestionText": "25a.8:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1824,
+    "PhaseID": 296,
+    "QuestionText": "25a.9:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1825,
+    "PhaseID": 296,
+    "QuestionText": "25a.10:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1826,
+    "PhaseID": 296,
+    "QuestionText": "25a.11:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1827,
+    "PhaseID": 296,
+    "QuestionText": "25a.12:  Ciudad/Pais",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1828,
+    "PhaseID": 296,
+    "QuestionText": "25b.K: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1829,
+    "PhaseID": 296,
+    "QuestionText": "25b.1: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1830,
+    "PhaseID": 296,
+    "QuestionText": "25b.2: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1831,
+    "PhaseID": 296,
+    "QuestionText": "25b.3: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1832,
+    "PhaseID": 296,
+    "QuestionText": "25b.4: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1833,
+    "PhaseID": 296,
+    "QuestionText": "25b.5: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1834,
+    "PhaseID": 296,
+    "QuestionText": "25b.6: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1835,
+    "PhaseID": 296,
+    "QuestionText": "25b.7: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1836,
+    "PhaseID": 296,
+    "QuestionText": "25b.8: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1837,
+    "PhaseID": 296,
+    "QuestionText": "25b.9: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1838,
+    "PhaseID": 296,
+    "QuestionText": "25b.10. ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1839,
+    "PhaseID": 296,
+    "QuestionText": "25b.11. ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1840,
+    "PhaseID": 296,
+    "QuestionText": "25b.12: ¿Repitió el año escolar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1841,
+    "PhaseID": 296,
+    "QuestionText": "25c.K: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1842,
+    "PhaseID": 296,
+    "QuestionText": "25c.1: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1843,
+    "PhaseID": 296,
+    "QuestionText": "25c.2: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1844,
+    "PhaseID": 296,
+    "QuestionText": "25c.3: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1845,
+    "PhaseID": 296,
+    "QuestionText": "25c.4: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1846,
+    "PhaseID": 296,
+    "QuestionText": "25c.5: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1847,
+    "PhaseID": 296,
+    "QuestionText": "25c.6: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1848,
+    "PhaseID": 296,
+    "QuestionText": "25c.7: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1849,
+    "PhaseID": 296,
+    "QuestionText": "25c.8: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1850,
+    "PhaseID": 296,
+    "QuestionText": "25c.9: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1851,
+    "PhaseID": 296,
+    "QuestionText": "25c.10: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1852,
+    "PhaseID": 296,
+    "QuestionText": "25c.11: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1853,
+    "PhaseID": 296,
+    "QuestionText": "25c.12: ¿Programa bilingüe?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1854,
+    "PhaseID": 296,
+    "QuestionText": "26a. Nacimiento a 1 año: Lugar",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1855,
+    "PhaseID": 296,
+    "QuestionText": "26a. 1 – 2 años: Lugar",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1856,
+    "PhaseID": 296,
+    "QuestionText": "26a. 2 – 3 años: Lugar",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1857,
+    "PhaseID": 296,
+    "QuestionText": "26a. 3 – 4 años: Lugar",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1858,
+    "PhaseID": 296,
+    "QuestionText": "26b. Nacimiento a 1 año: Persona encargada de cuidar al niño(a)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1859,
+    "PhaseID": 296,
+    "QuestionText": "26b. 1 – 2 años: Persona encargada de cuidar al niño(a)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1860,
+    "PhaseID": 296,
+    "QuestionText": "26b. 2 – 3 años: Persona encargada de cuidar al niño(a)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1861,
+    "PhaseID": 296,
+    "QuestionText": "26b. 3 – 4 años: Persona encargada de cuidar al niño(a)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1862,
+    "PhaseID": 296,
+    "QuestionText": "26d. Nacimiento a 1 año: Primer idioma de esta persona",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1863,
+    "PhaseID": 296,
+    "QuestionText": "26d. 1 – 2 años: Primer idioma de esta persona",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1864,
+    "PhaseID": 296,
+    "QuestionText": "26d. 2 – 3 años: Primer idioma de esta persona",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1865,
+    "PhaseID": 296,
+    "QuestionText": "26d. 3 – 4 años: Primer idioma de esta persona",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1866,
+    "PhaseID": 296,
+    "QuestionText": "26c. Nacimiento a 1 año: Relación con el niño(a)",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1867,
+    "PhaseID": 296,
+    "QuestionText": "26c. 1 – 2 años: Relación con el niño(a)",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1868,
+    "PhaseID": 296,
+    "QuestionText": "26c. 2 – 3 años: Relación con el niño(a)",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1869,
+    "PhaseID": 296,
+    "QuestionText": "26c. 3 - 4 años: Relación con el niño(a)",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1870,
+    "PhaseID": 296,
+    "QuestionText": "27a. Vecino(a) #1: ¿Cuál es el idioma principal que se habla en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1871,
+    "PhaseID": 296,
+    "QuestionText": "27a. Vecino(a) #1: ¿Qué tan seguido interactúa con este vecino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1872,
+    "PhaseID": 296,
+    "QuestionText": "27a. Vecino(a) #1:  ¿Cuántos niños(as) menores de 18 años viven en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1873,
+    "PhaseID": 296,
+    "QuestionText": "27a. Vecino(a) #1: ¿Con qué frecuencia socializan sus hijos(as) con los niños(as) de esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1874,
+    "PhaseID": 296,
+    "QuestionText": "27b. Vecino(a) #2: ¿Cuál es el idioma principal que se habla en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1875,
+    "PhaseID": 296,
+    "QuestionText": "27b. Vecino(a) #2:  ¿Qué tan seguido interactúa con este vecino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1876,
+    "PhaseID": 296,
+    "QuestionText": "27b. Vecino(a) #2:  ¿Cuántos niños(as) menores de 18 años viven en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1877,
+    "PhaseID": 296,
+    "QuestionText": "27b. Vecino(a) #2: ¿Con qué frecuencia socializan sus hijos(as) con los niños(as) de esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1878,
+    "PhaseID": 296,
+    "QuestionText": "27c. Vecino(a) #3: ¿Cuál es el idioma principal que se habla en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1879,
+    "PhaseID": 296,
+    "QuestionText": "27c Vecino(a) #3: ¿Qué tan seguido interactúa con este vecino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1880,
+    "PhaseID": 296,
+    "QuestionText": "27c. Vecino(a) #3:  ¿Cuántos niños(as) menores de 18 años viven en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1881,
+    "PhaseID": 296,
+    "QuestionText": "27c. Vecino(a) #3: ¿Con qué frecuencia socializan sus hijos(as) con los niños(as) de esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1882,
+    "PhaseID": 296,
+    "QuestionText": "27d. Vecino(a) #4: ¿Cuál es el idioma principal que se habla en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1883,
+    "PhaseID": 296,
+    "QuestionText": "27d. Vecino(a) #4: ¿Qué tan seguido interactúa con este vecino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1884,
+    "PhaseID": 296,
+    "QuestionText": "27d. Vecino(a) #4:  ¿Cuántos niños(as) menores de 18 años viven en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1885,
+    "PhaseID": 296,
+    "QuestionText": "27d. Vecino(a) #4: ¿Con qué frecuencia socializan sus hijos(as) con los niños(as) de esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1886,
+    "PhaseID": 296,
+    "QuestionText": "28a. Vecino(a) 1: ¿Cuál es el idioma principal que se hablaba en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1887,
+    "PhaseID": 296,
+    "QuestionText": "28a. Vecino(a) 1: ¿Qué tan seguido interactuaba con este vecino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1888,
+    "PhaseID": 296,
+    "QuestionText": "28a. Vecino(a) 1:  ¿Cuántos niños(as) menores de 18 años vivían en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1889,
+    "PhaseID": 296,
+    "QuestionText": "28a. Vecino(a) 1: ¿Con qué frecuencia socializaban sus hijos(as) con los niños(as) de esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1890,
+    "PhaseID": 296,
+    "QuestionText": "28b. Vecino(a) 2:  ¿Cuántos niños(as) menores de 18 años vivían en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1891,
+    "PhaseID": 296,
+    "QuestionText": "28b. Vecino(a) 2:  ¿Qué tan seguido interactuaba con este vecino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1892,
+    "PhaseID": 296,
+    "QuestionText": "28b. Vecino(a) 2: ¿Con qué frecuencia socializaban sus hijos(as) con los niños(as) de esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1893,
+    "PhaseID": 296,
+    "QuestionText": "28b. Vecino(a) 2: ¿Cuál es el idioma principal que se hablaba en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1894,
+    "PhaseID": 296,
+    "QuestionText": "28c. Vecino(a) 3: ¿Cuál es el idioma principal que se hablaba en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1895,
+    "PhaseID": 296,
+    "QuestionText": "28c. Vecino(a) 3: ¿Qué tan seguido interactuaba con este vecino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1896,
+    "PhaseID": 296,
+    "QuestionText": "28d. Vecino(a) 4:  ¿Cuántos niños(as) menores de 18 años vivían en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1897,
+    "PhaseID": 296,
+    "QuestionText": "28d. Vecino(a) 4: ¿Con qué frecuencia socializaban sus hijos(as) con los niños(as) de esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1898,
+    "PhaseID": 296,
+    "QuestionText": "28d. Vecino(a) 4: ¿Cuál es el idioma principal que se hablaba en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1899,
+    "PhaseID": 296,
+    "QuestionText": "28d. Vecino(a) 4: ¿Qué tan seguido interactuaba con este vecino(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1900,
+    "PhaseID": 296,
+    "QuestionText": "28c. Vecino(a) 3:  ¿Cuántos niños(as) menores de 18 años vivían en esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1901,
+    "PhaseID": 296,
+    "QuestionText": "28c. Vecino(a) 3: ¿Con qué frecuencia socializaban sus hijos(as) con los niños(as) de esta casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1934,
+    "PhaseID": 296,
+    "QuestionText": "1. ¿Cuál es el país de origen de la madre? (p. ej.,  México, Cuba, Argentina, España, etc.)",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1935,
+    "PhaseID": 296,
+    "QuestionText": "2. ¿Cuál es el país de origen del padre?  (p. ej., México, Cuba, Argentina, España, etc.)",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1936,
+    "PhaseID": 296,
+    "QuestionText": "10a. Si marcó E, F o G, especifique el país:",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1937,
+    "PhaseID": 295,
+    "QuestionText": "1. Para las edades de 18-24 años: ¿Cuál es el país de origen de tu madre? (i.e. México, Cuba, Argentina, España, etc.)",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1938,
+    "PhaseID": 295,
+    "QuestionText": "2. Para las edades de 18-24 años: ¿Cuál es el país de origen de tu padre? (i.e. México, Cuba, Argentina, España, etc.)",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1939,
+    "PhaseID": 295,
+    "QuestionText": "14. Si marcó Servicios de educación especial fue marcado en la sección de Servicios o tratamientos, por favor especifique que tipo de servicios fueron ofrecidos.  De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1941,
+    "PhaseID": 297,
+    "QuestionText": "1. El niño(a) entiende:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1942,
+    "PhaseID": 297,
+    "QuestionText": "2. El niño(a) habla:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1943,
+    "PhaseID": 297,
+    "QuestionText": "3. ¿Qué idioma(s) escuchó el niño(a) desde que nació hasta los tres años?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1944,
+    "PhaseID": 297,
+    "QuestionText": "4. ¿Qué idioma(s) escuchó el niño(a) después de los tres años?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1945,
+    "PhaseID": 297,
+    "QuestionText": "5. ¿Por cuánto tiempo ha vivido el niño(a) en los Estados Unidos?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1946,
+    "PhaseID": 297,
+    "QuestionText": "6. ¿Con qué frecuencia habla el niño(a) español en la casa?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1947,
+    "PhaseID": 297,
+    "QuestionText": "7. ¿Con qué frecuencia habla el niño(a) español en la escuela?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1948,
+    "PhaseID": 297,
+    "QuestionText": "8. ¿Con qué frecuencia habla el niño(a) español en la comunidad (p. ej. iglesia, vecindario)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1949,
+    "PhaseID": 297,
+    "QuestionText": "9. ¿Qué idioma(s) se habla(n) en su hogar?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1950,
+    "PhaseID": 297,
+    "QuestionText": "10. ¿Cuál es la nacionalidad (origen familiar) de la madre (o tutora legal) del niño(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1951,
+    "PhaseID": 297,
+    "QuestionText": "11. ¿Cuál es la nacionalidad (origen familiar) del padre (o tutor legal) del niño(a)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1952,
+    "PhaseID": 297,
+    "QuestionText": "12. ¿Nació el niño(a) prematuramente? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1953,
+    "PhaseID": 297,
+    "QuestionText": "14. ¿Tiene el niño(a) un historial de infecciones de oído crónicas? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1954,
+    "PhaseID": 297,
+    "QuestionText": "16. ¿Tiene o ha tenido su niño(a) problemas para producir los sonidos del habla (articulación)? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1955,
+    "PhaseID": 297,
+    "QuestionText": "18. ¿Tiene o ha tenido su niño(a) problemas del lenguaje? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1956,
+    "PhaseID": 297,
+    "QuestionText": "20. ¿Tiene o ha tenido su niño(a) problemas para aprender en el área de lectura o escritura? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1957,
+    "PhaseID": 297,
+    "QuestionText": "3a. Si otro, especifique.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1958,
+    "PhaseID": 297,
+    "QuestionText": "4a. Si otro, especifique.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1959,
+    "PhaseID": 297,
+    "QuestionText": "9a. Si otro, especifique.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1960,
+    "PhaseID": 297,
+    "QuestionText": "10a. Si marcó E, F o G, especifique el país.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1961,
+    "PhaseID": 297,
+    "QuestionText": "11a. Si marcó E, F o G, especifique el país.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1962,
+    "PhaseID": 297,
+    "QuestionText": "13. Si el niño(a) nació prematuramente, por favor especifique el número de semanas prematuro. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1963,
+    "PhaseID": 297,
+    "QuestionText": "15. Si el niño(a) tiene un historial de infecciones de oído crónicas, por favor especifique el número promedio de infecciones por año. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1964,
+    "PhaseID": 297,
+    "QuestionText": "17. Si su niño(a) tiene o ha tenido problemas para producir los sonidos del habla (articulación), por favor explique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1965,
+    "PhaseID": 297,
+    "QuestionText": "19. Si el niño(a) tiene o ha tenido problemas del lenguaje, por favor explique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1966,
+    "PhaseID": 297,
+    "QuestionText": "21. Si el niño(a) tiene o ha tenido problemas para aprender en el área de lectura o escritura, por favor especifique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1968,
+    "PhaseID": 297,
+    "QuestionText": "22. Si marcó Servicios de educación especial en la sección de Servicios o tratamientos, por favor especifique qué tipo de servicios se ofrecen. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1969,
+    "PhaseID": 297,
+    "QuestionText": "1. Usted entiende:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1970,
+    "PhaseID": 297,
+    "QuestionText": "2. Usted habla:",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1971,
+    "PhaseID": 297,
+    "QuestionText": "3. ¿Fue el español el primer idioma que aprendió? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1972,
+    "PhaseID": 297,
+    "QuestionText": "5. ¿Entiende o habla otro idioma además del español y el inglés? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1973,
+    "PhaseID": 297,
+    "QuestionText": "7. ¿Por cuánto tiempo ha vivido en los Estados Unidos?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1974,
+    "PhaseID": 297,
+    "QuestionText": "8. ¿Cuál es su nacionalidad (origen familiar)?",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1975,
+    "PhaseID": 297,
+    "QuestionText": "9. ¿Ha tenido problemas para producir los sonidos del habla (articulación)? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1976,
+    "PhaseID": 297,
+    "QuestionText": "11. ¿Ha tenido problemas del lenguaje? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1977,
+    "PhaseID": 297,
+    "QuestionText": "13. ¿Ha recibido terapia del habla y del lenguaje? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1978,
+    "PhaseID": 297,
+    "QuestionText": "15. ¿Ha tenido problemas para aprender en el área de lectura o escritura? (Marque uno)",
+    "InputTypeID": 1,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1979,
+    "PhaseID": 297,
+    "QuestionText": "4. Si no aprendió a hablar español primero, ¿qué idioma habló primero? Si no aplica, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1980,
+    "PhaseID": 297,
+    "QuestionText": "6. Si habla otro idioma además del español y el inglés, por favor especifique qué otro idioma. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1981,
+    "PhaseID": 297,
+    "QuestionText": "7a. Indique el número de años que ha vivido en los Estados Unidos.  Si no aplica, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1982,
+    "PhaseID": 297,
+    "QuestionText": "8a. Si marcó E, F, ó G, especifique el país:",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1983,
+    "PhaseID": 297,
+    "QuestionText": "10. Si ha tenido problemas para producir los sonidos del habla (articulación), por favor explique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1984,
+    "PhaseID": 297,
+    "QuestionText": "12. Si ha tenido problemas del lenguaje, por favor explique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1985,
+    "PhaseID": 297,
+    "QuestionText": "14. Si ha recibido terapia del habla y del lenguaje, por favor explique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1986,
+    "PhaseID": 297,
+    "QuestionText": "16. Si ha tenido problemas para aprender en el área de lectura o escritura, por favor especifique. De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseQuestionID": 1987,
+    "PhaseID": 297,
+    "QuestionText": "17. Si marcó Servicios de educación especial en la sección de Servicios o tratamientos, por favor especifique quétipo de servicios fueron ofrecidos.  De lo contrario, escriba N/A.",
+    "InputTypeID": 5,
+    "DateDeleted": "NULL"
   }
 ]

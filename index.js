@@ -55,26 +55,29 @@ app.get('/getGenericList',function(request, response){
 
 	var codeTable = JSON.parse(lookupCodeFile);
 	var valueTable = JSON.parse(lookupValueFile);
-
-	var Lookup = {code: {},values: []};
+	var keys = request.query.s.toLowerCase().split(',');
+	console.log("Key count is: " + request.query.s.toLowerCase().split(',').length);
+	var Lookups = {};
 /*We've read the files, parsed the JSON, and set up our Lookup object that we want to fill up*/
-	codeTable.forEach(function(code){
-		if(request.query.s.toLowerCase() == code.CodeDescription.toLowerCase()){
-			Lookup.code = code;
-		}
+	console.log("The keys are: " + keys.join('|'));
+	keys.forEach(function(key){
+		var temp_lookup = {};
+		codeTable.forEach(function(code){
+			if(code.CodeDescription.toLowerCase() == key){
+				temp_lookup["code"] = code;
+				var temp_values = [];
+				valueTable.forEach(function(value){
+					if(value.LkpCode == code.LkpCode){
+						temp_values.push(value);
+					}
+				});
+				temp_lookup["values"] = temp_values;
+				Lookups[code.CodeDescription] = temp_lookup;
+			}
+		});
 	});
-	/*Now that we've found the lookup code, we're going to search the lookup value list for the object whose lookup code matches for each one we will push to an array*/
-	valueTable.forEach(function(value){
-		if(value.LkpCode == Lookup.code.LkpCode){
-			Lookup.values.push(value);
-		}
-	});
-	/* the lkpcode object neets to exist (needs to be found and the lookup values need to have at least one) */
-	if(Lookup.code.LkpCode && Lookup.values.length >= 1){
-		response.send(Lookup)
-	} else {
-		response.send({error: "Lookup Code Description Not Found"})
-	}
+	response.send(Lookups)
+
 
 });
 app.get('/getListValuesByPhaseID', function(request, response){
