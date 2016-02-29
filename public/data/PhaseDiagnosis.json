@@ -1,0 +1,4160 @@
+[
+  {
+    "PhaseDiagnosisID": 613,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 614,
+    "PhaseID": 170,
+    "DiagnosisLKPValue": 308,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 615,
+    "PhaseID": 170,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 616,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 617,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 314,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 618,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 322,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 619,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 360,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 620,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 359,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 621,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 411,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 622,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 476,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 623,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 477,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 624,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 504,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 625,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 568,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 626,
+    "PhaseID": 171,
+    "DiagnosisLKPValue": 585,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1063,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 308,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1064,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 309,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1065,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 310,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1066,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 311,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1067,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 312,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1068,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 313,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1069,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 314,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1070,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 315,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1071,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 316,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1072,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 317,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1073,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 318,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1074,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 319,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1075,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 320,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1076,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 321,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1077,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 322,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1078,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 323,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1079,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 324,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1080,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 325,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1081,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 326,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1082,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 327,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1083,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 328,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1084,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 329,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1085,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1086,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 331,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1087,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 332,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1088,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 333,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1089,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 334,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1090,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 335,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1091,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 336,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1092,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 337,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1093,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 338,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1094,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 339,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1095,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 340,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1096,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 341,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1097,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 342,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1098,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 343,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1099,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 344,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1100,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 345,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1101,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 346,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1102,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 347,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1103,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 348,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1104,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 349,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1105,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 350,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1106,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 351,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1107,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 352,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1108,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 353,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1109,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 354,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1110,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 355,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1111,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 356,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1112,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 357,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1113,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 358,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1114,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 359,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1115,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 360,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1116,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 362,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1117,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 361,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1118,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 363,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1119,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 364,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1120,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 365,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1121,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 366,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1122,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 367,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1123,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 368,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1124,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 369,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1125,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 370,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1126,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 371,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1127,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 372,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1128,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 373,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1129,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 374,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1130,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 375,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1131,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 376,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1132,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 377,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1133,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 378,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1134,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 379,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1135,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 380,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1136,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 381,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1137,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 382,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1138,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 383,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1139,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 384,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1140,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 402,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1141,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 385,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1142,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 386,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1143,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 387,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1144,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 388,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1145,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 389,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1146,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 390,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1147,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 391,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1148,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 392,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1149,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 393,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1150,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 394,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1151,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 395,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1152,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 396,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1153,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 397,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1154,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 398,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1155,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 399,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1156,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 400,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1157,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 401,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1158,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 403,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1159,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 404,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1160,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 405,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1161,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 406,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1162,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 407,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1163,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 408,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1164,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 409,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1165,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 410,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1166,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 411,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1167,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 412,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1168,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 413,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1169,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 414,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1170,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1171,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 416,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1172,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 417,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1173,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 418,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1174,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 419,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1175,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 420,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1176,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 421,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1177,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 422,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1178,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 423,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1179,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 424,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1180,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 425,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1181,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1182,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 426,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1183,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 628,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1184,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 427,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1185,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 429,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1186,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 428,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1187,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 430,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 1188,
+    "PhaseID": 169,
+    "DiagnosisLKPValue": 431,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2407,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2408,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 667,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2409,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 323,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2410,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 324,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2411,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 326,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2412,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 327,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2413,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 329,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2414,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2415,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 333,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2416,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 669,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2417,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 629,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2418,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 343,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2419,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 353,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2420,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 354,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2421,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 357,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2422,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 361,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2423,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 365,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2424,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 371,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2425,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 388,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2426,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 397,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2427,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 666,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2428,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 668,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2429,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 404,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2430,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 408,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2431,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 409,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2432,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2433,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 419,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2434,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 421,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2435,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2436,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 427,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2437,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 428,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2438,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 443,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2439,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 447,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2440,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 450,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2441,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 457,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2442,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 630,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2443,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 469,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2444,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 471,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2445,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 493,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2446,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 510,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2447,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 527,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2448,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 585,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2449,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 584,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2450,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 586,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2451,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 593,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2452,
+    "PhaseID": 229,
+    "DiagnosisLKPValue": 595,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2672,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2673,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 667,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2674,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 323,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2675,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 324,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2676,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 326,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2677,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 327,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2678,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 329,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2679,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2680,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 333,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2681,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 336,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2682,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 343,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2683,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 353,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2684,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 354,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2685,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 357,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2686,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 361,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2687,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 365,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2688,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 371,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2689,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 388,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2690,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 397,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2691,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 666,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2692,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 668,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2693,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 404,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2694,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 408,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2695,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 409,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2696,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2697,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 419,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2698,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 421,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2699,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2700,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 427,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2701,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 428,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2702,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 443,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2703,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 447,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2704,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 450,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2705,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 457,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2706,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 469,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2707,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 471,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2708,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 493,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2709,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 510,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2710,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 527,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2711,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 585,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2712,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 584,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2713,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 586,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2714,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 593,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2715,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 595,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 2716,
+    "PhaseID": 250,
+    "DiagnosisLKPValue": 630,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3293,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 309,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3294,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 310,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3295,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 649,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3296,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 312,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3297,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 313,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3298,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 314,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3299,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 317,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3300,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 318,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3301,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 321,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3302,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 324,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3303,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3304,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 334,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3305,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 335,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3306,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 651,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3307,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 341,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3308,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 342,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3309,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 347,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3310,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 350,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3311,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 356,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3312,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 677,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3313,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 364,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3314,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 367,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3315,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 369,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3316,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 678,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3317,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 370,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3318,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 374,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3319,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 383,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3320,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 384,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3321,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 386,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3322,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 387,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3323,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 391,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3324,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 392,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3325,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 396,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3326,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 679,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3327,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 399,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3328,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 668,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3329,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 652,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3330,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 404,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3331,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 411,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3332,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3333,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 416,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3334,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 424,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3335,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 425,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3336,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3337,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 431,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3338,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 680,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3339,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 438,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3340,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 439,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3341,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 441,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3342,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 445,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3343,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 446,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3344,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 447,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3345,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 451,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3346,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 453,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3347,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 456,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3348,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 457,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3349,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 458,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3350,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 459,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3351,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 461,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3352,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 463,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3353,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 469,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3354,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 471,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3355,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 475,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3356,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 478,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3357,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 486,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3358,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 487,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3359,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 488,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3360,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 489,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3361,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 681,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3362,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 493,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3363,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 682,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3364,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 683,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3365,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 684,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3366,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 685,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3367,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 500,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3368,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 501,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3369,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 504,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3370,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 505,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3371,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 511,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3372,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 514,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3373,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 515,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3374,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 523,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3375,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 519,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3376,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 686,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3377,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 525,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3378,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 528,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3379,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 529,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3380,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 530,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3381,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 532,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3382,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 533,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3383,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 535,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3384,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 536,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3385,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 537,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3386,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 538,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3387,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 539,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3388,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 541,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3389,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 540,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3390,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 609,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3391,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 546,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3392,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 557,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3393,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 558,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3394,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 566,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3395,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 567,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3396,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 568,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3397,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 570,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3398,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 571,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3399,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 578,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3400,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 579,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3401,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 687,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3402,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 688,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3403,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 690,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3404,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 689,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3405,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 587,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3406,
+    "PhaseID": 278,
+    "DiagnosisLKPValue": 592,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3588,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3589,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3590,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 333,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3591,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 334,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3592,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 510,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3593,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 528,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3594,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 356,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3595,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 397,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3596,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 388,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3597,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 438,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3598,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 439,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3599,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 457,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3600,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 570,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3601,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3602,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 419,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3603,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 365,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3604,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 354,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3605,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 319,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3606,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 386,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3607,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 571,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3608,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 341,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3609,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 449,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3610,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 453,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3611,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 493,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3612,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 584,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3613,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 585,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3614,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 586,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3615,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 343,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3616,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 691,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3617,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 609,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3618,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 411,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3619,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3620,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 527,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3621,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 323,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3622,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 568,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3623,
+    "PhaseID": 283,
+    "DiagnosisLKPValue": 508,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3624,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3625,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3626,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 333,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3627,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 334,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3628,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 510,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3629,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 528,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3630,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 356,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3631,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 375,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3632,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 397,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3633,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 388,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3634,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 470,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3635,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 472,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3636,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 457,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3637,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3638,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 527,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3639,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 323,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3640,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 314,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3641,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 343,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3642,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 411,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3643,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 568,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3644,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 508,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3645,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 609,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3646,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 691,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3647,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 584,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3648,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 585,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3649,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 586,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3650,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 319,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3651,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 386,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3652,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 354,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3653,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 341,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3654,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 365,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3655,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 419,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3656,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3657,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 570,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3658,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 571,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3659,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 449,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3660,
+    "PhaseID": 284,
+    "DiagnosisLKPValue": 453,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3794,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3795,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 308,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3796,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 326,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3797,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 315,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3798,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 325,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3799,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 667,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3800,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 324,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3801,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 651,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3802,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 337,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3803,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 344,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3804,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 353,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3805,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 367,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3806,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 358,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3807,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 361,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3808,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 624,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3809,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 625,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3810,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 392,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3811,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 623,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3812,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 398,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3813,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 399,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3814,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 404,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3815,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 412,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3816,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 409,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3817,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 408,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3818,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 418,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3819,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 427,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3820,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 447,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3821,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 460,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3822,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 630,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3823,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 448,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3824,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 475,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3825,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 461,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3826,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 467,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3827,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 476,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3828,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 477,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3829,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 489,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3830,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 511,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3831,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 486,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3832,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 578,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3833,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 510,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3834,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 610,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3835,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 517,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3836,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 631,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3837,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 516,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3838,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 515,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3839,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 357,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3840,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 559,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3841,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 561,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3842,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 562,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3843,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 563,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3844,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 564,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3845,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 565,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3846,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 569,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3847,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 611,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3848,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 608,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3849,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 593,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3850,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 594,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3851,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 579,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3852,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 495,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3853,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 425,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3854,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 363,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3855,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 453,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3856,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 451,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3857,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 456,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3858,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3859,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 333,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3860,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 334,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3861,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 356,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3862,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 397,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3863,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 388,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3864,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 439,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3865,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 457,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3866,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 323,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3867,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 343,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3868,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 411,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3869,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 568,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3870,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 508,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3871,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 609,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3872,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 584,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3873,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 586,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3874,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 386,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3875,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 354,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3876,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 365,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3877,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 419,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3878,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 341,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3879,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 450,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3880,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 391,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3881,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3882,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 440,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3883,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 438,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3884,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 463,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3885,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3886,
+    "PhaseID": 288,
+    "DiagnosisLKPValue": 471,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3949,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3950,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 595,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3951,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 593,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3952,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 585,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3953,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 584,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3954,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 586,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3955,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 527,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3956,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 510,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3957,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 493,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3958,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 471,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3959,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 469,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3960,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 630,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3961,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 457,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3962,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 450,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3963,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 447,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3964,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 443,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3965,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 427,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3966,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 428,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3967,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3968,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 421,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3969,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 419,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3970,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3971,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 409,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3972,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 408,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3973,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 404,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3974,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 668,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3975,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 666,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3976,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 397,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3977,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 388,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3978,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 371,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3979,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 667,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3980,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 323,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3981,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 324,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3982,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 326,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3983,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 327,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3984,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 329,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3985,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3986,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 333,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3987,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 629,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3988,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 343,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3989,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 353,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3990,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 354,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3991,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 357,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3992,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 361,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 3993,
+    "PhaseID": 295,
+    "DiagnosisLKPValue": 365,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4052,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4053,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 308,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4054,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 315,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4055,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 325,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4056,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 667,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4057,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 323,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4058,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 324,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4059,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 326,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4061,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 333,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4062,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 334,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4063,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 343,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4064,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 651,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4065,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 344,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4066,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 337,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4067,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 341,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4068,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 353,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4069,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 354,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4070,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 357,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4071,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 356,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4072,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 358,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4073,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 361,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4074,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 624,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4075,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 625,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4076,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 623,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4077,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 365,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4078,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 367,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4079,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 363,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4080,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 386,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4081,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 388,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4082,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 391,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4083,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 392,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4084,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 397,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4085,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 398,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4086,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 399,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4087,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 404,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4088,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 408,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4089,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 409,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4090,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 411,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4091,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 412,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4092,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4093,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 418,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4094,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 419,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4095,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 425,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4096,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4097,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 427,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4098,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 443,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4099,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 438,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4100,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 439,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4101,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 447,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4102,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 448,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4103,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 451,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4104,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 457,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4105,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 630,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4106,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 460,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4107,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 461,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4108,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 463,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4109,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 467,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4110,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 471,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4111,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 476,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4112,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 475,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4113,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 477,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4114,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 486,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4115,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 489,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4116,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 495,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4117,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 508,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4118,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 510,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4119,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 610,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4120,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 511,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4121,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 515,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4122,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 516,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4123,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 517,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4124,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 631,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4125,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 525,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4126,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 609,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4127,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 493,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4128,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4129,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 559,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4130,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 561,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4131,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 562,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4132,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 563,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4133,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 564,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4134,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 565,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4135,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 568,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4136,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 569,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4137,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 578,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4138,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 579,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4139,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 584,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4140,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 586,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4141,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 611,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4142,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 608,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4143,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 593,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4144,
+    "PhaseID": 296,
+    "DiagnosisLKPValue": 594,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4145,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 214,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4146,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 667,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4147,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 323,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4148,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 324,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4149,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 326,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4150,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 327,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4151,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 329,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4152,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 330,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4153,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 333,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4154,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 629,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4155,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 343,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4156,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 353,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4157,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 354,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4158,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 357,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4159,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 361,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4160,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 365,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4161,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 371,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4162,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 388,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4163,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 397,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4164,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 666,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4165,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 668,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4166,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 404,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4167,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 408,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4168,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 409,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4169,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 415,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4170,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 419,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4171,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 421,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4172,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 607,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4173,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 427,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4174,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 428,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4175,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 443,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4176,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 447,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4177,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 450,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4178,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 457,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4179,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 630,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4180,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 469,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4181,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 471,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4182,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 493,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4183,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 510,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4184,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 527,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4185,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 585,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4186,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 584,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4187,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 586,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4188,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 593,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseDiagnosisID": 4189,
+    "PhaseID": 297,
+    "DiagnosisLKPValue": 595,
+    "DateDeleted": "NULL"
+  }
+]

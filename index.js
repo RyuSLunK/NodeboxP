@@ -81,47 +81,99 @@ app.get('/getGenericList',function(request, response){
 
 });
 app.get('/getListValuesByPhaseID', function(request, response){
+	var PhaseServiceFile = fs.readFileSync(__dirname + "/public/data/PhaseService.json");
+	var PhaseDiagnosisFile = fs.readFileSync(__dirname + "/public/data/PhaseDiagnosis.json");
+	var LookupCodeFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupCodes.json");
+	var LookupValueFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupValues.json");
+	var phaseIDs = request.query.PID.split(',');
+	//var lookups = request.query.lookup.split(',');
+	var phase_services = JSON.parse(PhaseServiceFile);
+	var phase_diagnosises = JSON.parse(PhaseDiagnosisFile);
+	var lookup_values = JSON.parse(LookupValueFile);
+	var return_phases = [];
+	phaseIDs.forEach(function(phaseID){
+			/*setup temp obj */
+			var tempObj = {phaseID: phaseID, lookups: {Diagnosis: [],Service: []}};
 
+			/*lookup for service*/
+			phase_services.forEach(function(phase_service){
+				if(""+phase_service.PhaseID == phaseID){
+					lookup_values.forEach(function(lookup_value){
+						if(lookup_value.LkpValue == phase_service.ServiceLKPValue){
+							tempObj.lookups.Service.push(lookup_value);
+						}
+					});
+				}
+			});
+			/*lookup for diagnosis*/
+			phase_diagnosises.forEach(function(phase_diagnosis){
+				if(""+phase_diagnosis.PhaseID == phaseID){
+					lookup_values.forEach(function(lookup_value){
+						if(lookup_value.LkpValue == phase_diagnosis.DiagnosisLKPValue){
+							tempObj.lookups.Diagnosis.push(lookup_value);
+						}
+					});
+				}
+			});
+
+			/*push tempObj to return phases*/
+			return_phases.push(tempObj);
+	});
+	response.send(return_phases);
 });
 app.get('/getQuestions', function(request, response){
 	/*Here we're passing a list of phases. I'm sending ?PID=123,124,125*/
 
 	/*First we read the files, parse, and split the querystring into an array of phaseID strings */
+	var PhaseFormFile = fs.readFileSync(__dirname + "/public/data/PhaseForm.json");
+	var PhaseFormTypeFile = fs.readFileSync(__dirname + "/public/data/PhaseFormType.json");
+	var PhaseFormQuestionFile = fs.readFileSync(__dirname + "/public/data/PhaseFormQuestion.json");
 	var PhaseQuestionFile = fs.readFileSync(__dirname + "/public/data/PhaseQuestion.json");
 	var PhaseQuestionResponseFile = fs.readFileSync(__dirname + "/public/data/PhaseQuestionResponse.json");
+	var phase_forms = JSON.parse(PhaseFormFile);
+	var phase_form_types = JSON.parse(PhaseFormTypeFile);
+	var phase_form_questions = JSON.parse(PhaseFormQuestionFile);
 	var phase_questions = JSON.parse(PhaseQuestionFile);
 	var phase_question_responses = JSON.parse(PhaseQuestionResponseFile);
 	var phaseIDs = request.query.PID.split(',');
+	var formID = request.query.FT;
 	var question_sets = [];
-
-	/*Now we're going to loop through each phase ID string that was passed to the server*/
+	var phaseFormTypeIDs = [];
+	var return_phases = [];
+	/*for each phase ID passed as query parameter*/
 	phaseIDs.forEach(function(phaseID){
-		var return_phase_questions = [];
-		phase_questions.forEach(function(phase_question){
-			if(phaseID == ""+phase_question.PhaseID){
-				return_phase_questions.push(phase_question);
-			}
-		});
-		question_sets.push(return_phase_questions);
-	});
+		/*for each phase_form in the phase_forms array*/
+		phase_forms.forEach(function(phase_form){
+			/*find the PhaseFormTypeID of the phase_form object whose phaseID and FormTypeID matches*/
+				if(""+phase_form.PhaseID == phaseID && ""+phase_form.FormTypeID == formID){
+					/*go through all the phase form questions*/
+					var temp_phase = {PhaseID: phase_form.PhaseID, FormTypeID: phase_form.FormTypeID, questions: [] };
 
-	/* Now each phase should have a set of questions. */
+						phase_form_questions.forEach(function(phase_form_question){
+							/* if the phase form question's phaseformtypeid matches the previous loop cyle, go through the phase questions using that phasequestionID*/
 
-	question_sets.forEach(function(question_set){
-		question_set.forEach(function(question){
-			phase_question_responses.forEach(function(phase_question_response){
-				if(question.PhaseQuestionID == phase_question_response.PhaseQuestionID){
-					if(!question.PhaseQuestionResponses){
-						question.PhaseQuestionResponses = [];
-					}
-					question.PhaseQuestionResponses.push(phase_question_response);
+							if(phase_form_question.PhaseFormTypeID == phase_form.PhaseFormTypeID){
+								phase_questions.forEach(function(phase_question){
+									/*if the phase_question's phase questionID's match from phase form question*/
+									if(phase_question.PhaseQuestionID == phase_form_question.PhaseQuestionID){
+											var tempObj = phase_question;
+											tempObj.PhaseQuestionResponses = [];
+											phase_question_responses.forEach(function(phase_question_response){
+												if(tempObj.PhaseQuestionID == phase_question_response.PhaseQuestionID){
+														tempObj.PhaseQuestionResponses.push(phase_question_response);
+												}
+											});
+											temp_phase.questions.push(tempObj);
+									}
+								});
+							}
+						});
+						return_phases.push(temp_phase);
 				}
-			});
 		});
 	});
-/* Now each question in the question set has a PhaseQuestionResponse assumming there was a match in the responses list*/
-/*Send back the question sets*/
-	response.send(question_sets)
+	response.send(return_phases);
+
 });
 /*BEGIN API WRITER */
 app.get('/saveExaminee', function(request, response){

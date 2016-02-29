@@ -2,6 +2,8 @@
 var app = angular.module('consentForm', []);
 
 app.controller('Demographic',function($scope,$http){
+  $scope.debugobj = "";
+
   $scope.examinee = {
     ExamineeID: null,
     PhaseID: null,
@@ -41,6 +43,11 @@ app.controller('Demographic',function($scope,$http){
     MedicationsList: null,
     DoNotWishtoBeContacted: null
   };
+/*  $scope.$watch($scope.examinee,function(){
+    console.log("changed");
+    $scope.debugobj = JSON.stringify($scope.examinee);
+    console.log("set");
+  });*/
   $scope.lookupLists = {
     Genders: [
       {GenderID: 1, GenderDescription: "Male"},
@@ -87,6 +94,7 @@ app.controller('Signature', function($scope){
   $scope.checkname = function(){
     console.log("name checked");
   };
+
   $scope.firstname = "Scott";
   $scope.lastname = "Lackey";
   $scope.user_firstname = "";

@@ -1,0 +1,4736 @@
+[
+  {
+    "PhaseServiceID": 441,
+    "PhaseID": 169,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 442,
+    "PhaseID": 170,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 443,
+    "PhaseID": 170,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 444,
+    "PhaseID": 171,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 446,
+    "PhaseID": 171,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 447,
+    "PhaseID": 171,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 448,
+    "PhaseID": 172,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 449,
+    "PhaseID": 172,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 450,
+    "PhaseID": 172,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 451,
+    "PhaseID": 172,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 452,
+    "PhaseID": 172,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 453,
+    "PhaseID": 172,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 454,
+    "PhaseID": 172,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 455,
+    "PhaseID": 172,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 456,
+    "PhaseID": 172,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 457,
+    "PhaseID": 172,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 458,
+    "PhaseID": 172,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 459,
+    "PhaseID": 172,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 460,
+    "PhaseID": 172,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 473,
+    "PhaseID": 174,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 474,
+    "PhaseID": 174,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 475,
+    "PhaseID": 174,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 476,
+    "PhaseID": 174,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 477,
+    "PhaseID": 173,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 478,
+    "PhaseID": 173,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 479,
+    "PhaseID": 173,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 480,
+    "PhaseID": 173,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 481,
+    "PhaseID": 173,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 482,
+    "PhaseID": 173,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 483,
+    "PhaseID": 173,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 484,
+    "PhaseID": 173,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 485,
+    "PhaseID": 173,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 486,
+    "PhaseID": 173,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 487,
+    "PhaseID": 173,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 488,
+    "PhaseID": 173,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 489,
+    "PhaseID": 175,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 490,
+    "PhaseID": 175,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 491,
+    "PhaseID": 175,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 492,
+    "PhaseID": 175,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 493,
+    "PhaseID": 175,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 494,
+    "PhaseID": 175,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 495,
+    "PhaseID": 175,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 496,
+    "PhaseID": 175,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 497,
+    "PhaseID": 175,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 498,
+    "PhaseID": 175,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 499,
+    "PhaseID": 175,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 500,
+    "PhaseID": 176,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 501,
+    "PhaseID": 176,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 502,
+    "PhaseID": 176,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 503,
+    "PhaseID": 176,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 504,
+    "PhaseID": 176,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 505,
+    "PhaseID": 176,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 506,
+    "PhaseID": 176,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 507,
+    "PhaseID": 176,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 508,
+    "PhaseID": 176,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 509,
+    "PhaseID": 176,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 510,
+    "PhaseID": 176,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 531,
+    "PhaseID": 178,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 532,
+    "PhaseID": 178,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 533,
+    "PhaseID": 178,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 534,
+    "PhaseID": 178,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 535,
+    "PhaseID": 178,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 536,
+    "PhaseID": 178,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 537,
+    "PhaseID": 178,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 538,
+    "PhaseID": 179,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 539,
+    "PhaseID": 179,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 540,
+    "PhaseID": 179,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 541,
+    "PhaseID": 179,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 542,
+    "PhaseID": 179,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 543,
+    "PhaseID": 179,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 544,
+    "PhaseID": 179,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 545,
+    "PhaseID": 179,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 546,
+    "PhaseID": 179,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 547,
+    "PhaseID": 179,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 548,
+    "PhaseID": 179,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 549,
+    "PhaseID": 179,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 550,
+    "PhaseID": 180,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 551,
+    "PhaseID": 180,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 552,
+    "PhaseID": 180,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 553,
+    "PhaseID": 180,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 554,
+    "PhaseID": 180,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 555,
+    "PhaseID": 169,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 557,
+    "PhaseID": 169,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 558,
+    "PhaseID": 169,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 559,
+    "PhaseID": 169,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 560,
+    "PhaseID": 169,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 561,
+    "PhaseID": 169,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 562,
+    "PhaseID": 169,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 565,
+    "PhaseID": 177,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 566,
+    "PhaseID": 177,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 567,
+    "PhaseID": 177,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 568,
+    "PhaseID": 177,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 569,
+    "PhaseID": 177,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 570,
+    "PhaseID": 177,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 571,
+    "PhaseID": 177,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 572,
+    "PhaseID": 177,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 573,
+    "PhaseID": 177,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 574,
+    "PhaseID": 177,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 575,
+    "PhaseID": 177,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 576,
+    "PhaseID": 177,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 577,
+    "PhaseID": 181,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 578,
+    "PhaseID": 181,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 579,
+    "PhaseID": 181,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 580,
+    "PhaseID": 181,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 581,
+    "PhaseID": 181,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 582,
+    "PhaseID": 181,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 583,
+    "PhaseID": 181,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 584,
+    "PhaseID": 181,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 585,
+    "PhaseID": 181,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 586,
+    "PhaseID": 181,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 587,
+    "PhaseID": 182,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 588,
+    "PhaseID": 176,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 589,
+    "PhaseID": 183,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 590,
+    "PhaseID": 183,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 591,
+    "PhaseID": 183,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 592,
+    "PhaseID": 183,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 593,
+    "PhaseID": 183,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 594,
+    "PhaseID": 183,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 595,
+    "PhaseID": 183,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 596,
+    "PhaseID": 183,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 597,
+    "PhaseID": 186,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 598,
+    "PhaseID": 187,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 599,
+    "PhaseID": 187,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 600,
+    "PhaseID": 187,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 601,
+    "PhaseID": 187,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 602,
+    "PhaseID": 187,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 603,
+    "PhaseID": 187,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 604,
+    "PhaseID": 187,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 605,
+    "PhaseID": 187,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 606,
+    "PhaseID": 187,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 607,
+    "PhaseID": 187,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 608,
+    "PhaseID": 187,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 609,
+    "PhaseID": 187,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 610,
+    "PhaseID": 188,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 611,
+    "PhaseID": 188,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 612,
+    "PhaseID": 188,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 613,
+    "PhaseID": 188,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 614,
+    "PhaseID": 188,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 615,
+    "PhaseID": 188,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 616,
+    "PhaseID": 188,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 617,
+    "PhaseID": 188,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 618,
+    "PhaseID": 188,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 619,
+    "PhaseID": 188,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 620,
+    "PhaseID": 188,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 621,
+    "PhaseID": 188,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 622,
+    "PhaseID": 188,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 623,
+    "PhaseID": 189,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 624,
+    "PhaseID": 189,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 625,
+    "PhaseID": 189,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 626,
+    "PhaseID": 189,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 627,
+    "PhaseID": 189,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 628,
+    "PhaseID": 189,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 629,
+    "PhaseID": 189,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 630,
+    "PhaseID": 189,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 631,
+    "PhaseID": 189,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 632,
+    "PhaseID": 189,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 633,
+    "PhaseID": 190,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 634,
+    "PhaseID": 190,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 635,
+    "PhaseID": 190,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 636,
+    "PhaseID": 190,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 637,
+    "PhaseID": 190,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 638,
+    "PhaseID": 190,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 639,
+    "PhaseID": 190,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 640,
+    "PhaseID": 190,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 641,
+    "PhaseID": 190,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 642,
+    "PhaseID": 190,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 643,
+    "PhaseID": 191,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 644,
+    "PhaseID": 191,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 645,
+    "PhaseID": 191,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 646,
+    "PhaseID": 191,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 647,
+    "PhaseID": 191,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 648,
+    "PhaseID": 191,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 649,
+    "PhaseID": 191,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 650,
+    "PhaseID": 191,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 651,
+    "PhaseID": 191,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 652,
+    "PhaseID": 192,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 653,
+    "PhaseID": 192,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 654,
+    "PhaseID": 192,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 656,
+    "PhaseID": 193,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 657,
+    "PhaseID": 193,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 658,
+    "PhaseID": 193,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 659,
+    "PhaseID": 193,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 660,
+    "PhaseID": 193,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 661,
+    "PhaseID": 193,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 662,
+    "PhaseID": 196,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 663,
+    "PhaseID": 196,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 664,
+    "PhaseID": 196,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 665,
+    "PhaseID": 196,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 666,
+    "PhaseID": 196,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 667,
+    "PhaseID": 196,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 668,
+    "PhaseID": 196,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 669,
+    "PhaseID": 196,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 670,
+    "PhaseID": 196,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 673,
+    "PhaseID": 198,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 674,
+    "PhaseID": 198,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 675,
+    "PhaseID": 198,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 676,
+    "PhaseID": 198,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 677,
+    "PhaseID": 198,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 678,
+    "PhaseID": 198,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 679,
+    "PhaseID": 198,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 680,
+    "PhaseID": 198,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 681,
+    "PhaseID": 198,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 682,
+    "PhaseID": 198,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 683,
+    "PhaseID": 198,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 684,
+    "PhaseID": 198,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 685,
+    "PhaseID": 198,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 686,
+    "PhaseID": 171,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 687,
+    "PhaseID": 201,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 688,
+    "PhaseID": 201,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 689,
+    "PhaseID": 201,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 690,
+    "PhaseID": 201,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 691,
+    "PhaseID": 201,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 692,
+    "PhaseID": 201,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 693,
+    "PhaseID": 201,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 694,
+    "PhaseID": 201,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 695,
+    "PhaseID": 201,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 696,
+    "PhaseID": 201,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 697,
+    "PhaseID": 201,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 698,
+    "PhaseID": 201,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 699,
+    "PhaseID": 201,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 700,
+    "PhaseID": 202,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 701,
+    "PhaseID": 204,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 702,
+    "PhaseID": 185,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 703,
+    "PhaseID": 184,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 704,
+    "PhaseID": 206,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 705,
+    "PhaseID": 203,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 706,
+    "PhaseID": 203,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 707,
+    "PhaseID": 203,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 708,
+    "PhaseID": 203,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 709,
+    "PhaseID": 203,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 710,
+    "PhaseID": 203,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 711,
+    "PhaseID": 203,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 712,
+    "PhaseID": 203,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 713,
+    "PhaseID": 203,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 714,
+    "PhaseID": 207,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 715,
+    "PhaseID": 208,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 716,
+    "PhaseID": 210,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 717,
+    "PhaseID": 210,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 718,
+    "PhaseID": 210,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 719,
+    "PhaseID": 210,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 720,
+    "PhaseID": 210,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 721,
+    "PhaseID": 210,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 722,
+    "PhaseID": 210,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 723,
+    "PhaseID": 210,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 724,
+    "PhaseID": 210,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 725,
+    "PhaseID": 210,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 726,
+    "PhaseID": 211,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 727,
+    "PhaseID": 212,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 728,
+    "PhaseID": 212,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 729,
+    "PhaseID": 212,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 730,
+    "PhaseID": 212,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 731,
+    "PhaseID": 212,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 732,
+    "PhaseID": 212,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 733,
+    "PhaseID": 212,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 734,
+    "PhaseID": 212,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 735,
+    "PhaseID": 212,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 736,
+    "PhaseID": 212,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 738,
+    "PhaseID": 213,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 739,
+    "PhaseID": 213,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 740,
+    "PhaseID": 213,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 741,
+    "PhaseID": 213,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 742,
+    "PhaseID": 213,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 743,
+    "PhaseID": 213,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 744,
+    "PhaseID": 213,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 745,
+    "PhaseID": 213,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 746,
+    "PhaseID": 213,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 747,
+    "PhaseID": 215,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 748,
+    "PhaseID": 217,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 749,
+    "PhaseID": 217,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 750,
+    "PhaseID": 217,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 751,
+    "PhaseID": 217,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 752,
+    "PhaseID": 217,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 753,
+    "PhaseID": 217,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 754,
+    "PhaseID": 217,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 755,
+    "PhaseID": 217,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 756,
+    "PhaseID": 217,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 757,
+    "PhaseID": 217,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 758,
+    "PhaseID": 217,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 759,
+    "PhaseID": 217,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 760,
+    "PhaseID": 217,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 761,
+    "PhaseID": 218,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 762,
+    "PhaseID": 205,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 763,
+    "PhaseID": 205,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 764,
+    "PhaseID": 205,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 765,
+    "PhaseID": 205,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 766,
+    "PhaseID": 205,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 767,
+    "PhaseID": 205,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 768,
+    "PhaseID": 205,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 769,
+    "PhaseID": 205,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 770,
+    "PhaseID": 205,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 771,
+    "PhaseID": 205,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 772,
+    "PhaseID": 205,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 773,
+    "PhaseID": 205,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 774,
+    "PhaseID": 219,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 775,
+    "PhaseID": 219,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 776,
+    "PhaseID": 219,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 777,
+    "PhaseID": 219,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 778,
+    "PhaseID": 219,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 779,
+    "PhaseID": 219,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 780,
+    "PhaseID": 219,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 781,
+    "PhaseID": 219,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 782,
+    "PhaseID": 219,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 783,
+    "PhaseID": 219,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 784,
+    "PhaseID": 219,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 785,
+    "PhaseID": 219,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 786,
+    "PhaseID": 224,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 787,
+    "PhaseID": 224,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 788,
+    "PhaseID": 225,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 789,
+    "PhaseID": 226,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 790,
+    "PhaseID": 226,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 791,
+    "PhaseID": 226,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 792,
+    "PhaseID": 226,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 793,
+    "PhaseID": 226,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 794,
+    "PhaseID": 226,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 795,
+    "PhaseID": 226,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 796,
+    "PhaseID": 226,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 797,
+    "PhaseID": 226,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 798,
+    "PhaseID": 226,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 799,
+    "PhaseID": 226,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 800,
+    "PhaseID": 226,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 801,
+    "PhaseID": 226,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 802,
+    "PhaseID": 227,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 803,
+    "PhaseID": 227,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 804,
+    "PhaseID": 227,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 805,
+    "PhaseID": 227,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 806,
+    "PhaseID": 227,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 807,
+    "PhaseID": 227,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 808,
+    "PhaseID": 227,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 809,
+    "PhaseID": 227,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 810,
+    "PhaseID": 227,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 811,
+    "PhaseID": 227,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 812,
+    "PhaseID": 227,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 813,
+    "PhaseID": 227,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 814,
+    "PhaseID": 227,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 815,
+    "PhaseID": 227,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 816,
+    "PhaseID": 227,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 817,
+    "PhaseID": 228,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 818,
+    "PhaseID": 228,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 819,
+    "PhaseID": 228,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 820,
+    "PhaseID": 228,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 821,
+    "PhaseID": 228,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 822,
+    "PhaseID": 228,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 823,
+    "PhaseID": 228,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 824,
+    "PhaseID": 228,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 825,
+    "PhaseID": 228,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 826,
+    "PhaseID": 228,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 827,
+    "PhaseID": 228,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 828,
+    "PhaseID": 229,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 829,
+    "PhaseID": 229,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 830,
+    "PhaseID": 229,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 831,
+    "PhaseID": 229,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 832,
+    "PhaseID": 229,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 833,
+    "PhaseID": 229,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 834,
+    "PhaseID": 229,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 835,
+    "PhaseID": 229,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 836,
+    "PhaseID": 229,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 837,
+    "PhaseID": 229,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 838,
+    "PhaseID": 229,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 839,
+    "PhaseID": 230,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 840,
+    "PhaseID": 230,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 841,
+    "PhaseID": 230,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 842,
+    "PhaseID": 230,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 843,
+    "PhaseID": 230,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 844,
+    "PhaseID": 230,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 845,
+    "PhaseID": 230,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 846,
+    "PhaseID": 230,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 847,
+    "PhaseID": 230,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 848,
+    "PhaseID": 230,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 849,
+    "PhaseID": 230,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 850,
+    "PhaseID": 230,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 851,
+    "PhaseID": 231,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 852,
+    "PhaseID": 231,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 853,
+    "PhaseID": 231,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 854,
+    "PhaseID": 231,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 855,
+    "PhaseID": 231,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 856,
+    "PhaseID": 231,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 857,
+    "PhaseID": 232,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 858,
+    "PhaseID": 233,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 859,
+    "PhaseID": 233,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 860,
+    "PhaseID": 233,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 861,
+    "PhaseID": 233,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 862,
+    "PhaseID": 233,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 863,
+    "PhaseID": 233,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 864,
+    "PhaseID": 233,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 865,
+    "PhaseID": 233,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 866,
+    "PhaseID": 233,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 867,
+    "PhaseID": 234,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 868,
+    "PhaseID": 235,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 869,
+    "PhaseID": 236,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 870,
+    "PhaseID": 237,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 871,
+    "PhaseID": 237,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 872,
+    "PhaseID": 237,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 873,
+    "PhaseID": 237,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 874,
+    "PhaseID": 237,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 875,
+    "PhaseID": 237,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 876,
+    "PhaseID": 237,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 877,
+    "PhaseID": 237,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 878,
+    "PhaseID": 237,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 879,
+    "PhaseID": 238,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 880,
+    "PhaseID": 239,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 881,
+    "PhaseID": 232,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 882,
+    "PhaseID": 232,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 883,
+    "PhaseID": 232,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 884,
+    "PhaseID": 232,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 885,
+    "PhaseID": 232,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 886,
+    "PhaseID": 232,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 887,
+    "PhaseID": 232,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 888,
+    "PhaseID": 232,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 889,
+    "PhaseID": 241,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 890,
+    "PhaseID": 242,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 891,
+    "PhaseID": 243,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 892,
+    "PhaseID": 244,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 893,
+    "PhaseID": 245,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 894,
+    "PhaseID": 246,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 895,
+    "PhaseID": 247,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 896,
+    "PhaseID": 248,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 897,
+    "PhaseID": 249,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 898,
+    "PhaseID": 249,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 899,
+    "PhaseID": 249,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 900,
+    "PhaseID": 249,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 901,
+    "PhaseID": 249,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 902,
+    "PhaseID": 249,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 903,
+    "PhaseID": 249,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 904,
+    "PhaseID": 249,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 905,
+    "PhaseID": 249,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 906,
+    "PhaseID": 249,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 907,
+    "PhaseID": 249,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 908,
+    "PhaseID": 250,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 909,
+    "PhaseID": 250,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 910,
+    "PhaseID": 250,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 911,
+    "PhaseID": 250,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 912,
+    "PhaseID": 250,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 913,
+    "PhaseID": 250,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 914,
+    "PhaseID": 250,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 915,
+    "PhaseID": 250,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 916,
+    "PhaseID": 250,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 917,
+    "PhaseID": 250,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 918,
+    "PhaseID": 250,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 919,
+    "PhaseID": 251,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 920,
+    "PhaseID": 251,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 921,
+    "PhaseID": 252,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 922,
+    "PhaseID": 253,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 923,
+    "PhaseID": 254,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 924,
+    "PhaseID": 255,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 925,
+    "PhaseID": 256,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 926,
+    "PhaseID": 257,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 927,
+    "PhaseID": 258,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 928,
+    "PhaseID": 258,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 929,
+    "PhaseID": 258,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 930,
+    "PhaseID": 258,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 931,
+    "PhaseID": 258,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 932,
+    "PhaseID": 258,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 933,
+    "PhaseID": 258,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 934,
+    "PhaseID": 258,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 935,
+    "PhaseID": 258,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 936,
+    "PhaseID": 258,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 937,
+    "PhaseID": 258,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 938,
+    "PhaseID": 258,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 939,
+    "PhaseID": 258,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 940,
+    "PhaseID": 258,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 941,
+    "PhaseID": 258,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 942,
+    "PhaseID": 258,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 943,
+    "PhaseID": 258,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 944,
+    "PhaseID": 258,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 945,
+    "PhaseID": 258,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 946,
+    "PhaseID": 258,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 947,
+    "PhaseID": 259,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 948,
+    "PhaseID": 259,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 949,
+    "PhaseID": 259,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 950,
+    "PhaseID": 259,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 951,
+    "PhaseID": 255,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 952,
+    "PhaseID": 255,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 953,
+    "PhaseID": 255,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 954,
+    "PhaseID": 255,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 955,
+    "PhaseID": 255,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 956,
+    "PhaseID": 255,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 957,
+    "PhaseID": 255,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 958,
+    "PhaseID": 255,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 959,
+    "PhaseID": 255,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 960,
+    "PhaseID": 255,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 961,
+    "PhaseID": 255,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 962,
+    "PhaseID": 260,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 963,
+    "PhaseID": 260,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 964,
+    "PhaseID": 260,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 965,
+    "PhaseID": 260,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 966,
+    "PhaseID": 260,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 967,
+    "PhaseID": 260,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 968,
+    "PhaseID": 261,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 969,
+    "PhaseID": 261,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 970,
+    "PhaseID": 261,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 971,
+    "PhaseID": 261,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 972,
+    "PhaseID": 261,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 973,
+    "PhaseID": 261,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 974,
+    "PhaseID": 261,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 975,
+    "PhaseID": 261,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 976,
+    "PhaseID": 261,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 977,
+    "PhaseID": 261,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 978,
+    "PhaseID": 261,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 979,
+    "PhaseID": 261,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 980,
+    "PhaseID": 262,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 981,
+    "PhaseID": 263,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 982,
+    "PhaseID": 264,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 983,
+    "PhaseID": 264,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 984,
+    "PhaseID": 264,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 985,
+    "PhaseID": 264,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 986,
+    "PhaseID": 264,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 987,
+    "PhaseID": 264,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 988,
+    "PhaseID": 264,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 989,
+    "PhaseID": 264,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 990,
+    "PhaseID": 264,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 991,
+    "PhaseID": 264,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 992,
+    "PhaseID": 264,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 993,
+    "PhaseID": 264,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 994,
+    "PhaseID": 264,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 995,
+    "PhaseID": 264,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 996,
+    "PhaseID": 264,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 997,
+    "PhaseID": 265,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 998,
+    "PhaseID": 265,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 999,
+    "PhaseID": 265,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1000,
+    "PhaseID": 265,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1001,
+    "PhaseID": 265,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1002,
+    "PhaseID": 265,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1003,
+    "PhaseID": 265,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1004,
+    "PhaseID": 265,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1005,
+    "PhaseID": 265,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1006,
+    "PhaseID": 265,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1007,
+    "PhaseID": 266,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1008,
+    "PhaseID": 266,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1009,
+    "PhaseID": 266,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1010,
+    "PhaseID": 266,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1011,
+    "PhaseID": 266,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1012,
+    "PhaseID": 266,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1013,
+    "PhaseID": 266,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1014,
+    "PhaseID": 266,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1015,
+    "PhaseID": 266,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1016,
+    "PhaseID": 266,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1017,
+    "PhaseID": 266,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1018,
+    "PhaseID": 266,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1019,
+    "PhaseID": 266,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1020,
+    "PhaseID": 266,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1021,
+    "PhaseID": 267,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1022,
+    "PhaseID": 268,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1023,
+    "PhaseID": 269,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1024,
+    "PhaseID": 270,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1025,
+    "PhaseID": 271,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1026,
+    "PhaseID": 272,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1027,
+    "PhaseID": 272,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1028,
+    "PhaseID": 272,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1029,
+    "PhaseID": 272,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1030,
+    "PhaseID": 272,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1031,
+    "PhaseID": 273,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1032,
+    "PhaseID": 273,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1033,
+    "PhaseID": 273,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1034,
+    "PhaseID": 273,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1035,
+    "PhaseID": 273,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1036,
+    "PhaseID": 273,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1037,
+    "PhaseID": 273,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1038,
+    "PhaseID": 273,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1039,
+    "PhaseID": 273,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1040,
+    "PhaseID": 273,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1041,
+    "PhaseID": 273,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1042,
+    "PhaseID": 274,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1043,
+    "PhaseID": 274,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1044,
+    "PhaseID": 274,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1045,
+    "PhaseID": 274,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1046,
+    "PhaseID": 274,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1047,
+    "PhaseID": 274,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1048,
+    "PhaseID": 274,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1049,
+    "PhaseID": 274,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1050,
+    "PhaseID": 274,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1051,
+    "PhaseID": 274,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1052,
+    "PhaseID": 274,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1053,
+    "PhaseID": 274,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1054,
+    "PhaseID": 274,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1055,
+    "PhaseID": 274,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1056,
+    "PhaseID": 274,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1057,
+    "PhaseID": 275,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1058,
+    "PhaseID": 276,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1059,
+    "PhaseID": 276,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1060,
+    "PhaseID": 276,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1061,
+    "PhaseID": 276,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1062,
+    "PhaseID": 276,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1063,
+    "PhaseID": 276,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1064,
+    "PhaseID": 276,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1065,
+    "PhaseID": 276,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1066,
+    "PhaseID": 276,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1067,
+    "PhaseID": 276,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1068,
+    "PhaseID": 277,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1069,
+    "PhaseID": 278,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1070,
+    "PhaseID": 279,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1071,
+    "PhaseID": 276,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1072,
+    "PhaseID": 280,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1073,
+    "PhaseID": 280,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1074,
+    "PhaseID": 280,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1075,
+    "PhaseID": 280,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1076,
+    "PhaseID": 280,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1077,
+    "PhaseID": 280,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1078,
+    "PhaseID": 280,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1079,
+    "PhaseID": 280,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1080,
+    "PhaseID": 280,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1081,
+    "PhaseID": 280,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1082,
+    "PhaseID": 280,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1083,
+    "PhaseID": 280,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1084,
+    "PhaseID": 280,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1085,
+    "PhaseID": 280,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1086,
+    "PhaseID": 280,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1087,
+    "PhaseID": 281,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1088,
+    "PhaseID": 282,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1089,
+    "PhaseID": 281,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1090,
+    "PhaseID": 281,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1091,
+    "PhaseID": 281,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1092,
+    "PhaseID": 281,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1093,
+    "PhaseID": 281,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1094,
+    "PhaseID": 281,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1095,
+    "PhaseID": 281,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1096,
+    "PhaseID": 281,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1097,
+    "PhaseID": 281,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1098,
+    "PhaseID": 281,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1099,
+    "PhaseID": 281,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1100,
+    "PhaseID": 283,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1101,
+    "PhaseID": 283,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1102,
+    "PhaseID": 283,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1103,
+    "PhaseID": 283,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1104,
+    "PhaseID": 283,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1105,
+    "PhaseID": 283,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1106,
+    "PhaseID": 283,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1107,
+    "PhaseID": 283,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1108,
+    "PhaseID": 283,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1109,
+    "PhaseID": 283,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1110,
+    "PhaseID": 283,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1111,
+    "PhaseID": 283,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1112,
+    "PhaseID": 283,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1113,
+    "PhaseID": 283,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1114,
+    "PhaseID": 284,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1115,
+    "PhaseID": 284,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1116,
+    "PhaseID": 284,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1117,
+    "PhaseID": 284,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1118,
+    "PhaseID": 284,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1119,
+    "PhaseID": 284,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1120,
+    "PhaseID": 284,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1121,
+    "PhaseID": 284,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1122,
+    "PhaseID": 284,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1123,
+    "PhaseID": 284,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1124,
+    "PhaseID": 284,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1125,
+    "PhaseID": 284,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1126,
+    "PhaseID": 284,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1127,
+    "PhaseID": 284,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1128,
+    "PhaseID": 285,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1129,
+    "PhaseID": 285,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1130,
+    "PhaseID": 285,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1131,
+    "PhaseID": 285,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1132,
+    "PhaseID": 285,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1133,
+    "PhaseID": 285,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1134,
+    "PhaseID": 285,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1135,
+    "PhaseID": 285,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1136,
+    "PhaseID": 285,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1137,
+    "PhaseID": 285,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1138,
+    "PhaseID": 285,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1139,
+    "PhaseID": 286,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1140,
+    "PhaseID": 286,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1141,
+    "PhaseID": 286,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1142,
+    "PhaseID": 286,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1143,
+    "PhaseID": 286,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1144,
+    "PhaseID": 286,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1145,
+    "PhaseID": 286,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1146,
+    "PhaseID": 286,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1147,
+    "PhaseID": 286,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1148,
+    "PhaseID": 286,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1149,
+    "PhaseID": 286,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1150,
+    "PhaseID": 286,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1151,
+    "PhaseID": 286,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1152,
+    "PhaseID": 287,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1153,
+    "PhaseID": 287,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1154,
+    "PhaseID": 287,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1155,
+    "PhaseID": 287,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1156,
+    "PhaseID": 287,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1157,
+    "PhaseID": 287,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1158,
+    "PhaseID": 287,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1159,
+    "PhaseID": 287,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1160,
+    "PhaseID": 287,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1161,
+    "PhaseID": 287,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1162,
+    "PhaseID": 287,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1163,
+    "PhaseID": 287,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1164,
+    "PhaseID": 287,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1165,
+    "PhaseID": 287,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1166,
+    "PhaseID": 287,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1167,
+    "PhaseID": 288,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1168,
+    "PhaseID": 288,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1169,
+    "PhaseID": 288,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1170,
+    "PhaseID": 288,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1171,
+    "PhaseID": 288,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1172,
+    "PhaseID": 288,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1173,
+    "PhaseID": 288,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1174,
+    "PhaseID": 288,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1175,
+    "PhaseID": 288,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1176,
+    "PhaseID": 288,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1177,
+    "PhaseID": 288,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1178,
+    "PhaseID": 288,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1179,
+    "PhaseID": 288,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1180,
+    "PhaseID": 288,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1181,
+    "PhaseID": 290,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1182,
+    "PhaseID": 290,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1183,
+    "PhaseID": 290,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1184,
+    "PhaseID": 290,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1185,
+    "PhaseID": 290,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1186,
+    "PhaseID": 290,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1187,
+    "PhaseID": 290,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1188,
+    "PhaseID": 290,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1189,
+    "PhaseID": 290,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1190,
+    "PhaseID": 290,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1191,
+    "PhaseID": 290,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1192,
+    "PhaseID": 290,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1193,
+    "PhaseID": 290,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1194,
+    "PhaseID": 291,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1195,
+    "PhaseID": 291,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1196,
+    "PhaseID": 291,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1197,
+    "PhaseID": 291,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1198,
+    "PhaseID": 291,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1199,
+    "PhaseID": 291,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1200,
+    "PhaseID": 291,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1201,
+    "PhaseID": 291,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1202,
+    "PhaseID": 291,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1203,
+    "PhaseID": 294,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1204,
+    "PhaseID": 295,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1205,
+    "PhaseID": 295,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1206,
+    "PhaseID": 295,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1207,
+    "PhaseID": 295,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1208,
+    "PhaseID": 295,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1209,
+    "PhaseID": 295,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1210,
+    "PhaseID": 295,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1211,
+    "PhaseID": 295,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1212,
+    "PhaseID": 295,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1213,
+    "PhaseID": 295,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1214,
+    "PhaseID": 295,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1215,
+    "PhaseID": 294,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1216,
+    "PhaseID": 294,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1217,
+    "PhaseID": 294,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1218,
+    "PhaseID": 294,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1219,
+    "PhaseID": 294,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1220,
+    "PhaseID": 294,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1221,
+    "PhaseID": 294,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1222,
+    "PhaseID": 294,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1223,
+    "PhaseID": 294,
+    "ServiceLKPValue": 305,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1224,
+    "PhaseID": 294,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1225,
+    "PhaseID": 294,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1226,
+    "PhaseID": 294,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1227,
+    "PhaseID": 296,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1228,
+    "PhaseID": 296,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1229,
+    "PhaseID": 296,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1230,
+    "PhaseID": 296,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1231,
+    "PhaseID": 296,
+    "ServiceLKPValue": 304,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1232,
+    "PhaseID": 296,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1233,
+    "PhaseID": 296,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1234,
+    "PhaseID": 296,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1235,
+    "PhaseID": 296,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1236,
+    "PhaseID": 296,
+    "ServiceLKPValue": 295,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1237,
+    "PhaseID": 296,
+    "ServiceLKPValue": 296,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1238,
+    "PhaseID": 296,
+    "ServiceLKPValue": 291,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1239,
+    "PhaseID": 296,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1240,
+    "PhaseID": 296,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1241,
+    "PhaseID": 296,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1242,
+    "PhaseID": 297,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1243,
+    "PhaseID": 297,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1244,
+    "PhaseID": 297,
+    "ServiceLKPValue": 661,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1245,
+    "PhaseID": 297,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1246,
+    "PhaseID": 297,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1247,
+    "PhaseID": 297,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1248,
+    "PhaseID": 297,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1249,
+    "PhaseID": 297,
+    "ServiceLKPValue": 306,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1250,
+    "PhaseID": 297,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1251,
+    "PhaseID": 297,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1252,
+    "PhaseID": 298,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1253,
+    "PhaseID": 298,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1254,
+    "PhaseID": 299,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1255,
+    "PhaseID": 299,
+    "ServiceLKPValue": 290,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1256,
+    "PhaseID": 299,
+    "ServiceLKPValue": 297,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1257,
+    "PhaseID": 299,
+    "ServiceLKPValue": 294,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1258,
+    "PhaseID": 299,
+    "ServiceLKPValue": 299,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1259,
+    "PhaseID": 299,
+    "ServiceLKPValue": 307,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1260,
+    "PhaseID": 299,
+    "ServiceLKPValue": 292,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1261,
+    "PhaseID": 299,
+    "ServiceLKPValue": 300,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1262,
+    "PhaseID": 299,
+    "ServiceLKPValue": 293,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1263,
+    "PhaseID": 299,
+    "ServiceLKPValue": 298,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1264,
+    "PhaseID": 299,
+    "ServiceLKPValue": 303,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1265,
+    "PhaseID": 299,
+    "ServiceLKPValue": 301,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1266,
+    "PhaseID": 299,
+    "ServiceLKPValue": 597,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1267,
+    "PhaseID": 300,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1268,
+    "PhaseID": 301,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  },
+  {
+    "PhaseServiceID": 1269,
+    "PhaseID": 302,
+    "ServiceLKPValue": 245,
+    "DateDeleted": "NULL"
+  }
+]
