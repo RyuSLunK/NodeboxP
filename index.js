@@ -1,30 +1,42 @@
 var express = require('express'),
 	fs = require('fs'),
-	path = require('path')
+	path = require('path'),
+	https = require('https'),
+	http = require('http'),
+	bodyParser = require('body-parser')
 var app = express()
 
 app.set('port', (process.env.PORT || 5000))
 app.use(express.static(__dirname + '/public'))
-
+app.use(bodyParser.json());
+app.use(bodyParser.urlencoded({
+  extended: true
+}));
 app.get('/', function(request, response) {
   response.render('index.html')
 });
-
+app.post("/test", function(request, response){
+	console.log(request.body);
+	//console.log(request);
+	response.send()
+});
 /*BEGIN API READERS*/
-app.get('/getTitles', function(request, response){
+app.get('/getSetup', function(request, response){
 	/*INPUTS are ?PID=123,124,125&CID=123*/
 
 	var examineeFile = fs.readFileSync(__dirname + "/public/data/Examinee.json");
 	var phaseFile = fs.readFileSync(__dirname + "/public/data/Phase.json");
+	var formConsentFile = fs.readFileSync(__dirname + "/public/data/FormConsent.json");
+	var formConsent = JSON.parse(formConsentFile);
 	var examineeReturn;
 	/*Determine whether or not consent exists */
 	var examineeTable = JSON.parse(examineeFile);
 
-	var paramPhases = request.query.PID.split(",");
+	var paramPhases = request.body.PID.split(",");
 	var phasesNeeded = [];
 
 	examineeTable.forEach(function(examinee){
-		if (examinee.CandidateID+"" == request.query.CID && examinee.NoConsentForm == 1 && paramPhases.indexOf(""+examinee.PhaseID)>=0){
+		if (examinee.CandidateID+"" == request.body.CID && examinee.NoConsentForm == 1 && paramPhases.indexOf(""+examinee.PhaseID)>=0){
 			phasesNeeded.push(examinee.PhaseID);
 			examineeReturn = {FirstName: examinee.FirstName, LastName: examinee.LastName};
 		}
@@ -40,23 +52,29 @@ app.get('/getTitles', function(request, response){
 				}
 			});
 		});
-		response.send({phases: returnList, examinee: examineeReturn})
+		var forms = [];
+		formConsent.forEach(function(form){
+			if(""+form.formTypeID == request.body.FT){
+				forms.push(form);
+			}
+		});
+		response.send({phases: returnList, examinee: examineeReturn, terms: forms})
 	} else {
 		response.send({error: "CANDIDATE CONSENT ALREADY EXISTS"})
 	}
 	/*I need either response that returns an object with two keys (phases and examinee). Else I need a responses that has an error key*/
 });
-app.get('/getGenericList',function(request, response){
+app.post('/getGenericList',function(request, response){
 	/*This endpoint takes a lookup code and returns a lookup object which has the attributes of code and values*/
 	/*I'm sending a non case-sensitive code as a string. ?s=profession*/
-
+	console.log(request.body);
 	var lookupCodeFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupCodes.json");
 	var lookupValueFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupValues.json");
 
 	var codeTable = JSON.parse(lookupCodeFile);
 	var valueTable = JSON.parse(lookupValueFile);
-	var keys = request.query.s.toLowerCase().split(',');
-	console.log("Key count is: " + request.query.s.toLowerCase().split(',').length);
+	var keys = request.body.s.toLowerCase().split(',');
+	console.log("Key count is: " + request.body.s.toLowerCase().split(',').length);
 	var Lookups = {};
 /*We've read the files, parsed the JSON, and set up our Lookup object that we want to fill up*/
 	console.log("The keys are: " + keys.join('|'));
@@ -85,8 +103,8 @@ app.get('/getListValuesByPhaseID', function(request, response){
 	var PhaseDiagnosisFile = fs.readFileSync(__dirname + "/public/data/PhaseDiagnosis.json");
 	var LookupCodeFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupCodes.json");
 	var LookupValueFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupValues.json");
-	var phaseIDs = request.query.PID.split(',');
-	//var lookups = request.query.lookup.split(',');
+	var phaseIDs = request.body.PID.split(',');
+	//var lookups = request.body.lookup.split(',');
 	var phase_services = JSON.parse(PhaseServiceFile);
 	var phase_diagnosises = JSON.parse(PhaseDiagnosisFile);
 	var lookup_values = JSON.parse(LookupValueFile);
@@ -135,8 +153,8 @@ app.get('/getQuestions', function(request, response){
 	var phase_form_questions = JSON.parse(PhaseFormQuestionFile);
 	var phase_questions = JSON.parse(PhaseQuestionFile);
 	var phase_question_responses = JSON.parse(PhaseQuestionResponseFile);
-	var phaseIDs = request.query.PID.split(',');
-	var formID = request.query.FT;
+	var phaseIDs = request.body.PID.split(',');
+	var formID = request.body.FT;
 	var question_sets = [];
 	var phaseFormTypeIDs = [];
 	var return_phases = [];

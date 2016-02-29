@@ -6,5 +6,43 @@ body {
 #layout-marker {
   color: white;
   background-color: #ffb5c0;
-  padding: .3em 0.7em; 
+  padding: .3em 0.7em;
+}
+main {
+  width: 94%;
+  margin: 0 auto;
+}
+.banner {
+    border: 0px solid grey;
+    border-bottom-width: 2px;
+    height: 60px;
+    position: fixed;
+    margin: 0px;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    background-image: url('PearsonLogo_Horizontal_Blk_RGB.jpg');
+    background-position: left center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-color: white;
+}
+.banner + main{
+  margin-top: 80px;
+}
+/*Signature form*/
+form.signature label, form.signature input{
+  display: block;
+}
+form.signature{
+  margin-left: 5px;
+}
+form.signature button{
+  background-color: #0091B2;
+  border-radius: 5px;
+  color: white;
+  font-size: 1.5rem;
+}
+form.signature button:disabled{
+  background-color: grey;
 }
