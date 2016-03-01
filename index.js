@@ -21,7 +21,7 @@ app.post("/test", function(request, response){
 	response.send()
 });
 /*BEGIN API READERS*/
-app.get('/getSetup', function(request, response){
+app.post('/getSetup', function(request, response){
 	/*INPUTS are ?PID=123,124,125&CID=123*/
 
 	var examineeFile = fs.readFileSync(__dirname + "/public/data/Examinee.json");
@@ -98,7 +98,7 @@ app.post('/getGenericList',function(request, response){
 
 
 });
-app.get('/getListValuesByPhaseID', function(request, response){
+app.post('/getListValuesByPhaseID', function(request, response){
 	var PhaseServiceFile = fs.readFileSync(__dirname + "/public/data/PhaseService.json");
 	var PhaseDiagnosisFile = fs.readFileSync(__dirname + "/public/data/PhaseDiagnosis.json");
 	var LookupCodeFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupCodes.json");
@@ -139,7 +139,7 @@ app.get('/getListValuesByPhaseID', function(request, response){
 	});
 	response.send(return_phases);
 });
-app.get('/getQuestions', function(request, response){
+app.post('/getQuestions', function(request, response){
 	/*Here we're passing a list of phases. I'm sending ?PID=123,124,125*/
 
 	/*First we read the files, parse, and split the querystring into an array of phaseID strings */
@@ -194,7 +194,7 @@ app.get('/getQuestions', function(request, response){
 
 });
 /*BEGIN API WRITER */
-app.get('/saveExaminee', function(request, response){
+app.post('/saveExaminee', function(request, response){
 
 });
 

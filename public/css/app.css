@@ -12,6 +12,9 @@ main {
   width: 94%;
   margin: 0 auto;
 }
+hr{
+  border-color:black;
+}
 .banner {
     border: 0px solid grey;
     border-bottom-width: 2px;
@@ -45,4 +48,30 @@ form.signature button{
 }
 form.signature button:disabled{
   background-color: grey;
+}
+form > select, form > input{
+  display: block;
+}
+fieldset.names > *{
+  display: block;
+}
+fieldset.dob > label{
+  display: block;
+}
+fieldset.dob > input, fieldset.dob > select{
+  dislpay: inline-block;
+  width: 20%;
+}
+input.ng-invalid.ng-dirty{
+  border-radius: 2px;
+  border: 2px solid red;
+}
+selectable{
+  cursor: pointer;
+}
+selectable:hover{
+  color: blue;
+}
+selectable[isselected=true] *{
+  font-weight: bold;
 }
