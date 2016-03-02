@@ -26,16 +26,9 @@
 
 
 
-      <selectable lookup="lookupLists.Country.values"></selectable>
+      <selectable highlight lookup="lookupLists.Country.values"></selectable>
 
 
-
-
-
-  {{/*<div ng-repeat="value in lookupLists.Country.values">
-    <input ng-if="$first" name="search" placeholder="Search"/>
-    <selectablz choice="value"></selectablz>
-  </div>*/}}
 </fieldset>
     <label>Grade:</label>
     <select ng-model="examinee.GradeID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Grade.values">

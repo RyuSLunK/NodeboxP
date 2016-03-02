@@ -141,25 +141,73 @@ window.scopetest = $scope;
 app.directive('selectable', function(){
   return {
     restrict: "E",
-    priority: 1001,
     transclude: true,
     /*templateUrl: "/views/Templates/multi-select.html",*/
-    template: "<div class='multi-select button' data-value='{{choice.LkpValue}}'>{{choice.ValueDescription}}</div><div ng-repeat-end></div>",
+    template: "<input type='text' list-search ng-model='search' placeholder='search'/><div multi-choice class='multi-select button' data-value='{{choice.LkpValue}}'>{{choice.ValueDescription}}</div>",
     compile: function(elem, attrs){
-      elem.attr("ng-repeat-start",'choice in ' + attrs.lookup);
-    },
-    link: function(scope, elem, attrs,ctrl){
-      var peanut = attrs.lookup;
-      elem.bind('click', function(event){
-        console.log("CLICKED");
-        console.log(event);
-        console.log(elem);
+      console.log("COMPILE");
+      elem.children().eq(1).attr("ng-repeat",'choice in ' + attrs.lookup);
+      return {
+        pre: function(scope, elem, attrs, ctrl){
+          console.log("PRE");
+        },
+        post: function(scope, elem, attrs, ctrl){
+          console.log("POST");
+          console.log(elem);
+          console.log(elem.children());
 
-        if(!elem.attr("isSelected")){
-          elem.attr("isSelected",true);
-        } else {
-          elem.removeAttr("isSelected");
         }
+      }
+    }
+  };
+});
+app.directive('multiChoice', function(){
+  console.log("multi-choice definition");
+  return {
+    restrict: "A",
+    link: function(scope, elem, attrs){
+      console.log("multi-choice");
+      elem.bind("click",function(){
+        console.log(this);
+        elem.toggleClass("selected");
+      });
+    }
+  };
+});
+app.directive('listSearch',function(){
+  return {
+    restrict: "A",
+    scope: true,
+    link: function(scope, elem, attrs){
+      console.log("SEARCH SCOPE");
+      console.log(scope);
+
+      scope.$watch('search',function(newValue, oldValue){
+        var val = newValue;
+        var elems = elem.parent().find("div");
+        if(val == ''){
+
+          for(var i=0;i<elems.length;i++){
+            if(elems.eq(i).hasClass("hide")){
+              elems.eq(i).toggleClass("hide");
+            }
+          }
+        } else {
+          for(var i=0;i<elems.length;i++){
+            if(elems.eq(i).text().toLowerCase().indexOf(val.toLowerCase()) == -1){
+              if(!elems.eq(i).hasClass("hide")){
+                elems.eq(i).toggleClass("hide");
+              }
+            } else {
+              if(elems.eq(i).hasClass("hide")){
+                elems.eq(i).toggleClass("hide");
+              }
+          }
+          }
+        }
+      });
+      elem.bind("change", function(){
+        console.log(this);
       });
     }
   };

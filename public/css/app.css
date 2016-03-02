@@ -66,12 +66,18 @@ input.ng-invalid.ng-dirty{
   border-radius: 2px;
   border: 2px solid red;
 }
-selectable{
+selectable > div{
   cursor: pointer;
 }
-selectable:hover{
+selectable > div:hover{
   color: blue;
 }
-selectable[isselected=true] *{
+selectable > div.selected{
   font-weight: bold;
+}
+[highlight]{
+  border: 2px solid blue;
+}
+[highlight]:hover{
+  border: 2px solid green;
 }
