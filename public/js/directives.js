@@ -1,4 +1,51 @@
 angular.module('consentForm')
+.directive('debugArrows', function(){
+  return {
+    restrict: 'E',
+    replace: true,
+    template: '<button ng-repeat="index in [0,1,2]" ng-click="changeTo(index)">View {{index + 1}}</button>',
+    compile: function(tElem, tAttrs){
+      //compile before rendering the goodies
+      return {
+        pre: function(scope, elem, attrs, ctrl){
+
+        },
+        post: function(scope, elem, attrs, ctrl){
+          //generally attach your stuff here
+        }
+      };
+    }
+  };
+})
+.directive('main', function(){
+  return {
+    restrict: 'E',
+    replace: 'true',
+    controller: ['$scope','$http', function($scope,$http){
+      window.changetest = $scope;
+      $scope.current_index = 0;
+      $scope.changeTo = function(index){
+        console.log("Changed to: " + index);
+        $scope.current_index = index;
+      };
+    }],
+    compile: function(tElem, tAttrs){
+      //compile before rendering the goodies
+      return {
+        pre: function(scope, elem, attrs, ctrl){
+
+        },
+        post: function(scope, elem, attrs, ctrl){
+          //generally attach your stuff here
+          var kids = elem.children();
+          for(var i=0;i<kids.length;i++){
+            kids.eq(i).attr("ng-show","index == " + i);
+          }
+        }
+      };
+    }
+  };
+})
 .directive('debugdemo', function(){
   return {
     restrict: 'E',
@@ -10,7 +57,8 @@ angular.module('consentForm')
 .directive('banner', function(){
   return {
     restrict: 'E',
-    replace: 'true',
+    replace: true,
+    transclude: true,
     templateUrl: '/views/Templates/banner.html'
   };
 })
@@ -22,7 +70,7 @@ angular.module('consentForm')
     templateUrl: '/views/Templates/lorem.html'
   };
 })
-.directive('demographic', function(){
+.directive('candidateInformation', function(){
   return {
     restrict: 'E',
     replace: 'true',
@@ -160,7 +208,7 @@ angular.module('consentForm')
     }
   };
 })
-.directive("signature", function($http){
+.directive("termsAndAgreement", function($http){
   function link(scope, element, attrs){
 
   }
@@ -168,9 +216,31 @@ angular.module('consentForm')
     restrict: 'E',
     replace: 'true',
     controller: 'Signature',
-    templateUrl: '/views/Templates/signature.html',
+    templateUrl: '/views/Templates/terms-and-agreement.html',
     link: link
   }
+})
+.directive('stuck', function(){
+  return {
+    restrict: 'A',
+    replace: 'true',
+    compile: function(tElem, tAttrs){
+      //compile before rendering the goodies
+      //tElem.wrap("<div></div>");
+      console.log(tElem);
+      //tElem.parent().wrap("<div class='stuck-container'></div>");
+    //  tElem.parent().parent().css("height",tElem.css("height"));
+      return {
+        pre: function(scope, elem, attrs, ctrl){
+          elem.wrap("<div class='stuck-wrap'></div>");
+          elem.parent().wrap('<div class="stuck-container"></div>');
+        },
+        post: function(scope, elem, attrs, ctrl){
+          //generally attach your stuff here
+        }
+      };
+    }
+  };
 })
 .directive("questionSection", function(){
   return {

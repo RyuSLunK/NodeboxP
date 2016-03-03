@@ -10,15 +10,12 @@
 
 </head>
 <body ng-app="consentForm">
-  <banner></banner>
+  <banner><debug-arrows></debug-arrows></banner>
   <main>
-    <page></page>
-    <signature></signature>
-    <hr />
-    <demographic></demographic>
-    <question-section></question-section>
+    <terms-and-agreement ng-show="current_index == 0"></terms-and-agreement>
+    <candidate-information ng-show="current_index == 1"></candidate-information>
+    <question-section ng-show="current_index == 2"></question-section>
   </main>
-  <div style="word-wrap:break-word;width:100%;background-color:black;color:white;font-size:16px;font-weight:bold;" ng-controller="Demographic" ng-bind="debugobj"></div>
     <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 </body>
 </html>
