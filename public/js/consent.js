@@ -1,8 +1,8 @@
 
-var app = angular.module('consentForm', []);
+var app = angular.module('consentForm', ['ngSanitize']);
 window.apptest = app;
 
-app.service('formStatus', function () {
+/*app.service('formStatus', function () {
   var scopeRegister = {};
   var candidateFN;
   var candidateLN;
@@ -32,7 +32,7 @@ app.service('formStatus', function () {
       scopeRegister[name] = scope;
     }
   }
-});
+});*/
 
 
 console.log("Loaded");

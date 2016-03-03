@@ -22,21 +22,24 @@ app.post("/test", function(request, response){
 });
 /*BEGIN API READERS*/
 app.post('/getSetup', function(request, response){
-	/*INPUTS are ?PID=123,124,125&CID=123*/
+	/*INPUTS are ?PHASES=123,124,125&ID=123*/
 
 	var examineeFile = fs.readFileSync(__dirname + "/public/data/Examinee.json");
 	var phaseFile = fs.readFileSync(__dirname + "/public/data/Phase.json");
-	var formConsentFile = fs.readFileSync(__dirname + "/public/data/FormConsent.json");
+	var formConsentFile = fs.readFileSync(__dirname + "/public/data/Terms.json");
 	var formConsent = JSON.parse(formConsentFile);
 	var examineeReturn;
 	/*Determine whether or not consent exists */
 	var examineeTable = JSON.parse(examineeFile);
 
-	var paramPhases = request.body.PID.split(",");
+	var paramPhases = request.body.PHASES.split("|");
+	var paramFormType = request.body.F;
+	var paramCandidateID = request.body.ID;
+	var paramLanguage = request.body.LANG;
 	var phasesNeeded = [];
 
 	examineeTable.forEach(function(examinee){
-		if (examinee.CandidateID+"" == request.body.CID && examinee.NoConsentForm == 1 && paramPhases.indexOf(""+examinee.PhaseID)>=0){
+		if (""+examinee.CandidateID == request.body.ID && examinee.NoConsentForm == 1 && paramPhases.indexOf(""+examinee.PhaseID)>=0){
 			phasesNeeded.push(examinee.PhaseID);
 			examineeReturn = {FirstName: examinee.FirstName, LastName: examinee.LastName};
 		}
@@ -45,16 +48,18 @@ app.post('/getSetup', function(request, response){
 	if(phasesNeeded.length >= 1){
 		var phaseTable = JSON.parse(phaseFile);
 		var returnList = [];
-		phasesNeeded.forEach(function(PID){
+		phasesNeeded.forEach(function(PHASES){
 			phaseTable.forEach(function(phase){
-				if(phase.PhaseID == PID){
+				if(phase.PhaseID == PHASES){
 					returnList.push({PhaseID: phase.PhaseID, PhaseName: phase.PhaseName, PhaseLanguageID: phase.PhaseLanguageID});
 				}
 			});
 		});
 		var forms = [];
+		console.log(request.body.F);
+
 		formConsent.forEach(function(form){
-			if(""+form.formTypeID == request.body.FT){
+			if(""+form.FormTypeID == request.body.F){
 				forms.push(form);
 			}
 		});
@@ -100,7 +105,7 @@ app.post('/getListValuesByPhaseID', function(request, response){
 	var PhaseDiagnosisFile = fs.readFileSync(__dirname + "/public/data/PhaseDiagnosis.json");
 	var LookupCodeFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupCodes.json");
 	var LookupValueFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupValues.json");
-	var phaseIDs = request.body.PID.split(',');
+	var phaseIDs = request.body.PHASES.split('|');
 	//var lookups = request.body.lookup.split(',');
 	var phase_services = JSON.parse(PhaseServiceFile);
 	var phase_diagnosises = JSON.parse(PhaseDiagnosisFile);
@@ -137,7 +142,7 @@ app.post('/getListValuesByPhaseID', function(request, response){
 	response.send(return_phases);
 });
 app.post('/getQuestions', function(request, response){
-	/*Here we're passing a list of phases. I'm sending ?PID=123,124,125*/
+	/*Here we're passing a list of phases. I'm sending ?PHASES=123,124,125*/
 
 	/*First we read the files, parse, and split the querystring into an array of phaseID strings */
 	var PhaseFormFile = fs.readFileSync(__dirname + "/public/data/PhaseForm.json");
@@ -150,8 +155,8 @@ app.post('/getQuestions', function(request, response){
 	var phase_form_questions = JSON.parse(PhaseFormQuestionFile);
 	var phase_questions = JSON.parse(PhaseQuestionFile);
 	var phase_question_responses = JSON.parse(PhaseQuestionResponseFile);
-	var phaseIDs = request.body.PID.split(',');
-	var formID = request.body.FT;
+	var phaseIDs = request.body.PHASES.split('|');
+	var formID = request.body.F;
 	var question_sets = [];
 	var phaseFormTypeIDs = [];
 	var return_phases = [];

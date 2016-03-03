@@ -47,7 +47,7 @@
     <select ng-model="examinee.FatherCountryOfOriginID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Country.values"></select>
     <label>Candidate's Language Country of Origin (required if Speaks Spanish selected for language)</label>
     <select ng-model="examinee.SelfCountryOfOriginID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Country.values"></select>
-
+    <button ng-click="changeTo(2)">Continue</button>
   </form>
 
 </div>

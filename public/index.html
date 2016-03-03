@@ -2,6 +2,7 @@
 <html lang="en-US">
 <head>
   <script src="js/Library/angular.min.js"></script>
+  <script src="js/Library/angular-sanitize.min.js"></script>
   <script src="js/consent.js"></script>
   <script src="js/controllers.js"></script>
   <script src="js/directives.js"></script>
@@ -11,10 +12,11 @@
 </head>
 <body ng-app="consentForm">
   <banner><debug-arrows></debug-arrows></banner>
-  <main>
-    <terms-and-agreement ng-show="current_index == 0"></terms-and-agreement>
-    <candidate-information ng-show="current_index == 1"></candidate-information>
-    <question-section ng-show="current_index == 2"></question-section>
+  <main class="animate-switch-container" ng-switch on="current_index">
+    <loader class="animate-switch" ng-switch-when="0"></loader>
+    <terms-and-agreement class="animate-switch" ng-switch-when="1" peanut-ng-show="current_index == 0"></terms-and-agreement>
+    <candidate-information class="animate-switch" ng-switch-when="2" peanut-ng-show="current_index == 1"></candidate-information>
+    <question-section class="animate-switch" ng-switch-when="3" peanut-ng-show="current_index == 2"></question-section>
   </main>
     <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 </body>
