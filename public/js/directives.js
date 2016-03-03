@@ -1,83 +1,26 @@
 angular.module('consentForm')
-.controller('Demographic',function($scope,$http,formStatus){
-
-  $scope.getRegex = function(name){
-    if(name == "day"){
-      return "^[1-9]$|^[0-2]\d$|^3[0-1]$";
-    } else if (name == "year") {
-      return "^19[0-9][0-9]$";
-    }
+.directive('debugdemo', function(){
+  return {
+    restrict: 'E',
+    replace: 'true',
+    controller: 'Demographic',
+    template: '<div>{{JSON.stringify(examinee)}}</div>'
   };
-  formStatus.addScope("Demographic",$scope);
-  $scope.debugobj = "";
-  $scope.setName = function(first,last){
-    $scope.examinee.FirstName = first;
-    $scope.examinee.LastName = last;
-  }
-  $scope.staticList = {
-    months : [{name: "January", value: 1},{name: "February",value: 2},{name: "March", value: 3},
-              {name: "April",value: 4},{name: "May", value: 5},{name: "June", value: 6},
-              {name: "July", value: 7},{name: "August", value: 8},{name: "September", value: 9},
-              {name: "October", value: 10},{name: "November", value: 11},{name: "December", value: 12}]
-  }
-  $scope.examinee = {
-    ExamineeID: null,
-    PhaseID: null,
-    CandidateID: null,
-    LastName: null,
-    FirstName: null,
-    MiddleInitial: null,
-    DateofBirth: null,
-    EmailAddress: null,
-    GenderID: null,
-    StateID: null,
-    LivesWithMother: null,
-    LivesWithFather: null,
-    LivesWithSelf: null,
-    MotherEdLevelID: null,
-    FatherEdLevelId: null,
-    SelfEdLevelID: null,
-    GradeID: null,
-    MotherCountryOfOriginID: null,
-    FatherCountryOfOriginID: null,
-    SelfCountryOfOriginID: null,
-    NoConsentForm: null,
-    DateOfConsent: null,
-    ConsentCollectedExaminerID: null,
-    ConsentCollectSiteID: null,
-    SignatureVerified: null,
-    SignatureVerifiedByUserID: null,
-    SignatureVerifiedDate: null,
-    DateRecieved: null,
-    ConsentFormTypeID: null,
-    StatusID: null,
-    LockUpdates: null,
-    WrongConsentForm: null,
-    LanguageSpokenAtHomeID: null,
-    OtherLanguageSpokenAtHome: null,
-    AnyMedications: null,
-    MedicationsList: null,
-    DoNotWishtoBeContacted: null,
-    ModelTest: "TRUE"
+})
+.directive('banner', function(){
+  return {
+    restrict: 'E',
+    replace: 'true',
+    templateUrl: '/views/Templates/banner.html'
   };
-  $scope.lookupLists = {};
-
-  $scope.lookup = function(codes){
-
-    $http.post('/getGenericList',{s: codes.join(',')}).then(function(response){
-      if(!response.error){
-        $scope.lookupLists = response.data;
-
-        console.log(response.data);
-      }
-    });
+})
+.directive("lorem", function(){
+  return {
+    restrict: 'AE',
+    replace: 'true',
+    controller: 'Signature',
+    templateUrl: '/views/Templates/lorem.html'
   };
-  lookup_init_list = ["Grade","Language","Country","Education Levels","Ethnicity"];
-  if(!$scope.lookupLists.hasGenerics){$scope.lookupLists.hasGenerics = true;$scope.lookup(lookup_init_list);}
-
-
-window.tester = $scope.lookupLists;
-window.scopetest = $scope;
 })
 .directive('demographic', function(){
   return {
@@ -137,8 +80,8 @@ window.scopetest = $scope;
       }
 
   }
-});
-app.directive('selectable', function(){
+})
+.directive('selectable', function(){
   return {
     restrict: "E",
     transclude: true,
@@ -165,8 +108,8 @@ app.directive('selectable', function(){
       }
     }
   };
-});
-app.directive('multiChoice', function(){
+})
+.directive('multiChoice', function(){
   console.log("multi-choice definition");
   return {
     restrict: "E",
@@ -178,8 +121,8 @@ app.directive('multiChoice', function(){
       });
     }
   };
-});
-app.directive('listSearch',function(){
+})
+.directive('listSearch',function(){
   return {
     restrict: "A",
     scope: true,
@@ -216,4 +159,96 @@ app.directive('listSearch',function(){
       });
     }
   };
+})
+.directive("signature", function($http){
+  function link(scope, element, attrs){
+
+  }
+  return {
+    restrict: 'E',
+    replace: 'true',
+    controller: 'Signature',
+    templateUrl: '/views/Templates/signature.html',
+    link: link
+  }
+})
+.directive("questionSection", function(){
+  return {
+    restrict: 'E',
+    replace: 'true',
+    controller: 'Question',
+    templateUrl: '/views/Templates/questionnaire.html'
+  };
+})
+.directive("questionSet", function(){
+  return {
+    restrict: 'E',
+    controller: 'Question',
+    replace: 'true'
+  };
+})
+.directive("qType", function(){
+  return {
+    require: '^^questionSet',
+    restrict: 'A',
+    replace: 'true',
+    scope: {
+
+    },
+    compile: function(tElem, tAttrs){
+      tElem.prepend("<p>{{question.QuestionText}} typof <b>{{typeMap[question.InputTypeID]}}</b></p>");
+
+      return {
+        post: function(scope, elem, attr, ctrl){
+          if(attr.qType == 5){
+            elem.append("<textarea name='" + attr.paseQuestionId + "' rows='4' cols='50'></textarea>");
+          }
+        }
+      };
+    }
+  }
+})
+.directive('response',function(){
+  return {
+    restrict: 'E',
+    replace: 'true',
+    compile: function(tElem, tAttrs){
+      //compile block
+      return {
+        pre: function(scope, elem, attrs, ctrl){
+
+          },
+        post: function(scope, elem, attrs, ctrl){
+          console.log("switch eval: " + parseInt(elem.parent().attr("qType")));
+          switch(parseInt(elem.parent().attr("q-type"))){
+            case 1:
+              //multiple choice
+              var parent = elem.parent();
+              var name = parent.attr("phase-question-id");
+              var value = attrs.pqrid;
+              elem.prepend("<input type='radio' name='" + name + "' value='" + value + "'/>");
+              break;
+            case 2:
+            //date
+              break;
+            case 3:
+            //date range
+              break;
+            case 4:
+            //numeric
+              break;
+            case 5:
+            //open ended
+              elem.prepend("<textarea name")
+              break;
+            case 6:
+            //non-std variable
+              break;
+            default:
+              console.log("default");
+            }
+        }
+      };
+    }
+  }
 });

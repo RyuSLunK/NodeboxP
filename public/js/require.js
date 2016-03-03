@@ -3,3 +3,4 @@ require('./bootstrap.min.js');
 require('./consent.js');
 require('./demographic.js');
 require('./signature.js');
+require('./directives.js');

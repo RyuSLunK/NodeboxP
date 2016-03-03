@@ -3,10 +3,8 @@
 <head>
   <script src="js/Library/angular.min.js"></script>
   <script src="js/consent.js"></script>
-  <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
-  <script src="js/signature.js"></script>
-  <script src="js/demographic.js"></script>
-  <script src="js/question.js"></script>
+  <script src="js/controllers.js"></script>
+  <script src="js/directives.js"></script>
   <link rel="stylesheet" href="/css/bootstrap.min.css" />
   <link rel="stylesheet" href="/css/app.css" />
 
@@ -14,14 +12,13 @@
 <body ng-app="consentForm">
   <banner></banner>
   <main>
+    <page></page>
     <signature></signature>
     <hr />
     <demographic></demographic>
     <question-section></question-section>
   </main>
-<!--  <p lorem ng-repeat='i in [1,2,3,4,5,6,7]'>
-
-</p>-->
   <div style="word-wrap:break-word;width:100%;background-color:black;color:white;font-size:16px;font-weight:bold;" ng-controller="Demographic" ng-bind="debugobj"></div>
+    <script src="https://code.jquery.com/jquery-2.2.1.min.js"></script>
 </body>
 </html>
