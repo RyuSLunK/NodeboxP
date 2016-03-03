@@ -67,17 +67,14 @@ app.post('/getSetup', function(request, response){
 app.post('/getGenericList',function(request, response){
 	/*This endpoint takes a lookup code and returns a lookup object which has the attributes of code and values*/
 	/*I'm sending a non case-sensitive code as a string. ?s=profession*/
-	console.log(request.body);
 	var lookupCodeFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupCodes.json");
 	var lookupValueFile = fs.readFileSync(__dirname + "/public/data/tlkpUDLookupValues.json");
 
 	var codeTable = JSON.parse(lookupCodeFile);
 	var valueTable = JSON.parse(lookupValueFile);
 	var keys = request.body.s.toLowerCase().split(',');
-	console.log("Key count is: " + request.body.s.toLowerCase().split(',').length);
 	var Lookups = {};
 /*We've read the files, parsed the JSON, and set up our Lookup object that we want to fill up*/
-	console.log("The keys are: " + keys.join('|'));
 	keys.forEach(function(key){
 		var temp_lookup = {};
 		codeTable.forEach(function(code){

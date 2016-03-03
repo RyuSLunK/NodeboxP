@@ -72,7 +72,7 @@ angular.module('consentForm')
       }
     });
   };
-  lookup_init_list = ["Grade","Language","Country","Education Levels"];
+  lookup_init_list = ["Grade","Language","Country","Education Levels","Ethnicity"];
   if(!$scope.lookupLists.hasGenerics){$scope.lookupLists.hasGenerics = true;$scope.lookup(lookup_init_list);}
 
 
@@ -143,10 +143,15 @@ app.directive('selectable', function(){
     restrict: "E",
     transclude: true,
     /*templateUrl: "/views/Templates/multi-select.html",*/
-    template: "<input type='text' list-search ng-model='search' placeholder='search'/><div multi-choice class='multi-select button' data-value='{{choice.LkpValue}}'>{{choice.ValueDescription}}</div>",
+    template: "<div></div><multi-choice class='multi-select button' data-value='{{choice.LkpValue}}'>{{choice.ValueDescription}}</multi-choice>",
     compile: function(elem, attrs){
       console.log("COMPILE");
+      console.log(attrs);
       elem.children().eq(1).attr("ng-repeat",'choice in ' + attrs.lookup);
+      if(attrs.searchable == "true"){
+        elem.prepend("<div class='scrollfix'><input type='text' list-search ng-model='search' placeholder='search'/></div>");
+        console.log(elem);
+      }
       return {
         pre: function(scope, elem, attrs, ctrl){
           console.log("PRE");
@@ -164,7 +169,7 @@ app.directive('selectable', function(){
 app.directive('multiChoice', function(){
   console.log("multi-choice definition");
   return {
-    restrict: "A",
+    restrict: "E",
     link: function(scope, elem, attrs){
       console.log("multi-choice");
       elem.bind("click",function(){
@@ -184,7 +189,7 @@ app.directive('listSearch',function(){
 
       scope.$watch('search',function(newValue, oldValue){
         var val = newValue;
-        var elems = elem.parent().find("div");
+        var elems = elem.parent().parent().find("multi-choice");
         if(val == ''){
 
           for(var i=0;i<elems.length;i++){

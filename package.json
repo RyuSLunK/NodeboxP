@@ -4,11 +4,12 @@
   "description": "A sample Node.js app using Express 4",
   "main": "index.js",
   "scripts": {
+    "dev": "webpack-dev-server --content-base public --inline --hot",
     "start": "node index.js"
   },
   "dependencies": {
     "express": "^4.13.3",
-	"crypto": "^0.0.3"
+    "crypto": "^0.0.3"
   },
   "engines": {
     "node": "4.0.0"
@@ -26,5 +27,11 @@
   "contributors": [
     "Zeke Sikelianos <zeke@sikelianos.com> (http://zeke.sikelianos.com)"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.2.0",
+    "html-webpack-plugin": "^2.9.0"
+  }
 }

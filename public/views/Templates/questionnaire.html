@@ -1,0 +1,6 @@
+<div>
+<question-set ng-repeat="phase in phases">
+  <h1>Questions for Phase {{phase.PhaseID}}</h1>
+  <question q-type="{{question.InputTypeID}}" ng-repeat="question in phase.questions"></question>
+</question-set>
+</div>

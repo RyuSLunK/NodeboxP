@@ -8,6 +8,7 @@
       <label>MI:</label>
       <input type="text" ng-model="examinee.MiddleInitial" />
     </fieldset>
+    <h1>Things 1</h1>
     <fieldset class="dob">
       <label>DOB (mm/dd/yyy):</label>
       <select ng-model="examinee.DOB.month" ng-options="item.value as item.name for item in staticList.months">
@@ -18,6 +19,7 @@
       <input type="text" ng-disabled="!examinee.DOB.day" pattern="{{getRegex('year')}}" ng-model="examinee.DOB.year" placeholder="Year" />
     </fieldset>
     <fieldset>
+      <label>Gender:</label><br>
       <input type="radio" ng-model="examinee.GenderID" value="1">Male
       <input type="radio" ng-model="examinee.GenderID" value="2">Female
     </fieldset>
@@ -26,7 +28,7 @@
 
 
 
-      <selectable highlight lookup="lookupLists.Country.values"></selectable>
+      <selectable searchable="false" highlight lookup="lookupLists.Ethnicity.values"></selectable>
 
 
 </fieldset>
@@ -37,17 +39,15 @@
     <!-- Language Goes here -->
     <label>**The language spoken most often in the home is:</label>
     <select ng-model="examinee.LanguageSpokenAtHomeID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Language.values"></select>
-    <label>**If other language (please specify):</label>
-    <input type="text" ng-model="examinee.OtherLanguageSpokenAtHome" />
+    <label ng-show="examinee.LanguageSpokenAtHomeID == 285">**If other language (please specify):</label>
+    <input type="text" ng-show="examinee.LanguageSpokenAtHomeID == 285" ng-model="examinee.OtherLanguageSpokenAtHome" />
     <label>Mother's Language Country of Origin (required if Speaks Spanish selected for language)</label>
-    <select ng-model="examinee.MotherCountryOfOriginID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Country.values"></select>
+    <select ng-show="" ng-model="examinee.MotherCountryOfOriginID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Country.values"></select>
     <label>Father's Language Country of Origin (required if Speaks Spanish selected for language)</label>
     <select ng-model="examinee.FatherCountryOfOriginID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Country.values"></select>
     <label>Candidate's Language Country of Origin (required if Speaks Spanish selected for language)</label>
     <select ng-model="examinee.SelfCountryOfOriginID" ng-options="item.LkpValue as item.ValueDescription for item in lookupLists.Country.values"></select>
+
   </form>
-  <div thingy ng-init="examinee.boss = 'Boss';" ng-model="examinee.boss">
-    <p>{{examinee.boss}}
-    </p>
-    </div>
+
 </div>

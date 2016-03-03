@@ -55,6 +55,35 @@ form > select, form > input{
 fieldset.names > *{
   display: block;
 }
+form.cinfo{
+  border: 2px solid blue;
+  padding: 2em;
+}
+form.cinfo > fieldset, form.cinfo > select, form.cinfo > input{
+  width: 100%;
+}
+selectable{
+  max-height: 250px;
+  overflow-y: scroll;
+  display: block;
+  width: 100%;
+}
+selectable  input{
+  position: absolute;
+  width: 100%;
+}
+.scrollfix{
+  height: 30px;
+  width: 100%;
+  margin: auto;
+  display: block;
+  position: relative;
+}
+
+form.cinfo > fieldset{
+  border: 2px solid red;
+  margin: 20px 0px;
+}
 fieldset.dob > label{
   display: block;
 }
@@ -66,13 +95,14 @@ input.ng-invalid.ng-dirty{
   border-radius: 2px;
   border: 2px solid red;
 }
-selectable > div{
+multi-choice{
   cursor: pointer;
+  display: block;
 }
-selectable > div:hover{
+multi-choice:hover{
   color: blue;
 }
-selectable > div.selected{
+multi-choice.selected{
   font-weight: bold;
 }
 [highlight]{
