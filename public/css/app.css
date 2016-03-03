@@ -111,3 +111,6 @@ multi-choice.selected{
 [highlight]:hover{
   border: 2px solid green;
 }
+response {
+  display: block;
+}

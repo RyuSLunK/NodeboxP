@@ -1,6 +1,8 @@
 <div>
 <question-set ng-repeat="phase in phases">
   <h1>Questions for Phase {{phase.PhaseID}}</h1>
-  <question q-type="{{question.InputTypeID}}" ng-repeat="question in phase.questions"></question>
+  <question phase-question-id="{{question.PhaseQuestionID}}" q-type="{{question.InputTypeID}}" ng-repeat="question in phase.questions">
+    <response ng-repeat="response in question.PhaseQuestionResponses" pqrid="{{response.PhaseQuestionResponseID}}">{{response.ResponseText}}</response>
+  </question>
 </question-set>
 </div>
